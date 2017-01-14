@@ -1,0 +1,1365 @@
+#	Voxelization File From WebG3D_IFC V1.0
+
+#	Scene BBox Min:	
+&	-320.992	-24.9787	-17.473	3.92117
+#	Scene BBox Max:	71.125	134.292	11.1157
+#	Resolution(x,y,z):	100	40	7
+#	Voxel Size:	3.92117
+
+
+*   -270    126     6       2   3   1      W            -270    129     7
+*   -206    102     -1      0.5 2   1      R2-1-3-2     -203    102     -1
+*   -206    112     -1      0.5 2   2      R2-1-3-2     -203    112     -1
+*   -205    100     -1      0.5 2   1      R2-1-3-2     -202    100     -1
+*   -263.2  104     -2      2   0.5 2      R2-2         -264    106     -6
+*   -309    95      -2      3   0.5 3      R2-2         -309    95      -5
+*   -307    109     -2      4   0.5 3      R2-2         -307    109     -5
+*   -299.5  111     -2.5    1   0.5 2      R2-2         -300    111     -5
+*   -300    96      -2.5    2   0.5 2      R2-2         -300    96      -5
+
+@   -205     -1     115      1   2   1
+@   -286     9     130      2   0.5   4
+@   -299     9     131      3   0.5   4
+@   -308     9     131      3   0.5   4
+@   -318     9     132      3   0.5   4
+@   -314     5     106      20   2   1
+@   -268     5     112      1   4   5
+@   -288     6     127      4   1   1
+@   -312     -1     117      10   3   1
+@   -298     -2     115      10   3   1
+@   -290     2     130      1   3   10
+@   -283     5     108      20   2   1
+
+!   -277   0   106      220     -30
+
+%	13
+
+^	444		2545
+
+
+#	Voxel Record Begin
+1	30	2	1	2217895=IfcWallStandardCase
+1	30	3	1	2217895=IfcWallStandardCase
+1	30	4	4	17084=IfcBeam	2217895=IfcWallStandardCase	2622837=IfcWallStandardCase	2687669=IfcBeam
+1	30	5	2	2217895=IfcWallStandardCase	2622837=IfcWallStandardCase
+1	30	6	7	25467=IfcBeam	25575=IfcBeam	35693=IfcSlab	2217895=IfcWallStandardCase	2622837=IfcWallStandardCase	2696732=IfcBeam	2697021=IfcBeam
+1	31	2	1	2217895=IfcWallStandardCase
+1	31	3	2	95335=IfcFlowSegment	2217895=IfcWallStandardCase
+1	31	4	8	95335=IfcFlowSegment	15629=IfcBeam	17084=IfcBeam	18909=IfcSlab	2217895=IfcWallStandardCase	2622837=IfcWallStandardCase	2684994=IfcBeam	2687669=IfcBeam
+1	31	5	5	95174=IfcFlowSegment	95335=IfcFlowSegment	95410=IfcFlowFitting	2217895=IfcWallStandardCase	2622837=IfcWallStandardCase
+1	31	6	7	25467=IfcBeam	25575=IfcBeam	35693=IfcSlab	2217895=IfcWallStandardCase	2622837=IfcWallStandardCase	2696732=IfcBeam	2697021=IfcBeam
+1	32	2	1	2217895=IfcWallStandardCase
+1	32	3	1	2217895=IfcWallStandardCase
+1	32	4	5	9905=IfcWallStandardCase	15629=IfcBeam	18909=IfcSlab	2217895=IfcWallStandardCase	2684994=IfcBeam
+1	32	5	3	9905=IfcWallStandardCase	95174=IfcFlowSegment	2217895=IfcWallStandardCase
+1	32	6	5	9905=IfcWallStandardCase	25575=IfcBeam	35693=IfcSlab	2217895=IfcWallStandardCase	2697021=IfcBeam
+1	33	1	1	2217895=IfcWallStandardCase
+1	33	2	2	2217895=IfcWallStandardCase	2675583=IfcColumn
+1	33	3	3	153665=IfcFlowSegment	2217895=IfcWallStandardCase	2675583=IfcColumn
+1	33	4	7	15629=IfcBeam	18909=IfcSlab	99943=IfcFlowSegment	153665=IfcFlowSegment	2217895=IfcWallStandardCase	2675583=IfcColumn	2684994=IfcBeam
+1	33	5	13	416=IfcFlowSegment	94928=IfcFlowSegment	95013=IfcFlowSegment	95088=IfcFlowFitting	95174=IfcFlowSegment	95249=IfcFlowFitting	96345=IfcFlowSegment	99782=IfcFlowSegment	99857=IfcFlowFitting	99943=IfcFlowSegment	862947=IfcFlowFitting	2217895=IfcWallStandardCase	2675583=IfcColumn
+1	33	6	5	25575=IfcBeam	35693=IfcSlab	2217895=IfcWallStandardCase	2675583=IfcColumn	2697021=IfcBeam
+1	34	1	1	2217895=IfcWallStandardCase
+1	34	2	3	2217895=IfcWallStandardCase	2675740=IfcColumn	2723315=IfcWallStandardCase
+1	34	3	3	2217895=IfcWallStandardCase	2675740=IfcColumn	2723315=IfcWallStandardCase
+1	34	4	6	15629=IfcBeam	18909=IfcSlab	2217895=IfcWallStandardCase	2675740=IfcColumn	2684994=IfcBeam	2723315=IfcWallStandardCase
+1	34	5	16	100117=IfcFlowSegment	101186=IfcFlowFitting	101266=IfcFlowFitting	101357=IfcFlowSegment	102570=IfcFlowFitting	102648=IfcFlowFitting	94602=IfcFlowSegment	94687=IfcFlowSegment	94842=IfcFlowFitting	94928=IfcFlowSegment	96175=IfcFlowSegment	96260=IfcFlowSegment	96345=IfcFlowSegment	98879=IfcFlowFitting	2217895=IfcWallStandardCase	2675740=IfcColumn
+1	34	6	11	94274=IfcFlowSegment	94687=IfcFlowSegment	94766=IfcFlowFitting	35693=IfcSlab	35760=IfcSlab	96090=IfcFlowSegment	96175=IfcFlowSegment	98803=IfcFlowFitting	2217895=IfcWallStandardCase	2675740=IfcColumn	2725959=IfcBeam
+1	34	7	2	35760=IfcSlab	2725959=IfcBeam
+1	35	2	1	2217895=IfcWallStandardCase
+1	35	4	4	15629=IfcBeam	18909=IfcSlab	2217895=IfcWallStandardCase	2684994=IfcBeam
+1	35	5	1	2217895=IfcWallStandardCase
+1	35	6	4	94274=IfcFlowSegment	35760=IfcSlab	96090=IfcFlowSegment	2217895=IfcWallStandardCase
+1	35	7	1	35760=IfcSlab
+1	36	2	2	2217895=IfcWallStandardCase	2723249=IfcWallStandardCase
+1	36	3	4	102735=IfcFlowSegment	155815=IfcFlowSegment	2217895=IfcWallStandardCase	2723249=IfcWallStandardCase
+1	36	4	11	102735=IfcFlowSegment	15629=IfcBeam	15727=IfcBeam	38167=IfcBeam	18909=IfcSlab	155815=IfcFlowSegment	2217895=IfcWallStandardCase	2684994=IfcBeam	2685359=IfcBeam	2723249=IfcWallStandardCase	2728714=IfcBeam
+1	36	5	6	2662=IfcWallStandardCase	102735=IfcFlowSegment	36077=IfcSlab	38167=IfcBeam	2217895=IfcWallStandardCase	2728714=IfcBeam
+1	36	6	10	100028=IfcFlowSegment	2662=IfcWallStandardCase	102735=IfcFlowSegment	102824=IfcFlowSegment	103596=IfcFlowFitting	94274=IfcFlowSegment	105618=IfcFlowFitting	35760=IfcSlab	96090=IfcFlowSegment	2217895=IfcWallStandardCase
+1	36	7	2	2662=IfcWallStandardCase	35760=IfcSlab
+1	37	1	2	2659132=IfcColumn	2659174=IfcColumn
+1	37	2	3	2217895=IfcWallStandardCase	2659132=IfcColumn	2659174=IfcColumn
+1	37	3	3	2217895=IfcWallStandardCase	2659132=IfcColumn	2659174=IfcColumn
+1	37	4	7	15727=IfcBeam	38167=IfcBeam	2217895=IfcWallStandardCase	2659132=IfcColumn	2659174=IfcColumn	2685359=IfcBeam	2728714=IfcBeam
+1	37	5	9	2662=IfcWallStandardCase	34480=IfcBeam	36077=IfcSlab	38167=IfcBeam	2217895=IfcWallStandardCase	2659132=IfcColumn	2659174=IfcColumn	2714005=IfcBeam	2728714=IfcBeam
+1	37	6	20	100028=IfcFlowSegment	2662=IfcWallStandardCase	93946=IfcFlowSegment	94274=IfcFlowSegment	94359=IfcFlowSegment	94438=IfcFlowFitting	94516=IfcFlowFitting	35760=IfcSlab	35860=IfcSlab	96001=IfcFlowSegment	96090=IfcFlowSegment	98645=IfcFlowFitting	98723=IfcFlowFitting	99224=IfcFlowSegment	99309=IfcFlowSegment	99618=IfcFlowFitting	99696=IfcFlowFitting	2217895=IfcWallStandardCase	2659132=IfcColumn	2659174=IfcColumn
+1	37	7	3	2662=IfcWallStandardCase	35760=IfcSlab	35860=IfcSlab
+1	38	5	3	8646=IfcWallStandardCase	2662=IfcWallStandardCase	36077=IfcSlab
+1	38	6	7	8646=IfcWallStandardCase	2662=IfcWallStandardCase	93946=IfcFlowSegment	35860=IfcSlab	95916=IfcFlowSegment	98645=IfcFlowFitting	99224=IfcFlowSegment
+1	38	7	3	8646=IfcWallStandardCase	2662=IfcWallStandardCase	35860=IfcSlab
+1	39	5	4	2662=IfcWallStandardCase	34777=IfcBeam	36077=IfcSlab	2714302=IfcBeam
+1	39	6	19	2662=IfcWallStandardCase	93857=IfcFlowSegment	93946=IfcFlowSegment	94031=IfcFlowSegment	94106=IfcFlowFitting	94184=IfcFlowFitting	95742=IfcFlowSegment	95827=IfcFlowSegment	35860=IfcSlab	95916=IfcFlowSegment	98487=IfcFlowFitting	98565=IfcFlowFitting	99050=IfcFlowSegment	99135=IfcFlowSegment	99224=IfcFlowSegment	99460=IfcFlowFitting	99538=IfcFlowFitting	1795485=IfcWallStandardCase	1795680=IfcWallStandardCase
+1	39	7	4	2662=IfcWallStandardCase	35860=IfcSlab	1795485=IfcWallStandardCase	1795680=IfcWallStandardCase
+1	40	5	4	2662=IfcWallStandardCase	34777=IfcBeam	36077=IfcSlab	2714302=IfcBeam
+1	40	6	13	2662=IfcWallStandardCase	93857=IfcFlowSegment	95496=IfcFlowSegment	95571=IfcFlowFitting	95657=IfcFlowSegment	95742=IfcFlowSegment	35860=IfcSlab	98410=IfcFlowFitting	98965=IfcFlowSegment	99050=IfcFlowSegment	99384=IfcFlowFitting	1795485=IfcWallStandardCase	1795680=IfcWallStandardCase
+1	40	7	7	2662=IfcWallStandardCase	95496=IfcFlowSegment	95657=IfcFlowSegment	35860=IfcSlab	98965=IfcFlowSegment	1795485=IfcWallStandardCase	1795680=IfcWallStandardCase
+1	41	5	3	2662=IfcWallStandardCase	2803=IfcWallStandardCase	36077=IfcSlab
+1	41	6	4	2662=IfcWallStandardCase	2803=IfcWallStandardCase	1795485=IfcWallStandardCase	1795615=IfcWallStandardCase
+1	41	7	4	2662=IfcWallStandardCase	2803=IfcWallStandardCase	1795485=IfcWallStandardCase	1795615=IfcWallStandardCase
+2	30	4	3	17084=IfcBeam	2622837=IfcWallStandardCase	2686935=IfcBeam
+2	30	5	1	2622837=IfcWallStandardCase
+2	30	6	4	25467=IfcBeam	35693=IfcSlab	2622837=IfcWallStandardCase	2696732=IfcBeam
+2	31	3	1	157267=IfcFlowSegment
+2	31	4	7	16780=IfcBeam	17084=IfcBeam	18909=IfcSlab	157267=IfcFlowSegment	2622837=IfcWallStandardCase	2686935=IfcBeam	2687669=IfcBeam
+2	31	5	1	2622837=IfcWallStandardCase
+2	31	6	4	25467=IfcBeam	35693=IfcSlab	2622837=IfcWallStandardCase	2696732=IfcBeam
+2	32	4	4	9905=IfcWallStandardCase	16780=IfcBeam	18909=IfcSlab	2686935=IfcBeam
+2	32	5	1	9905=IfcWallStandardCase
+2	32	6	2	9905=IfcWallStandardCase	35693=IfcSlab
+2	33	2	1	2675418=IfcColumn
+2	33	3	1	2675418=IfcColumn
+2	33	4	4	16780=IfcBeam	18909=IfcSlab	2675418=IfcColumn	2686935=IfcBeam
+2	33	5	2	416=IfcFlowSegment	2675418=IfcColumn
+2	33	6	2	35693=IfcSlab	2675418=IfcColumn
+2	34	2	1	36990=IfcColumn
+2	34	3	1	36990=IfcColumn
+2	34	4	2	36990=IfcColumn	18909=IfcSlab
+2	34	5	1	36990=IfcColumn
+2	34	6	4	35693=IfcSlab	35760=IfcSlab	36990=IfcColumn	2725959=IfcBeam
+2	34	7	2	35760=IfcSlab	2725959=IfcBeam
+2	35	4	1	18909=IfcSlab
+2	35	6	1	35760=IfcSlab
+2	35	7	1	35760=IfcSlab
+2	36	3	1	153763=IfcFlowSegment
+2	36	4	7	15727=IfcBeam	38167=IfcBeam	18909=IfcSlab	153763=IfcFlowSegment	2685359=IfcBeam	2725159=IfcColumn	2728714=IfcBeam
+2	36	5	4	36077=IfcSlab	38167=IfcBeam	2725159=IfcColumn	2728714=IfcBeam
+2	36	6	2	35760=IfcSlab	2725159=IfcColumn
+2	36	7	1	35760=IfcSlab
+2	37	4	4	15727=IfcBeam	38167=IfcBeam	2725159=IfcColumn	2728714=IfcBeam
+2	37	5	7	34480=IfcBeam	36077=IfcSlab	38167=IfcBeam	2714005=IfcBeam	2725159=IfcColumn	2728714=IfcBeam	1795013=IfcColumn
+2	37	6	4	35760=IfcSlab	35860=IfcSlab	2725159=IfcColumn	1795013=IfcColumn
+2	37	7	2	35760=IfcSlab	35860=IfcSlab
+2	38	5	2	8646=IfcWallStandardCase	36077=IfcSlab
+2	38	6	2	8646=IfcWallStandardCase	35860=IfcSlab
+2	38	7	2	8646=IfcWallStandardCase	35860=IfcSlab
+2	39	5	4	34777=IfcBeam	36077=IfcSlab	2714302=IfcBeam	1794678=IfcColumn
+2	39	6	4	35860=IfcSlab	1794678=IfcColumn	1795550=IfcWallStandardCase	1795680=IfcWallStandardCase
+2	39	7	3	35860=IfcSlab	1795550=IfcWallStandardCase	1795680=IfcWallStandardCase
+2	40	5	19	34777=IfcBeam	36077=IfcSlab	2344777=IfcFlowSegment	2344863=IfcFlowSegment	2345035=IfcFlowSegment	2345121=IfcFlowSegment	2345207=IfcFlowSegment	2345528=IfcFlowFitting	2345846=IfcFlowFitting	2347347=IfcFlowController	2347531=IfcFlowController	2347639=IfcFlowSegment	2347990=IfcFlowSegment	2348065=IfcFlowController	2348166=IfcFlowSegment	2348242=IfcFlowController	2348343=IfcFlowSegment	2714302=IfcBeam	1794678=IfcColumn
+2	40	6	48	35860=IfcSlab	2344531=IfcFlowSegment	2344606=IfcFlowFitting	2344692=IfcFlowSegment	2344777=IfcFlowSegment	2344949=IfcFlowSegment	2345292=IfcFlowSegment	2345367=IfcFlowFitting	2345453=IfcFlowSegment	2345610=IfcFlowFitting	2345695=IfcFlowSegment	2345770=IfcFlowFitting	2345928=IfcFlowFitting	2346013=IfcFlowSegment	2346088=IfcFlowFitting	2346174=IfcFlowSegment	2346250=IfcFlowFitting	2346335=IfcFlowSegment	2346410=IfcFlowFitting	2346496=IfcFlowSegment	2346571=IfcFlowFitting	2346658=IfcFlowSegment	2346733=IfcFlowFitting	2346815=IfcFlowFitting	2346897=IfcFlowFitting	2346980=IfcFlowController	2347088=IfcFlowSegment	2347164=IfcFlowController	2347272=IfcFlowSegment	2347347=IfcFlowController	2347455=IfcFlowSegment	2347531=IfcFlowController	2347714=IfcFlowController	2347814=IfcFlowSegment	2347890=IfcFlowController	2347990=IfcFlowSegment	2348166=IfcFlowSegment	2348418=IfcFlowController	2348526=IfcFlowSegment	2348601=IfcFlowController	2348686=IfcFlowSegment	2348761=IfcFlowController	2348846=IfcFlowSegment	2354185=IfcFlowSegment	2354265=IfcFlowFitting	1794678=IfcColumn	1795550=IfcWallStandardCase	1795680=IfcWallStandardCase
+2	40	7	3	35860=IfcSlab	1795550=IfcWallStandardCase	1795680=IfcWallStandardCase
+2	41	5	2	2803=IfcWallStandardCase	36077=IfcSlab
+2	41	6	4	2803=IfcWallStandardCase	35860=IfcSlab	1795550=IfcWallStandardCase	1795615=IfcWallStandardCase
+2	41	7	4	2803=IfcWallStandardCase	35860=IfcSlab	1795550=IfcWallStandardCase	1795615=IfcWallStandardCase
+3	30	4	3	17084=IfcBeam	2622837=IfcWallStandardCase	2686935=IfcBeam
+3	30	5	1	2622837=IfcWallStandardCase
+3	30	6	4	25467=IfcBeam	35693=IfcSlab	2622837=IfcWallStandardCase	2696732=IfcBeam
+3	31	4	7	16780=IfcBeam	17084=IfcBeam	18909=IfcSlab	2622837=IfcWallStandardCase	2686935=IfcBeam	2687669=IfcBeam	2823530=IfcRailing
+3	31	5	2	2622837=IfcWallStandardCase	2823530=IfcRailing
+3	31	6	4	25467=IfcBeam	35693=IfcSlab	2622837=IfcWallStandardCase	2696732=IfcBeam
+3	32	4	7	9905=IfcWallStandardCase	16780=IfcBeam	16859=IfcBeam	18909=IfcSlab	2686935=IfcBeam	2687014=IfcBeam	2823530=IfcRailing
+3	32	5	2	9905=IfcWallStandardCase	2823530=IfcRailing
+3	32	6	2	9905=IfcWallStandardCase	35693=IfcSlab
+3	33	2	1	2675418=IfcColumn
+3	33	3	1	2675418=IfcColumn
+3	33	4	4	16780=IfcBeam	18909=IfcSlab	2675418=IfcColumn	2686935=IfcBeam
+3	33	5	2	416=IfcFlowSegment	2675418=IfcColumn
+3	33	6	2	35693=IfcSlab	2675418=IfcColumn
+3	34	2	1	36990=IfcColumn
+3	34	3	1	36990=IfcColumn
+3	34	4	10	2193=IfcBeam	9297=IfcWallStandardCase	9361=IfcWallStandardCase	15954=IfcBeam	36990=IfcColumn	18909=IfcSlab	2130882=IfcBeam	2685825=IfcBeam	2721713=IfcWallStandardCase	2828176=IfcRailing
+3	34	5	5	9297=IfcWallStandardCase	9361=IfcWallStandardCase	36990=IfcColumn	2721713=IfcWallStandardCase	2828176=IfcRailing
+3	34	6	7	9297=IfcWallStandardCase	9361=IfcWallStandardCase	35693=IfcSlab	35760=IfcSlab	36990=IfcColumn	2721713=IfcWallStandardCase	2725959=IfcBeam
+3	34	7	3	9297=IfcWallStandardCase	35760=IfcSlab	2725959=IfcBeam
+3	35	4	7	9297=IfcWallStandardCase	15954=IfcBeam	16169=IfcBeam	18909=IfcSlab	2685825=IfcBeam	2686061=IfcBeam	2828176=IfcRailing
+3	35	5	2	9297=IfcWallStandardCase	2828176=IfcRailing
+3	35	6	2	9297=IfcWallStandardCase	35760=IfcSlab
+3	35	7	2	9297=IfcWallStandardCase	35760=IfcSlab
+3	36	3	1	153763=IfcFlowSegment
+3	36	4	10	9297=IfcWallStandardCase	15727=IfcBeam	15954=IfcBeam	38167=IfcBeam	18909=IfcSlab	153763=IfcFlowSegment	2685359=IfcBeam	2685825=IfcBeam	2728714=IfcBeam	1795421=IfcWallStandardCase
+3	36	5	7	9166=IfcWallStandardCase	9232=IfcWallStandardCase	9297=IfcWallStandardCase	36077=IfcSlab	38167=IfcBeam	2728714=IfcBeam	1795421=IfcWallStandardCase
+3	36	6	5	9166=IfcWallStandardCase	9232=IfcWallStandardCase	9297=IfcWallStandardCase	35760=IfcSlab	1795421=IfcWallStandardCase
+3	36	7	5	9166=IfcWallStandardCase	9232=IfcWallStandardCase	9297=IfcWallStandardCase	35760=IfcSlab	1795421=IfcWallStandardCase
+3	37	4	3	15727=IfcBeam	38167=IfcBeam	2728714=IfcBeam
+3	37	5	7	9166=IfcWallStandardCase	34480=IfcBeam	36077=IfcSlab	38167=IfcBeam	797049=IfcDoor	2714005=IfcBeam	2728714=IfcBeam
+3	37	6	4	9166=IfcWallStandardCase	35760=IfcSlab	35860=IfcSlab	797049=IfcDoor
+3	37	7	3	9166=IfcWallStandardCase	35760=IfcSlab	35860=IfcSlab
+3	38	5	4	9166=IfcWallStandardCase	8581=IfcWallStandardCase	8646=IfcWallStandardCase	36077=IfcSlab
+3	38	6	4	9166=IfcWallStandardCase	8581=IfcWallStandardCase	8646=IfcWallStandardCase	35860=IfcSlab
+3	38	7	4	9166=IfcWallStandardCase	8581=IfcWallStandardCase	8646=IfcWallStandardCase	35860=IfcSlab
+3	39	5	5	8581=IfcWallStandardCase	8711=IfcWallStandardCase	34777=IfcBeam	36077=IfcSlab	2714302=IfcBeam
+3	39	6	4	8581=IfcWallStandardCase	8711=IfcWallStandardCase	35860=IfcSlab	1795810=IfcWallStandardCase
+3	39	7	4	8581=IfcWallStandardCase	8711=IfcWallStandardCase	35860=IfcSlab	1795810=IfcWallStandardCase
+3	40	5	23	8581=IfcWallStandardCase	34777=IfcBeam	36077=IfcSlab	2347347=IfcFlowController	2347531=IfcFlowController	2348065=IfcFlowController	2348242=IfcFlowController	2349177=IfcFlowSegment	2349263=IfcFlowSegment	2349435=IfcFlowSegment	2349521=IfcFlowSegment	2349607=IfcFlowSegment	2349928=IfcFlowFitting	2350246=IfcFlowFitting	2351747=IfcFlowController	2351931=IfcFlowController	2352039=IfcFlowSegment	2352390=IfcFlowSegment	2352465=IfcFlowController	2352566=IfcFlowSegment	2352642=IfcFlowController	2352743=IfcFlowSegment	2714302=IfcBeam
+3	40	6	55	8581=IfcWallStandardCase	35860=IfcSlab	2346980=IfcFlowController	2347164=IfcFlowController	2347347=IfcFlowController	2347531=IfcFlowController	2347714=IfcFlowController	2347890=IfcFlowController	2348418=IfcFlowController	2348931=IfcFlowSegment	2349006=IfcFlowFitting	2349092=IfcFlowSegment	2349177=IfcFlowSegment	2349349=IfcFlowSegment	2349692=IfcFlowSegment	2349767=IfcFlowFitting	2349853=IfcFlowSegment	2350010=IfcFlowFitting	2350095=IfcFlowSegment	2350170=IfcFlowFitting	2350328=IfcFlowFitting	2350413=IfcFlowSegment	2350488=IfcFlowFitting	2350574=IfcFlowSegment	2350650=IfcFlowFitting	2350735=IfcFlowSegment	2350810=IfcFlowFitting	2350896=IfcFlowSegment	2350971=IfcFlowFitting	2351058=IfcFlowSegment	2351133=IfcFlowFitting	2351215=IfcFlowFitting	2351297=IfcFlowFitting	2351380=IfcFlowController	2351488=IfcFlowSegment	2351564=IfcFlowController	2351672=IfcFlowSegment	2351747=IfcFlowController	2351855=IfcFlowSegment	2351931=IfcFlowController	2352114=IfcFlowController	2352214=IfcFlowSegment	2352290=IfcFlowController	2352390=IfcFlowSegment	2352566=IfcFlowSegment	2352818=IfcFlowController	2352926=IfcFlowSegment	2353001=IfcFlowController	2353086=IfcFlowSegment	2353161=IfcFlowController	2353246=IfcFlowSegment	2353331=IfcFlowSegment	2354091=IfcFlowFitting	1795810=IfcWallStandardCase	1795875=IfcWallStandardCase
+3	40	7	4	8581=IfcWallStandardCase	35860=IfcSlab	1795810=IfcWallStandardCase	1795875=IfcWallStandardCase
+3	41	5	3	8581=IfcWallStandardCase	2803=IfcWallStandardCase	36077=IfcSlab
+3	41	6	5	8581=IfcWallStandardCase	2803=IfcWallStandardCase	35860=IfcSlab	1795745=IfcWallStandardCase	1795875=IfcWallStandardCase
+3	41	7	5	8581=IfcWallStandardCase	2803=IfcWallStandardCase	35860=IfcSlab	1795745=IfcWallStandardCase	1795875=IfcWallStandardCase
+4	30	4	2	17084=IfcBeam	2622837=IfcWallStandardCase
+4	30	5	1	2622837=IfcWallStandardCase
+4	30	6	5	25467=IfcBeam	35693=IfcSlab	25795=IfcBeam	2622837=IfcWallStandardCase	2696732=IfcBeam
+4	31	4	7	16701=IfcBeam	17084=IfcBeam	18909=IfcSlab	2622837=IfcWallStandardCase	2686757=IfcBeam	2687669=IfcBeam	2823530=IfcRailing
+4	31	5	2	2622837=IfcWallStandardCase	2823530=IfcRailing
+4	31	6	6	25467=IfcBeam	35693=IfcSlab	25795=IfcBeam	2622837=IfcWallStandardCase	2696732=IfcBeam	2697241=IfcBeam
+4	32	4	7	9905=IfcWallStandardCase	16701=IfcBeam	16859=IfcBeam	18909=IfcSlab	2686757=IfcBeam	2687014=IfcBeam	2823530=IfcRailing
+4	32	5	2	9905=IfcWallStandardCase	2823530=IfcRailing
+4	32	6	4	9905=IfcWallStandardCase	35693=IfcSlab	25795=IfcBeam	2697241=IfcBeam
+4	33	4	3	16701=IfcBeam	18909=IfcSlab	2686757=IfcBeam
+4	33	5	4	902=IfcFlowSegment	810=IfcFlowFitting	416=IfcFlowSegment	169=IfcFlowSegment
+4	33	6	3	35693=IfcSlab	25795=IfcBeam	2697241=IfcBeam
+4	34	4	8	2193=IfcBeam	9361=IfcWallStandardCase	16071=IfcBeam	18909=IfcSlab	2130882=IfcBeam	2685963=IfcBeam	2828176=IfcRailing	2832284=IfcRailing
+4	34	5	4	169=IfcFlowSegment	9361=IfcWallStandardCase	2828176=IfcRailing	2832284=IfcRailing
+4	34	6	5	9361=IfcWallStandardCase	35693=IfcSlab	35760=IfcSlab	2725728=IfcBeam	2725959=IfcBeam
+4	34	7	3	35760=IfcSlab	2725728=IfcBeam	2725959=IfcBeam
+4	35	4	7	16071=IfcBeam	16169=IfcBeam	18909=IfcSlab	2685963=IfcBeam	2686061=IfcBeam	2828176=IfcRailing	2832284=IfcRailing
+4	35	5	3	169=IfcFlowSegment	2828176=IfcRailing	2832284=IfcRailing
+4	35	6	1	35760=IfcSlab
+4	35	7	1	35760=IfcSlab
+4	36	4	14	15727=IfcBeam	16071=IfcBeam	38167=IfcBeam	38248=IfcBeam	38487=IfcBeam	18909=IfcSlab	2685359=IfcBeam	2685963=IfcBeam	2725234=IfcColumn	2728714=IfcBeam	2728795=IfcBeam	2729151=IfcBeam	1795319=IfcColumn	1795421=IfcWallStandardCase
+4	36	5	10	36077=IfcSlab	38167=IfcBeam	38248=IfcBeam	38487=IfcBeam	2725234=IfcColumn	2728714=IfcBeam	2728795=IfcBeam	2729151=IfcBeam	1795319=IfcColumn	1795421=IfcWallStandardCase
+4	36	6	3	35760=IfcSlab	2725234=IfcColumn	1795421=IfcWallStandardCase
+4	36	7	2	35760=IfcSlab	1795421=IfcWallStandardCase
+4	37	4	5	15727=IfcBeam	38167=IfcBeam	2725234=IfcColumn	2728714=IfcBeam	1795319=IfcColumn
+4	37	5	10	34480=IfcBeam	34603=IfcBeam	36077=IfcSlab	38167=IfcBeam	2714005=IfcBeam	2714128=IfcBeam	2725234=IfcColumn	2728714=IfcBeam	1795094=IfcColumn	1795319=IfcColumn
+4	37	6	4	35760=IfcSlab	35860=IfcSlab	2725234=IfcColumn	1795094=IfcColumn
+4	37	7	2	35760=IfcSlab	35860=IfcSlab
+4	38	5	1	36077=IfcSlab
+4	38	6	1	35860=IfcSlab
+4	38	7	1	35860=IfcSlab
+4	39	5	5	8711=IfcWallStandardCase	34777=IfcBeam	36077=IfcSlab	2714302=IfcBeam	1794759=IfcColumn
+4	39	6	4	8711=IfcWallStandardCase	35860=IfcSlab	1794759=IfcColumn	1795810=IfcWallStandardCase
+4	39	7	3	8711=IfcWallStandardCase	35860=IfcSlab	1795810=IfcWallStandardCase
+4	40	5	4	34777=IfcBeam	36077=IfcSlab	2714302=IfcBeam	1794759=IfcColumn
+4	40	6	4	35860=IfcSlab	1794759=IfcColumn	1795810=IfcWallStandardCase	1795940=IfcWallStandardCase
+4	40	7	3	35860=IfcSlab	1795810=IfcWallStandardCase	1795940=IfcWallStandardCase
+4	41	5	2	2803=IfcWallStandardCase	36077=IfcSlab
+4	41	6	4	2803=IfcWallStandardCase	35860=IfcSlab	1795745=IfcWallStandardCase	1795940=IfcWallStandardCase
+4	41	7	4	2803=IfcWallStandardCase	35860=IfcSlab	1795745=IfcWallStandardCase	1795940=IfcWallStandardCase
+5	30	4	2	17084=IfcBeam	2622837=IfcWallStandardCase
+5	30	5	1	2622837=IfcWallStandardCase
+5	30	6	5	25467=IfcBeam	35693=IfcSlab	25795=IfcBeam	2622837=IfcWallStandardCase	2696732=IfcBeam
+5	31	3	1	157183=IfcFlowSegment
+5	31	4	11	9842=IfcWallStandardCase	16701=IfcBeam	16967=IfcBeam	17084=IfcBeam	18909=IfcSlab	19079=IfcSlab	157183=IfcFlowSegment	2622837=IfcWallStandardCase	2686757=IfcBeam	2687308=IfcBeam	2687669=IfcBeam
+5	31	5	3	9842=IfcWallStandardCase	2622837=IfcWallStandardCase	2741169=IfcCovering
+5	31	6	7	9842=IfcWallStandardCase	25467=IfcBeam	35693=IfcSlab	25795=IfcBeam	2622837=IfcWallStandardCase	2696732=IfcBeam	2697241=IfcBeam
+5	32	4	9	9842=IfcWallStandardCase	9905=IfcWallStandardCase	16701=IfcBeam	16967=IfcBeam	18909=IfcSlab	19079=IfcSlab	814067=IfcDoor	2686757=IfcBeam	2687308=IfcBeam
+5	32	5	4	9842=IfcWallStandardCase	9905=IfcWallStandardCase	814067=IfcDoor	2741169=IfcCovering
+5	32	6	5	9842=IfcWallStandardCase	9905=IfcWallStandardCase	35693=IfcSlab	25795=IfcBeam	2697241=IfcBeam
+5	33	3	1	37102=IfcColumn
+5	33	4	9	9842=IfcWallStandardCase	16701=IfcBeam	16967=IfcBeam	37102=IfcColumn	18909=IfcSlab	19079=IfcSlab	814265=IfcDoor	2686757=IfcBeam	2687308=IfcBeam
+5	33	5	5	902=IfcFlowSegment	9842=IfcWallStandardCase	37102=IfcColumn	814265=IfcDoor	2741169=IfcCovering
+5	33	6	5	9842=IfcWallStandardCase	35693=IfcSlab	25795=IfcBeam	37102=IfcColumn	2697241=IfcBeam
+5	34	3	1	37296=IfcColumn
+5	34	4	20	9361=IfcWallStandardCase	9424=IfcWallStandardCase	9487=IfcWallStandardCase	9550=IfcWallStandardCase	9613=IfcWallStandardCase	9842=IfcWallStandardCase	16071=IfcBeam	16484=IfcBeam	16967=IfcBeam	37296=IfcColumn	18210=IfcBeam	808727=IfcDoor	18909=IfcSlab	19079=IfcSlab	814265=IfcDoor	2685963=IfcBeam	2686376=IfcBeam	2687308=IfcBeam	2688976=IfcBeam	2832284=IfcRailing
+5	34	5	11	9361=IfcWallStandardCase	9424=IfcWallStandardCase	9487=IfcWallStandardCase	9550=IfcWallStandardCase	9613=IfcWallStandardCase	9842=IfcWallStandardCase	37296=IfcColumn	808727=IfcDoor	814265=IfcDoor	2741169=IfcCovering	2832284=IfcRailing
+5	34	6	11	9361=IfcWallStandardCase	9424=IfcWallStandardCase	9487=IfcWallStandardCase	9550=IfcWallStandardCase	9613=IfcWallStandardCase	9842=IfcWallStandardCase	35693=IfcSlab	35760=IfcSlab	37296=IfcColumn	2725728=IfcBeam	2725959=IfcBeam
+5	34	7	4	9613=IfcWallStandardCase	35760=IfcSlab	2725728=IfcBeam	2725959=IfcBeam
+5	35	4	10	9613=IfcWallStandardCase	16071=IfcBeam	16317=IfcBeam	18210=IfcBeam	18909=IfcSlab	19079=IfcSlab	2685963=IfcBeam	2686209=IfcBeam	2688976=IfcBeam	2832284=IfcRailing
+5	35	5	4	351=IfcFlowSegment	9613=IfcWallStandardCase	2741169=IfcCovering	2832284=IfcRailing
+5	35	6	2	9613=IfcWallStandardCase	35760=IfcSlab
+5	35	7	2	9613=IfcWallStandardCase	35760=IfcSlab
+5	36	1	18	8070=IfcColumn	8146=IfcColumn	8189=IfcColumn	8231=IfcColumn	8273=IfcColumn	8316=IfcColumn	8358=IfcColumn	8400=IfcColumn	8442=IfcColumn	2658225=IfcColumn	2658292=IfcColumn	2658334=IfcColumn	2658376=IfcColumn	2658418=IfcColumn	2658460=IfcColumn	2658502=IfcColumn	2658544=IfcColumn	2658586=IfcColumn
+5	36	2	18	8070=IfcColumn	8146=IfcColumn	8189=IfcColumn	8231=IfcColumn	8273=IfcColumn	8316=IfcColumn	8358=IfcColumn	8400=IfcColumn	8442=IfcColumn	2658225=IfcColumn	2658292=IfcColumn	2658334=IfcColumn	2658376=IfcColumn	2658418=IfcColumn	2658460=IfcColumn	2658502=IfcColumn	2658544=IfcColumn	2658586=IfcColumn
+5	36	3	19	8070=IfcColumn	8146=IfcColumn	8189=IfcColumn	8231=IfcColumn	8273=IfcColumn	8316=IfcColumn	8358=IfcColumn	8400=IfcColumn	8442=IfcColumn	153847=IfcFlowSegment	2658225=IfcColumn	2658292=IfcColumn	2658334=IfcColumn	2658376=IfcColumn	2658418=IfcColumn	2658460=IfcColumn	2658502=IfcColumn	2658544=IfcColumn	2658586=IfcColumn
+5	36	4	36	8070=IfcColumn	8146=IfcColumn	8189=IfcColumn	8231=IfcColumn	8273=IfcColumn	8316=IfcColumn	8358=IfcColumn	8400=IfcColumn	8442=IfcColumn	9613=IfcWallStandardCase	15727=IfcBeam	16071=IfcBeam	38167=IfcBeam	18210=IfcBeam	38248=IfcBeam	38487=IfcBeam	18909=IfcSlab	19079=IfcSlab	153847=IfcFlowSegment	2658225=IfcColumn	2658292=IfcColumn	2658334=IfcColumn	2658376=IfcColumn	2658418=IfcColumn	2658460=IfcColumn	2658502=IfcColumn	2658544=IfcColumn	2658586=IfcColumn	2685359=IfcBeam	2685963=IfcBeam	2688976=IfcBeam	2725234=IfcColumn	2728795=IfcBeam	2729151=IfcBeam	1795319=IfcColumn	1795421=IfcWallStandardCase
+5	36	5	32	351=IfcFlowSegment	8070=IfcColumn	8146=IfcColumn	8189=IfcColumn	8231=IfcColumn	8273=IfcColumn	8316=IfcColumn	8358=IfcColumn	8400=IfcColumn	8442=IfcColumn	9613=IfcWallStandardCase	9686=IfcWallStandardCase	36077=IfcSlab	38167=IfcBeam	38248=IfcBeam	38487=IfcBeam	2658225=IfcColumn	2658292=IfcColumn	2658334=IfcColumn	2658376=IfcColumn	2658418=IfcColumn	2658460=IfcColumn	2658502=IfcColumn	2658544=IfcColumn	2658586=IfcColumn	2721520=IfcWallStandardCase	2725234=IfcColumn	2728795=IfcBeam	2729151=IfcBeam	2741169=IfcCovering	1795319=IfcColumn	1795421=IfcWallStandardCase
+5	36	6	24	8070=IfcColumn	8146=IfcColumn	8189=IfcColumn	8231=IfcColumn	8273=IfcColumn	8316=IfcColumn	8358=IfcColumn	8400=IfcColumn	8442=IfcColumn	9613=IfcWallStandardCase	9686=IfcWallStandardCase	35760=IfcSlab	2658225=IfcColumn	2658292=IfcColumn	2658334=IfcColumn	2658376=IfcColumn	2658418=IfcColumn	2658460=IfcColumn	2658502=IfcColumn	2658544=IfcColumn	2658586=IfcColumn	2721520=IfcWallStandardCase	2725234=IfcColumn	1795421=IfcWallStandardCase
+5	36	7	5	9613=IfcWallStandardCase	9686=IfcWallStandardCase	35760=IfcSlab	2721520=IfcWallStandardCase	1795421=IfcWallStandardCase
+5	37	1	8	8070=IfcColumn	8146=IfcColumn	8189=IfcColumn	8231=IfcColumn	2658225=IfcColumn	2658292=IfcColumn	2658334=IfcColumn	2658376=IfcColumn
+5	37	2	8	8070=IfcColumn	8146=IfcColumn	8189=IfcColumn	8231=IfcColumn	2658225=IfcColumn	2658292=IfcColumn	2658334=IfcColumn	2658376=IfcColumn
+5	37	3	8	8070=IfcColumn	8146=IfcColumn	8189=IfcColumn	8231=IfcColumn	2658225=IfcColumn	2658292=IfcColumn	2658334=IfcColumn	2658376=IfcColumn
+5	37	4	14	8070=IfcColumn	8146=IfcColumn	8189=IfcColumn	8231=IfcColumn	15727=IfcBeam	38167=IfcBeam	2658225=IfcColumn	2658292=IfcColumn	2658334=IfcColumn	2658376=IfcColumn	2685359=IfcBeam	2725234=IfcColumn	2728714=IfcBeam	1795319=IfcColumn
+5	37	5	18	351=IfcFlowSegment	8070=IfcColumn	8146=IfcColumn	8189=IfcColumn	8231=IfcColumn	9686=IfcWallStandardCase	34603=IfcBeam	36077=IfcSlab	38167=IfcBeam	2658225=IfcColumn	2658292=IfcColumn	2658334=IfcColumn	2658376=IfcColumn	2714128=IfcBeam	2725234=IfcColumn	2728714=IfcBeam	1795094=IfcColumn	1795319=IfcColumn
+5	37	6	13	8070=IfcColumn	8146=IfcColumn	8189=IfcColumn	8231=IfcColumn	9686=IfcWallStandardCase	35760=IfcSlab	35860=IfcSlab	2658225=IfcColumn	2658292=IfcColumn	2658334=IfcColumn	2658376=IfcColumn	2725234=IfcColumn	1795094=IfcColumn
+5	37	7	3	9686=IfcWallStandardCase	35760=IfcSlab	35860=IfcSlab
+5	38	5	5	351=IfcFlowSegment	9686=IfcWallStandardCase	9758=IfcWallStandardCase	36077=IfcSlab	814156=IfcDoor
+5	38	6	4	9686=IfcWallStandardCase	9758=IfcWallStandardCase	35860=IfcSlab	814156=IfcDoor
+5	38	7	3	9686=IfcWallStandardCase	9758=IfcWallStandardCase	35860=IfcSlab
+5	39	5	10	351=IfcFlowSegment	9101=IfcWallStandardCase	8711=IfcWallStandardCase	9758=IfcWallStandardCase	8776=IfcWallStandardCase	8841=IfcWallStandardCase	34777=IfcBeam	36077=IfcSlab	2714302=IfcBeam	1794759=IfcColumn
+5	39	6	10	9101=IfcWallStandardCase	8711=IfcWallStandardCase	9758=IfcWallStandardCase	8776=IfcWallStandardCase	8841=IfcWallStandardCase	90892=IfcFlowSegment	90967=IfcFlowFitting	35860=IfcSlab	1794759=IfcColumn	1796070=IfcWallStandardCase
+5	39	7	7	9101=IfcWallStandardCase	8711=IfcWallStandardCase	9758=IfcWallStandardCase	8776=IfcWallStandardCase	8841=IfcWallStandardCase	35860=IfcSlab	1796070=IfcWallStandardCase
+5	40	5	5	9101=IfcWallStandardCase	34777=IfcBeam	36077=IfcSlab	2714302=IfcBeam	1794759=IfcColumn
+5	40	6	8	9101=IfcWallStandardCase	90892=IfcFlowSegment	91053=IfcFlowSegment	91128=IfcFlowFitting	35860=IfcSlab	1794759=IfcColumn	1796070=IfcWallStandardCase	1796135=IfcWallStandardCase
+5	40	7	5	9101=IfcWallStandardCase	91053=IfcFlowSegment	35860=IfcSlab	1796070=IfcWallStandardCase	1796135=IfcWallStandardCase
+5	41	5	3	9101=IfcWallStandardCase	2803=IfcWallStandardCase	36077=IfcSlab
+5	41	6	5	9101=IfcWallStandardCase	2803=IfcWallStandardCase	35860=IfcSlab	1796005=IfcWallStandardCase	1796135=IfcWallStandardCase
+5	41	7	5	9101=IfcWallStandardCase	2803=IfcWallStandardCase	35860=IfcSlab	1796005=IfcWallStandardCase	1796135=IfcWallStandardCase
+6	30	4	1	2622837=IfcWallStandardCase
+6	30	5	1	2622837=IfcWallStandardCase
+6	30	6	2	35693=IfcSlab	2622837=IfcWallStandardCase
+6	31	4	12	17215=IfcBeam	18368=IfcBeam	18447=IfcBeam	18526=IfcBeam	18638=IfcBeam	19079=IfcSlab	2622837=IfcWallStandardCase	2687810=IfcBeam	2689134=IfcBeam	2689213=IfcBeam	2689292=IfcBeam	2689414=IfcBeam
+6	31	5	5	761956=IfcFlowSegment	762051=IfcFlowSegment	883947=IfcFlowFitting	2622837=IfcWallStandardCase	2741169=IfcCovering
+6	31	6	5	35693=IfcSlab	761956=IfcFlowSegment	762051=IfcFlowSegment	883947=IfcFlowFitting	2622837=IfcWallStandardCase
+6	32	4	9	17215=IfcBeam	18289=IfcBeam	18368=IfcBeam	18638=IfcBeam	19079=IfcSlab	2687810=IfcBeam	2689055=IfcBeam	2689134=IfcBeam	2689414=IfcBeam
+6	32	5	1	2741169=IfcCovering
+6	32	6	1	35693=IfcSlab
+6	33	4	5	17215=IfcBeam	18638=IfcBeam	19079=IfcSlab	2687810=IfcBeam	2689414=IfcBeam
+6	33	5	4	902=IfcFlowSegment	753169=IfcFlowSegment	884141=IfcFlowFitting	2741169=IfcCovering
+6	33	6	3	35693=IfcSlab	753169=IfcFlowSegment	884141=IfcFlowFitting
+6	34	4	5	17673=IfcBeam	17823=IfcBeam	19079=IfcSlab	2688477=IfcBeam	2688608=IfcBeam
+6	34	5	3	753169=IfcFlowSegment	884141=IfcFlowFitting	2741169=IfcCovering
+6	34	6	6	35693=IfcSlab	35760=IfcSlab	753169=IfcFlowSegment	884141=IfcFlowFitting	2725728=IfcBeam	2725959=IfcBeam
+6	34	7	3	35760=IfcSlab	2725728=IfcBeam	2725959=IfcBeam
+6	35	4	9	17673=IfcBeam	17823=IfcBeam	17902=IfcBeam	17981=IfcBeam	19079=IfcSlab	2688477=IfcBeam	2688608=IfcBeam	2688687=IfcBeam	2688766=IfcBeam
+6	35	5	1	2741169=IfcCovering
+6	35	6	1	35760=IfcSlab
+6	35	7	1	35760=IfcSlab
+6	36	4	9	17673=IfcBeam	17823=IfcBeam	18079=IfcBeam	38487=IfcBeam	19079=IfcSlab	2688477=IfcBeam	2688608=IfcBeam	2688864=IfcBeam	2729151=IfcBeam
+6	36	5	4	36077=IfcSlab	38487=IfcBeam	2729151=IfcBeam	2741169=IfcCovering
+6	36	6	1	35760=IfcSlab
+6	36	7	1	35760=IfcSlab
+6	37	5	3	34603=IfcBeam	36077=IfcSlab	2714128=IfcBeam
+6	37	6	2	35760=IfcSlab	35860=IfcSlab
+6	37	7	2	35760=IfcSlab	35860=IfcSlab
+6	38	5	1	36077=IfcSlab
+6	38	6	1	35860=IfcSlab
+6	38	7	1	35860=IfcSlab
+6	39	5	4	8841=IfcWallStandardCase	34777=IfcBeam	36077=IfcSlab	2714302=IfcBeam
+6	39	6	6	90731=IfcFlowSegment	8841=IfcWallStandardCase	90892=IfcFlowSegment	90967=IfcFlowFitting	35860=IfcSlab	1796070=IfcWallStandardCase
+6	39	7	3	8841=IfcWallStandardCase	35860=IfcSlab	1796070=IfcWallStandardCase
+6	40	5	3	34777=IfcBeam	36077=IfcSlab	2714302=IfcBeam
+6	40	6	9	90892=IfcFlowSegment	91053=IfcFlowSegment	91128=IfcFlowFitting	35860=IfcSlab	2289542=IfcFlowSegment	2292361=IfcFlowSegment	2292436=IfcFlowFitting	1796070=IfcWallStandardCase	1796200=IfcWallStandardCase
+6	40	7	4	91053=IfcFlowSegment	35860=IfcSlab	1796070=IfcWallStandardCase	1796200=IfcWallStandardCase
+6	41	5	2	2803=IfcWallStandardCase	36077=IfcSlab
+6	41	6	9	2803=IfcWallStandardCase	35860=IfcSlab	871248=IfcFlowSegment	871409=IfcFlowSegment	871494=IfcFlowSegment	871569=IfcFlowFitting	871645=IfcFlowFitting	1796005=IfcWallStandardCase	1796200=IfcWallStandardCase
+6	41	7	4	2803=IfcWallStandardCase	35860=IfcSlab	1796005=IfcWallStandardCase	1796200=IfcWallStandardCase
+7	30	4	1	2622837=IfcWallStandardCase
+7	30	5	1	2622837=IfcWallStandardCase
+7	30	6	2	35693=IfcSlab	2622837=IfcWallStandardCase
+7	31	3	1	42651=IfcFlowSegment
+7	31	4	5	10018=IfcWallStandardCase	42651=IfcFlowSegment	19079=IfcSlab	19261=IfcSlab	2622837=IfcWallStandardCase
+7	31	5	15	10018=IfcWallStandardCase	42651=IfcFlowSegment	32754=IfcFlowSegment	32840=IfcFlowSegment	34810=IfcFlowFitting	56229=IfcFlowFitting	16978=IfcFlowSegment	762051=IfcFlowSegment	781631=IfcFlowSegment	885659=IfcFlowSegment	2622837=IfcWallStandardCase	1712663=IfcBuildingElementProxy	1717162=IfcFlowFitting	1717269=IfcFlowFitting	2741169=IfcCovering
+7	31	6	7	10018=IfcWallStandardCase	35693=IfcSlab	762051=IfcFlowSegment	2622837=IfcWallStandardCase	1712663=IfcBuildingElementProxy	1717162=IfcFlowFitting	1717269=IfcFlowFitting
+7	32	3	2	39404=IfcFlowSegment	2675894=IfcColumn
+7	32	4	5	10018=IfcWallStandardCase	19079=IfcSlab	19261=IfcSlab	39404=IfcFlowSegment	2675894=IfcColumn
+7	32	5	12	10018=IfcWallStandardCase	800879=IfcFlowSegment	32840=IfcFlowSegment	34898=IfcFlowSegment	56311=IfcFlowFitting	16978=IfcFlowSegment	37341=IfcFlowFitting	39404=IfcFlowSegment	781631=IfcFlowSegment	797438=IfcFlowSegment	2675894=IfcColumn	2741169=IfcCovering
+7	32	6	5	10018=IfcWallStandardCase	800879=IfcFlowSegment	35693=IfcSlab	797438=IfcFlowSegment	2675894=IfcColumn
+7	33	4	5	10018=IfcWallStandardCase	10513=IfcWallStandardCase	10576=IfcWallStandardCase	19079=IfcSlab	19261=IfcSlab
+7	33	5	13	902=IfcFlowSegment	10018=IfcWallStandardCase	10513=IfcWallStandardCase	10576=IfcWallStandardCase	804712=IfcFlowSegment	34984=IfcFlowSegment	35069=IfcFlowSegment	16978=IfcFlowSegment	37341=IfcFlowFitting	37418=IfcFlowFitting	884141=IfcFlowFitting	2741169=IfcCovering	1874262=IfcFlowSegment
+7	33	6	7	10018=IfcWallStandardCase	10513=IfcWallStandardCase	10576=IfcWallStandardCase	35693=IfcSlab	884141=IfcFlowFitting	795863=IfcFlowSegment	1874262=IfcFlowSegment
+7	34	3	1	37553=IfcColumn
+7	34	4	9	10018=IfcWallStandardCase	10423=IfcWallStandardCase	10513=IfcWallStandardCase	37553=IfcColumn	19079=IfcSlab	19261=IfcSlab	819570=IfcDoor	819625=IfcDoor	2721449=IfcWallStandardCase
+7	34	5	17	10018=IfcWallStandardCase	10423=IfcWallStandardCase	10513=IfcWallStandardCase	802681=IfcFlowSegment	35069=IfcFlowSegment	35154=IfcFlowSegment	16812=IfcFlowSegment	16978=IfcFlowSegment	17057=IfcFlowFitting	37494=IfcFlowFitting	37553=IfcColumn	819570=IfcDoor	819625=IfcDoor	884141=IfcFlowFitting	2721449=IfcWallStandardCase	2741169=IfcCovering	1874262=IfcFlowSegment
+7	34	6	10	10018=IfcWallStandardCase	10423=IfcWallStandardCase	10513=IfcWallStandardCase	35693=IfcSlab	35760=IfcSlab	37553=IfcColumn	884141=IfcFlowFitting	2721449=IfcWallStandardCase	2725728=IfcBeam	1874262=IfcFlowSegment
+7	34	7	3	35760=IfcSlab	2721449=IfcWallStandardCase	2725728=IfcBeam
+7	35	4	3	19079=IfcSlab	19261=IfcSlab	2721449=IfcWallStandardCase
+7	35	5	2	2721449=IfcWallStandardCase	2741169=IfcCovering
+7	35	6	4	35760=IfcSlab	1586550=IfcFlowSegment	1589254=IfcFlowFitting	2721449=IfcWallStandardCase
+7	35	7	2	35760=IfcSlab	2721449=IfcWallStandardCase
+7	36	3	1	153931=IfcFlowSegment
+7	36	4	7	38487=IfcBeam	19079=IfcSlab	19261=IfcSlab	153931=IfcFlowSegment	2721449=IfcWallStandardCase	2725309=IfcColumn	2729151=IfcBeam
+7	36	5	6	36077=IfcSlab	38487=IfcBeam	2721449=IfcWallStandardCase	2725309=IfcColumn	2729151=IfcBeam	2741169=IfcCovering
+7	36	6	11	90001=IfcFlowFitting	35760=IfcSlab	89765=IfcFlowSegment	89926=IfcFlowSegment	870130=IfcFlowSegment	870291=IfcFlowSegment	870366=IfcFlowFitting	1586635=IfcFlowSegment	1589254=IfcFlowFitting	2721449=IfcWallStandardCase	2725309=IfcColumn
+7	36	7	2	35760=IfcSlab	2721449=IfcWallStandardCase
+7	37	5	7	34603=IfcBeam	34695=IfcBeam	36077=IfcSlab	2217602=IfcWallStandardCase	2714128=IfcBeam	2714220=IfcBeam	1795175=IfcColumn
+7	37	6	31	90087=IfcFlowSegment	90162=IfcFlowFitting	90248=IfcFlowSegment	90323=IfcFlowFitting	90409=IfcFlowSegment	90494=IfcFlowSegment	90569=IfcFlowFitting	90645=IfcFlowFitting	35760=IfcSlab	35860=IfcSlab	89926=IfcFlowSegment	870291=IfcFlowSegment	870452=IfcFlowSegment	870527=IfcFlowFitting	870613=IfcFlowSegment	870688=IfcFlowFitting	870774=IfcFlowSegment	870859=IfcFlowSegment	870934=IfcFlowFitting	871010=IfcFlowFitting	871086=IfcFlowFitting	871162=IfcFlowFitting	2217602=IfcWallStandardCase	1586635=IfcFlowSegment	1586720=IfcFlowSegment	1586805=IfcFlowSegment	1586880=IfcFlowFitting	1586966=IfcFlowSegment	1587051=IfcFlowSegment	1587126=IfcFlowFitting	1795175=IfcColumn
+7	37	7	3	35760=IfcSlab	35860=IfcSlab	2217602=IfcWallStandardCase
+7	38	5	6	10090=IfcWallStandardCase	8906=IfcWallStandardCase	8971=IfcWallStandardCase	36077=IfcSlab	2217602=IfcWallStandardCase	2217720=IfcDoor
+7	38	6	9	10090=IfcWallStandardCase	90409=IfcFlowSegment	8906=IfcWallStandardCase	8971=IfcWallStandardCase	35860=IfcSlab	870774=IfcFlowSegment	2217602=IfcWallStandardCase	2217720=IfcDoor	1586966=IfcFlowSegment
+7	38	7	5	10090=IfcWallStandardCase	8906=IfcWallStandardCase	8971=IfcWallStandardCase	35860=IfcSlab	2217602=IfcWallStandardCase
+7	39	5	8	9036=IfcWallStandardCase	8841=IfcWallStandardCase	8906=IfcWallStandardCase	2933=IfcWallStandardCase	34777=IfcBeam	36077=IfcSlab	2714302=IfcBeam	1794851=IfcColumn
+7	39	6	12	9036=IfcWallStandardCase	90409=IfcFlowSegment	90731=IfcFlowSegment	90806=IfcFlowFitting	8841=IfcWallStandardCase	8906=IfcWallStandardCase	2933=IfcWallStandardCase	35860=IfcSlab	870774=IfcFlowSegment	1586966=IfcFlowSegment	1794851=IfcColumn	1796070=IfcWallStandardCase
+7	39	7	6	9036=IfcWallStandardCase	8841=IfcWallStandardCase	8906=IfcWallStandardCase	2933=IfcWallStandardCase	35860=IfcSlab	1796070=IfcWallStandardCase
+7	40	5	34	9036=IfcWallStandardCase	34777=IfcBeam	36077=IfcSlab	86665=IfcFlowSegment	86751=IfcFlowSegment	86923=IfcFlowSegment	87009=IfcFlowSegment	87095=IfcFlowSegment	88065=IfcFlowFitting	2241728=IfcFlowFitting	2261017=IfcFlowController	2261201=IfcFlowController	2268137=IfcFlowSegment	2272426=IfcFlowController	2272528=IfcFlowSegment	2272604=IfcFlowController	2272705=IfcFlowSegment	2291846=IfcFlowSegment	2291932=IfcFlowSegment	2292104=IfcFlowSegment	2292190=IfcFlowSegment	2292276=IfcFlowSegment	2294670=IfcFlowFitting	2295937=IfcFlowFitting	2316006=IfcFlowController	2316190=IfcFlowController	2316298=IfcFlowSegment	2323126=IfcFlowSegment	2327415=IfcFlowController	2327517=IfcFlowSegment	2327593=IfcFlowController	2327694=IfcFlowSegment	2714302=IfcBeam	1794851=IfcColumn
+7	40	6	90	9036=IfcWallStandardCase	84333=IfcFlowSegment	35860=IfcSlab	86493=IfcFlowFitting	86580=IfcFlowSegment	86665=IfcFlowSegment	86837=IfcFlowSegment	87990=IfcFlowSegment	89094=IfcFlowFitting	89198=IfcFlowSegment	2241652=IfcFlowFitting	2241810=IfcFlowFitting	2241895=IfcFlowSegment	2241970=IfcFlowFitting	2242056=IfcFlowSegment	2242132=IfcFlowFitting	2242217=IfcFlowSegment	2242292=IfcFlowFitting	2242378=IfcFlowSegment	2243400=IfcFlowFitting	2243488=IfcFlowSegment	2243893=IfcFlowFitting	2243976=IfcFlowFitting	2244738=IfcFlowFitting	2260619=IfcFlowController	2260758=IfcFlowSegment	2260834=IfcFlowController	2260942=IfcFlowSegment	2261017=IfcFlowController	2261125=IfcFlowSegment	2261201=IfcFlowController	2267860=IfcFlowController	2267961=IfcFlowSegment	2268037=IfcFlowController	2268137=IfcFlowSegment	2268212=IfcFlowController	2268297=IfcFlowSegment	2268372=IfcFlowController	2268457=IfcFlowSegment	2272528=IfcFlowSegment	2289348=IfcFlowController	2289457=IfcFlowSegment	2289542=IfcFlowSegment	2291674=IfcFlowFitting	2291761=IfcFlowSegment	2291846=IfcFlowSegment	2292018=IfcFlowSegment	2292522=IfcFlowSegment	2295700=IfcFlowFitting	2295786=IfcFlowSegment	2295861=IfcFlowFitting	2296826=IfcFlowFitting	2296912=IfcFlowSegment	2296987=IfcFlowFitting	2297073=IfcFlowSegment	2297149=IfcFlowFitting	2297234=IfcFlowSegment	2297309=IfcFlowFitting	2297395=IfcFlowSegment	2298417=IfcFlowFitting	2298505=IfcFlowSegment	2298910=IfcFlowFitting	2298993=IfcFlowFitting	2299755=IfcFlowFitting	2315638=IfcFlowController	2315747=IfcFlowSegment	2315823=IfcFlowController	2315931=IfcFlowSegment	2316006=IfcFlowController	2316114=IfcFlowSegment	2316190=IfcFlowController	2322849=IfcFlowController	2322950=IfcFlowSegment	2323026=IfcFlowController	2323126=IfcFlowSegment	2323201=IfcFlowController	2323286=IfcFlowSegment	2323361=IfcFlowController	2323446=IfcFlowSegment	2327517=IfcFlowSegment	2344337=IfcFlowController	2344446=IfcFlowSegment	2354358=IfcFlowSegment	2354438=IfcFlowFitting	2354531=IfcFlowSegment	2354611=IfcFlowFitting	1586966=IfcFlowSegment	1794851=IfcColumn	1796070=IfcWallStandardCase	1796200=IfcWallStandardCase
+7	40	7	4	9036=IfcWallStandardCase	35860=IfcSlab	1796070=IfcWallStandardCase	1796200=IfcWallStandardCase
+7	41	5	3	9036=IfcWallStandardCase	2803=IfcWallStandardCase	36077=IfcSlab
+7	41	6	8	9036=IfcWallStandardCase	2803=IfcWallStandardCase	35860=IfcSlab	871248=IfcFlowSegment	871323=IfcFlowFitting	1586966=IfcFlowSegment	1796005=IfcWallStandardCase	1796200=IfcWallStandardCase
+7	41	7	5	9036=IfcWallStandardCase	2803=IfcWallStandardCase	35860=IfcSlab	1796005=IfcWallStandardCase	1796200=IfcWallStandardCase
+8	30	4	1	2622837=IfcWallStandardCase
+8	30	5	1	2622837=IfcWallStandardCase
+8	30	6	2	35693=IfcSlab	2622837=IfcWallStandardCase
+8	31	4	6	19261=IfcSlab	838206=IfcBuildingElementProxy	3080078=IfcBuildingElementProxy	796811=IfcFlowSegment	2622837=IfcWallStandardCase	1921351=IfcBuildingElementProxy
+8	31	5	16	838206=IfcBuildingElementProxy	757399=IfcFlowSegment	757494=IfcFlowSegment	781531=IfcFlowFitting	781631=IfcFlowSegment	781810=IfcFlowFitting	885659=IfcFlowSegment	796811=IfcFlowSegment	2622837=IfcWallStandardCase	1712756=IfcFlowSegment	1717162=IfcFlowFitting	1874350=IfcBuildingElementProxy	1874443=IfcFlowSegment	1876370=IfcBuildingElementProxy	1876467=IfcFlowSegment	1921351=IfcBuildingElementProxy
+8	31	6	8	35693=IfcSlab	2622837=IfcWallStandardCase	1712756=IfcFlowSegment	1717162=IfcFlowFitting	1874350=IfcBuildingElementProxy	1874443=IfcFlowSegment	1876370=IfcBuildingElementProxy	1876467=IfcFlowSegment
+8	32	4	3	19261=IfcSlab	796811=IfcFlowSegment	797332=IfcFlowFitting
+8	32	5	9	800879=IfcFlowSegment	781531=IfcFlowFitting	781631=IfcFlowSegment	796811=IfcFlowSegment	796905=IfcFlowSegment	797022=IfcFlowFitting	797332=IfcFlowFitting	797438=IfcFlowSegment	798257=IfcFlowSegment
+8	32	6	3	800879=IfcFlowSegment	35693=IfcSlab	797438=IfcFlowSegment
+8	33	4	1	19261=IfcSlab
+8	33	5	4	902=IfcFlowSegment	804712=IfcFlowSegment	798257=IfcFlowSegment	1874262=IfcFlowSegment
+8	33	6	3	35693=IfcSlab	795863=IfcFlowSegment	1874262=IfcFlowSegment
+8	34	4	5	10423=IfcWallStandardCase	10662=IfcWallStandardCase	19261=IfcSlab	819679=IfcDoor	2721585=IfcWallStandardCase
+8	34	5	18	10423=IfcWallStandardCase	10662=IfcWallStandardCase	802681=IfcFlowSegment	802778=IfcFlowSegment	802965=IfcFlowFitting	803064=IfcFlowSegment	803253=IfcFlowFitting	14449=IfcFlowSegment	35154=IfcFlowSegment	35239=IfcFlowSegment	16812=IfcFlowSegment	16891=IfcFlowFitting	37570=IfcFlowFitting	819679=IfcDoor	753566=IfcFlowSegment	798257=IfcFlowSegment	2721585=IfcWallStandardCase	1874262=IfcFlowSegment
+8	34	6	9	10423=IfcWallStandardCase	10662=IfcWallStandardCase	35693=IfcSlab	35760=IfcSlab	36459=IfcSlab	36812=IfcWallStandardCase	2721585=IfcWallStandardCase	2725728=IfcBeam	1874262=IfcFlowSegment
+8	34	7	4	35760=IfcSlab	36459=IfcSlab	2721585=IfcWallStandardCase	2725728=IfcBeam
+8	35	4	2	19261=IfcSlab	2721585=IfcWallStandardCase
+8	35	5	8	14449=IfcFlowSegment	14538=IfcFlowSegment	35239=IfcFlowSegment	35324=IfcFlowSegment	16725=IfcFlowFitting	37646=IfcFlowFitting	753566=IfcFlowSegment	2721585=IfcWallStandardCase
+8	35	6	10	40089=IfcFlowSegment	9285=IfcFlowSegment	14538=IfcFlowSegment	35324=IfcFlowSegment	35760=IfcSlab	36459=IfcSlab	16647=IfcFlowFitting	37722=IfcFlowFitting	1586550=IfcFlowSegment	2721585=IfcWallStandardCase
+8	35	7	3	35760=IfcSlab	36459=IfcSlab	2721585=IfcWallStandardCase
+8	36	3	1	154015=IfcFlowSegment
+8	36	4	6	38487=IfcBeam	19261=IfcSlab	154015=IfcFlowSegment	2721585=IfcWallStandardCase	2721649=IfcWallStandardCase	2729151=IfcBeam
+8	36	5	8	10337=IfcWallStandardCase	2998=IfcWallStandardCase	36077=IfcSlab	38487=IfcBeam	819733=IfcDoor	2721585=IfcWallStandardCase	2721649=IfcWallStandardCase	2729151=IfcBeam
+8	36	6	26	40004=IfcFlowSegment	8005=IfcFlowFitting	40089=IfcFlowSegment	9285=IfcFlowSegment	10337=IfcWallStandardCase	7517=IfcFlowSegment	7849=IfcFlowSegment	7928=IfcFlowFitting	2998=IfcWallStandardCase	42489=IfcFlowFitting	42565=IfcFlowFitting	14249=IfcFlowFitting	14360=IfcFlowSegment	35760=IfcSlab	36459=IfcSlab	17576=IfcFlowFitting	89765=IfcFlowSegment	39919=IfcFlowSegment	111546=IfcFlowFitting	111637=IfcFlowSegment	819733=IfcDoor	867848=IfcFlowSegment	870130=IfcFlowSegment	3076247=IfcFlowSegment	2721585=IfcWallStandardCase	2721649=IfcWallStandardCase
+8	36	7	6	10337=IfcWallStandardCase	2998=IfcWallStandardCase	35760=IfcSlab	36459=IfcSlab	2721585=IfcWallStandardCase	2721649=IfcWallStandardCase
+8	37	5	8	10168=IfcWallStandardCase	10337=IfcWallStandardCase	2998=IfcWallStandardCase	34695=IfcBeam	36077=IfcSlab	819733=IfcDoor	2217602=IfcWallStandardCase	2714220=IfcBeam
+8	37	6	17	10168=IfcWallStandardCase	10337=IfcWallStandardCase	7351=IfcFlowSegment	7517=IfcFlowSegment	7606=IfcFlowSegment	7685=IfcFlowFitting	7762=IfcFlowFitting	2998=IfcWallStandardCase	42337=IfcFlowFitting	42413=IfcFlowFitting	35760=IfcSlab	35860=IfcSlab	39749=IfcFlowSegment	39834=IfcFlowSegment	39919=IfcFlowSegment	819733=IfcDoor	2217602=IfcWallStandardCase
+8	37	7	6	10168=IfcWallStandardCase	10337=IfcWallStandardCase	2998=IfcWallStandardCase	35760=IfcSlab	35860=IfcSlab	2217602=IfcWallStandardCase
+8	38	5	3	8971=IfcWallStandardCase	2998=IfcWallStandardCase	36077=IfcSlab
+8	38	6	5	7351=IfcFlowSegment	8971=IfcWallStandardCase	2998=IfcWallStandardCase	35860=IfcSlab	39749=IfcFlowSegment
+8	38	7	3	8971=IfcWallStandardCase	2998=IfcWallStandardCase	35860=IfcSlab
+8	39	5	6	2933=IfcWallStandardCase	2998=IfcWallStandardCase	34777=IfcBeam	36077=IfcSlab	2714302=IfcBeam	1794932=IfcColumn
+8	39	6	19	8092=IfcFlowSegment	5099=IfcFlowSegment	8171=IfcFlowFitting	7242=IfcFlowFitting	7351=IfcFlowSegment	7430=IfcFlowFitting	2933=IfcWallStandardCase	4968=IfcFlowSegment	2998=IfcWallStandardCase	42184=IfcFlowFitting	42261=IfcFlowFitting	34878=IfcBeam	35860=IfcSlab	39579=IfcFlowSegment	39664=IfcFlowSegment	39749=IfcFlowSegment	2713929=IfcSlab	2714422=IfcBeam	1794932=IfcColumn
+8	39	7	3	2933=IfcWallStandardCase	2998=IfcWallStandardCase	35860=IfcSlab
+8	40	5	4	34777=IfcBeam	36077=IfcSlab	2714302=IfcBeam	1794932=IfcColumn
+8	40	6	9	42106=IfcFlowFitting	84333=IfcFlowSegment	34878=IfcBeam	35860=IfcSlab	39490=IfcFlowSegment	39579=IfcFlowSegment	2713929=IfcSlab	2714422=IfcBeam	1794932=IfcColumn
+8	40	7	1	35860=IfcSlab
+8	41	5	2	2803=IfcWallStandardCase	36077=IfcSlab
+8	41	6	3	2803=IfcWallStandardCase	35860=IfcSlab	2713929=IfcSlab
+8	41	7	2	2803=IfcWallStandardCase	35860=IfcSlab
+9	30	4	1	2622837=IfcWallStandardCase
+9	30	5	1	2622837=IfcWallStandardCase
+9	30	6	2	35693=IfcSlab	2622837=IfcWallStandardCase
+9	31	4	4	19261=IfcSlab	3080078=IfcBuildingElementProxy	2622837=IfcWallStandardCase	1921351=IfcBuildingElementProxy
+9	31	5	7	848887=IfcFlowSegment	849967=IfcFlowSegment	758467=IfcFlowSegment	885659=IfcFlowSegment	2622837=IfcWallStandardCase	1876467=IfcFlowSegment	1921351=IfcBuildingElementProxy
+9	31	6	3	35693=IfcSlab	2622837=IfcWallStandardCase	1876467=IfcFlowSegment
+9	32	3	1	37732=IfcColumn
+9	32	4	3	37732=IfcColumn	19261=IfcSlab	873880=IfcFlowFitting
+9	32	5	23	800879=IfcFlowSegment	37732=IfcColumn	844623=IfcFlowSegment	848887=IfcFlowSegment	848976=IfcFlowSegment	849055=IfcFlowFitting	849161=IfcFlowFitting	849801=IfcFlowSegment	849967=IfcFlowSegment	850056=IfcFlowSegment	850135=IfcFlowFitting	850212=IfcFlowFitting	873697=IfcFlowSegment	873792=IfcFlowSegment	873880=IfcFlowFitting	873974=IfcFlowSegment	874092=IfcFlowFitting	874181=IfcFlowFitting	885117=IfcFlowSegment	885204=IfcFlowFitting	797438=IfcFlowSegment	797724=IfcFlowSegment	798257=IfcFlowSegment
+9	32	6	7	800879=IfcFlowSegment	35693=IfcSlab	37732=IfcColumn	885117=IfcFlowSegment	885204=IfcFlowFitting	797438=IfcFlowSegment	797724=IfcFlowSegment
+9	33	4	1	19261=IfcSlab
+9	33	5	15	902=IfcFlowSegment	804712=IfcFlowSegment	844534=IfcFlowSegment	844623=IfcFlowSegment	848770=IfcFlowFitting	849712=IfcFlowSegment	849801=IfcFlowSegment	849880=IfcFlowFitting	796324=IfcFlowSegment	796442=IfcFlowFitting	798257=IfcFlowSegment	1665532=IfcFlowSegment	1669920=IfcFlowFitting	1874169=IfcBuildingElementProxy	1874262=IfcFlowSegment
+9	33	6	6	35693=IfcSlab	795863=IfcFlowSegment	1665532=IfcFlowSegment	1669920=IfcFlowFitting	1874169=IfcBuildingElementProxy	1874262=IfcFlowSegment
+9	34	3	1	38015=IfcColumn
+9	34	4	6	10662=IfcWallStandardCase	10725=IfcWallStandardCase	10789=IfcWallStandardCase	38015=IfcColumn	19261=IfcSlab	814211=IfcDoor
+9	34	5	23	10662=IfcWallStandardCase	10725=IfcWallStandardCase	10789=IfcWallStandardCase	802778=IfcFlowSegment	803064=IfcFlowSegment	803253=IfcFlowFitting	803351=IfcFlowSegment	38015=IfcColumn	814211=IfcDoor	753566=IfcFlowSegment	875406=IfcFlowFitting	798257=IfcFlowSegment	1665532=IfcFlowSegment	1669920=IfcFlowFitting	1717857=IfcFlowSegment	1717942=IfcFlowFitting	1874169=IfcBuildingElementProxy	1874262=IfcFlowSegment	1910059=IfcBuildingElementProxy	1910152=IfcFlowSegment	1910296=IfcBuildingElementProxy	1910413=IfcFlowSegment	1921948=IfcFlowSegment
+9	34	6	20	10662=IfcWallStandardCase	10725=IfcWallStandardCase	10789=IfcWallStandardCase	35693=IfcSlab	36459=IfcSlab	36812=IfcWallStandardCase	38015=IfcColumn	1665532=IfcFlowSegment	1669920=IfcFlowFitting	1717857=IfcFlowSegment	1717942=IfcFlowFitting	2725473=IfcBeam	2725728=IfcBeam	1874169=IfcBuildingElementProxy	1874262=IfcFlowSegment	1910059=IfcBuildingElementProxy	1910152=IfcFlowSegment	1910296=IfcBuildingElementProxy	1910413=IfcFlowSegment	1921948=IfcFlowSegment
+9	34	7	4	10725=IfcWallStandardCase	36459=IfcSlab	2725473=IfcBeam	2725728=IfcBeam
+9	35	4	3	10725=IfcWallStandardCase	10789=IfcWallStandardCase	19261=IfcSlab
+9	35	5	5	10725=IfcWallStandardCase	10789=IfcWallStandardCase	753566=IfcFlowSegment	798351=IfcFlowSegment	1921948=IfcFlowSegment
+9	35	6	7	10725=IfcWallStandardCase	10789=IfcWallStandardCase	36459=IfcSlab	798351=IfcFlowSegment	1586550=IfcFlowSegment	2725728=IfcBeam	1921948=IfcFlowSegment
+9	35	7	3	10725=IfcWallStandardCase	36459=IfcSlab	2725728=IfcBeam
+9	36	4	4	10725=IfcWallStandardCase	38487=IfcBeam	19261=IfcSlab	2721649=IfcWallStandardCase
+9	36	5	4	10725=IfcWallStandardCase	38487=IfcBeam	757210=IfcFlowSegment	2721649=IfcWallStandardCase
+9	36	6	7	10725=IfcWallStandardCase	36459=IfcSlab	89765=IfcFlowSegment	867848=IfcFlowSegment	870130=IfcFlowSegment	3076247=IfcFlowSegment	2721649=IfcWallStandardCase
+9	36	7	3	10725=IfcWallStandardCase	36459=IfcSlab	2721649=IfcWallStandardCase
+9	39	5	1	2933=IfcWallStandardCase
+9	39	6	8	8092=IfcFlowSegment	8337=IfcFlowFitting	2933=IfcWallStandardCase	34878=IfcBeam	35860=IfcSlab	2713929=IfcSlab	2714422=IfcBeam	1796395=IfcWallStandardCase
+9	39	7	3	2933=IfcWallStandardCase	35860=IfcSlab	1796395=IfcWallStandardCase
+9	40	6	16	84333=IfcFlowSegment	34878=IfcBeam	35860=IfcSlab	87180=IfcFlowSegment	87265=IfcFlowSegment	87340=IfcFlowFitting	87416=IfcFlowFitting	87502=IfcFlowSegment	87577=IfcFlowFitting	87663=IfcFlowSegment	87738=IfcFlowFitting	39490=IfcFlowSegment	2713929=IfcSlab	2714422=IfcBeam	1796395=IfcWallStandardCase	1796460=IfcWallStandardCase
+9	40	7	5	35860=IfcSlab	87502=IfcFlowSegment	87663=IfcFlowSegment	1796395=IfcWallStandardCase	1796460=IfcWallStandardCase
+9	41	5	1	2803=IfcWallStandardCase
+9	41	6	5	2803=IfcWallStandardCase	35860=IfcSlab	2713929=IfcSlab	1796265=IfcWallStandardCase	1796460=IfcWallStandardCase
+9	41	7	4	2803=IfcWallStandardCase	35860=IfcSlab	1796265=IfcWallStandardCase	1796460=IfcWallStandardCase
+10	30	4	1	2622837=IfcWallStandardCase
+10	30	5	1	2622837=IfcWallStandardCase
+10	30	6	2	35693=IfcSlab	2622837=IfcWallStandardCase
+10	31	4	2	19261=IfcSlab	2622837=IfcWallStandardCase
+10	31	5	6	553=IfcFlowSegment	758467=IfcFlowSegment	885659=IfcFlowSegment	2622837=IfcWallStandardCase	1795375=IfcFlowFitting	1876467=IfcFlowSegment
+10	31	6	3	35693=IfcSlab	2622837=IfcWallStandardCase	1876467=IfcFlowSegment
+10	32	3	1	37732=IfcColumn
+10	32	4	2	37732=IfcColumn	19261=IfcSlab
+10	32	5	9	553=IfcFlowSegment	800879=IfcFlowSegment	37732=IfcColumn	873697=IfcFlowSegment	885117=IfcFlowSegment	2370107=IfcBuildingElementProxy	2374092=IfcFlowFitting	1792058=IfcBuildingElementProxy	1795375=IfcFlowFitting
+10	32	6	6	800879=IfcFlowSegment	35693=IfcSlab	37732=IfcColumn	885117=IfcFlowSegment	2370107=IfcBuildingElementProxy	2374092=IfcFlowFitting
+10	33	4	4	19261=IfcSlab	838282=IfcBuildingElementProxy	3079947=IfcBuildingElementProxy	3080210=IfcBuildingElementProxy
+10	33	5	31	902=IfcFlowSegment	553=IfcFlowSegment	286=IfcFlowSegment	1091=IfcFlowFitting	804712=IfcFlowSegment	838282=IfcBuildingElementProxy	844534=IfcFlowSegment	849277=IfcFlowSegment	849712=IfcFlowSegment	854959=IfcFlowSegment	874337=IfcFlowSegment	875855=IfcFlowSegment	875934=IfcFlowFitting	876056=IfcFlowSegment	876135=IfcFlowFitting	876222=IfcFlowSegment	3079947=IfcBuildingElementProxy	880076=IfcFlowFitting	880199=IfcFlowSegment	880278=IfcFlowFitting	3080366=IfcFlowSegment	3080466=IfcFlowSegment	3080654=IfcFlowFitting	796051=IfcFlowSegment	796229=IfcFlowFitting	796324=IfcFlowSegment	796538=IfcFlowSegment	796716=IfcFlowFitting	1665439=IfcBuildingElementProxy	1669920=IfcFlowFitting	1670031=IfcFlowFitting
+10	33	6	9	35693=IfcSlab	872999=IfcFlowSegment	795763=IfcFlowFitting	795863=IfcFlowSegment	795957=IfcFlowSegment	796229=IfcFlowFitting	1665439=IfcBuildingElementProxy	1669920=IfcFlowFitting	1670031=IfcFlowFitting
+10	34	3	1	38015=IfcColumn
+10	34	4	2	38015=IfcColumn	19261=IfcSlab
+10	34	5	15	286=IfcFlowSegment	803351=IfcFlowSegment	38015=IfcColumn	753566=IfcFlowSegment	1669920=IfcFlowFitting	1670031=IfcFlowFitting	1688560=IfcBuildingElementProxy	1688653=IfcFlowSegment	1691339=IfcFlowFitting	1691446=IfcFlowFitting	1875948=IfcBuildingElementProxy	1876041=IfcFlowSegment	1878528=IfcBuildingElementProxy	1878625=IfcFlowSegment	1921948=IfcFlowSegment
+10	34	6	8	35693=IfcSlab	36459=IfcSlab	36812=IfcWallStandardCase	38015=IfcColumn	1669920=IfcFlowFitting	1670031=IfcFlowFitting	2725473=IfcBeam	1921948=IfcFlowSegment
+10	34	7	2	36459=IfcSlab	2725473=IfcBeam
+10	35	4	2	19261=IfcSlab	1916495=IfcBuildingElementProxy
+10	35	5	24	838904=IfcFlowSegment	839070=IfcFlowSegment	839159=IfcFlowSegment	839238=IfcFlowFitting	839315=IfcFlowFitting	850388=IfcFlowSegment	850467=IfcFlowFitting	850554=IfcFlowSegment	850643=IfcFlowSegment	850732=IfcFlowSegment	850811=IfcFlowFitting	850888=IfcFlowFitting	753566=IfcFlowSegment	798351=IfcFlowSegment	1688560=IfcBuildingElementProxy	1688653=IfcFlowSegment	1691339=IfcFlowFitting	1691446=IfcFlowFitting	1875948=IfcBuildingElementProxy	1876041=IfcFlowSegment	1878528=IfcBuildingElementProxy	1878625=IfcFlowSegment	1916495=IfcBuildingElementProxy	1921948=IfcFlowSegment
+10	35	6	4	36459=IfcSlab	798351=IfcFlowSegment	1586550=IfcFlowSegment	1921948=IfcFlowSegment
+10	35	7	1	36459=IfcSlab
+10	36	4	4	38487=IfcBeam	19261=IfcSlab	2721649=IfcWallStandardCase	1916495=IfcBuildingElementProxy
+10	36	5	4	38487=IfcBeam	757210=IfcFlowSegment	2721649=IfcWallStandardCase	1916495=IfcBuildingElementProxy
+10	36	6	6	36459=IfcSlab	89765=IfcFlowSegment	867848=IfcFlowSegment	870130=IfcFlowSegment	3076247=IfcFlowSegment	2721649=IfcWallStandardCase
+10	36	7	2	36459=IfcSlab	2721649=IfcWallStandardCase
+10	39	5	2	2868=IfcWallStandardCase	2933=IfcWallStandardCase
+10	39	6	10	8258=IfcFlowSegment	8337=IfcFlowFitting	2868=IfcWallStandardCase	2933=IfcWallStandardCase	34878=IfcBeam	35860=IfcSlab	2713929=IfcSlab	2714422=IfcBeam	1796330=IfcWallStandardCase	1796395=IfcWallStandardCase
+10	39	7	5	2868=IfcWallStandardCase	2933=IfcWallStandardCase	35860=IfcSlab	1796330=IfcWallStandardCase	1796395=IfcWallStandardCase
+10	40	5	1	2868=IfcWallStandardCase
+10	40	6	10	8258=IfcFlowSegment	2868=IfcWallStandardCase	34878=IfcBeam	35860=IfcSlab	87824=IfcFlowSegment	87903=IfcFlowFitting	2713929=IfcSlab	2714422=IfcBeam	1796330=IfcWallStandardCase	1796395=IfcWallStandardCase
+10	40	7	5	2868=IfcWallStandardCase	35860=IfcSlab	87824=IfcFlowSegment	1796330=IfcWallStandardCase	1796395=IfcWallStandardCase
+10	41	5	2	2803=IfcWallStandardCase	2868=IfcWallStandardCase
+10	41	6	5	2803=IfcWallStandardCase	2868=IfcWallStandardCase	2713929=IfcSlab	1796265=IfcWallStandardCase	1796330=IfcWallStandardCase
+10	41	7	4	2803=IfcWallStandardCase	2868=IfcWallStandardCase	1796265=IfcWallStandardCase	1796330=IfcWallStandardCase
+11	30	4	1	2622837=IfcWallStandardCase
+11	30	5	1	2622837=IfcWallStandardCase
+11	30	6	2	35693=IfcSlab	2622837=IfcWallStandardCase
+11	31	4	3	19261=IfcSlab	3035756=IfcBuildingElementProxy	2622837=IfcWallStandardCase
+11	31	5	12	61844=IfcFlowSegment	3035756=IfcBuildingElementProxy	3035826=IfcFlowSegment	3036264=IfcFlowFitting	757304=IfcFlowSegment	758467=IfcFlowSegment	885659=IfcFlowSegment	2622837=IfcWallStandardCase	1795482=IfcFlowFitting	1803412=IfcFlowFitting	1803507=IfcFlowSegment	1876467=IfcFlowSegment
+11	31	6	3	35693=IfcSlab	2622837=IfcWallStandardCase	1876467=IfcFlowSegment
+11	32	4	2	19261=IfcSlab	873497=IfcFlowFitting
+11	32	5	15	757304=IfcFlowSegment	873497=IfcFlowFitting	873603=IfcFlowSegment	873697=IfcFlowSegment	885117=IfcFlowSegment	885301=IfcFlowSegment	885388=IfcFlowFitting	885475=IfcFlowFitting	798062=IfcFlowFitting	798162=IfcFlowSegment	2370107=IfcBuildingElementProxy	2370186=IfcFlowSegment	2373985=IfcFlowFitting	1792058=IfcBuildingElementProxy	1795482=IfcFlowFitting
+11	32	6	6	35693=IfcSlab	885117=IfcFlowSegment	885388=IfcFlowFitting	2370107=IfcBuildingElementProxy	2370186=IfcFlowSegment	2373985=IfcFlowFitting
+11	33	4	2	19261=IfcSlab	838358=IfcBuildingElementProxy
+11	33	5	37	804712=IfcFlowSegment	804811=IfcFlowSegment	804990=IfcFlowFitting	838358=IfcBuildingElementProxy	838724=IfcFlowSegment	838815=IfcFlowSegment	844411=IfcFlowFitting	850299=IfcFlowSegment	753376=IfcFlowSegment	854490=IfcFlowFitting	854613=IfcFlowSegment	874337=IfcFlowSegment	876056=IfcFlowSegment	880199=IfcFlowSegment	3080270=IfcFlowSegment	3080466=IfcFlowSegment	3080835=IfcFlowFitting	3081129=IfcFlowFitting	3081223=IfcFlowSegment	3081312=IfcFlowSegment	3081391=IfcFlowFitting	3081507=IfcFlowSegment	3081596=IfcFlowSegment	3081675=IfcFlowFitting	3081781=IfcFlowFitting	3081887=IfcFlowFitting	882426=IfcFlowSegment	797912=IfcFlowSegment	798062=IfcFlowFitting	798162=IfcFlowSegment	1670031=IfcFlowFitting	1813122=IfcFlowSegment	1813209=IfcFlowFitting	1876133=IfcBuildingElementProxy	1876226=IfcFlowSegment	1910894=IfcBuildingElementProxy	1911014=IfcFlowSegment
+11	33	6	8	35693=IfcSlab	753376=IfcFlowSegment	872999=IfcFlowSegment	1670031=IfcFlowFitting	1876133=IfcBuildingElementProxy	1876226=IfcFlowSegment	1910894=IfcBuildingElementProxy	1911014=IfcFlowSegment
+11	34	4	2	19261=IfcSlab	838358=IfcBuildingElementProxy
+11	34	5	16	803351=IfcFlowSegment	838358=IfcBuildingElementProxy	838815=IfcFlowSegment	850299=IfcFlowSegment	753376=IfcFlowSegment	854692=IfcFlowFitting	3081129=IfcFlowFitting	882426=IfcFlowSegment	1670031=IfcFlowFitting	1876133=IfcBuildingElementProxy	1876226=IfcFlowSegment	1878625=IfcFlowSegment	1910894=IfcBuildingElementProxy	1911014=IfcFlowSegment	1921856=IfcBuildingElementProxy	1921948=IfcFlowSegment
+11	34	6	12	35693=IfcSlab	36459=IfcSlab	36812=IfcWallStandardCase	753376=IfcFlowSegment	1670031=IfcFlowFitting	2725473=IfcBeam	1876133=IfcBuildingElementProxy	1876226=IfcFlowSegment	1910894=IfcBuildingElementProxy	1911014=IfcFlowSegment	1921856=IfcBuildingElementProxy	1921948=IfcFlowSegment
+11	34	7	2	36459=IfcSlab	2725473=IfcBeam
+11	35	4	2	19261=IfcSlab	1916495=IfcBuildingElementProxy
+11	35	5	11	838815=IfcFlowSegment	838904=IfcFlowSegment	838983=IfcFlowFitting	850388=IfcFlowSegment	854692=IfcFlowFitting	754970=IfcFlowSegment	798351=IfcFlowSegment	1878625=IfcFlowSegment	1916495=IfcBuildingElementProxy	1921856=IfcBuildingElementProxy	1921948=IfcFlowSegment
+11	35	6	6	36459=IfcSlab	754970=IfcFlowSegment	798351=IfcFlowSegment	1586550=IfcFlowSegment	1921856=IfcBuildingElementProxy	1921948=IfcFlowSegment
+11	35	7	1	36459=IfcSlab
+11	36	4	4	38487=IfcBeam	19261=IfcSlab	2721649=IfcWallStandardCase	1916495=IfcBuildingElementProxy
+11	36	5	5	38487=IfcBeam	754970=IfcFlowSegment	757210=IfcFlowSegment	2721649=IfcWallStandardCase	1916495=IfcBuildingElementProxy
+11	36	6	7	36459=IfcSlab	89765=IfcFlowSegment	754970=IfcFlowSegment	867848=IfcFlowSegment	870130=IfcFlowSegment	3076247=IfcFlowSegment	2721649=IfcWallStandardCase
+11	36	7	2	36459=IfcSlab	2721649=IfcWallStandardCase
+11	40	7	1	2741342=IfcSlab
+12	30	4	1	2622837=IfcWallStandardCase
+12	30	5	1	2622837=IfcWallStandardCase
+12	30	6	2	35693=IfcSlab	2622837=IfcWallStandardCase
+12	31	3	1	157099=IfcFlowSegment
+12	31	4	3	19261=IfcSlab	157099=IfcFlowSegment	2622837=IfcWallStandardCase
+12	31	5	6	757304=IfcFlowSegment	758467=IfcFlowSegment	883757=IfcFlowFitting	2622837=IfcWallStandardCase	1803507=IfcFlowSegment	1876467=IfcFlowSegment
+12	31	6	4	35693=IfcSlab	883757=IfcFlowFitting	2622837=IfcWallStandardCase	1876467=IfcFlowSegment
+12	32	3	1	38485=IfcColumn
+12	32	4	3	38485=IfcColumn	19261=IfcSlab	873497=IfcFlowFitting
+12	32	5	7	38485=IfcColumn	757304=IfcFlowSegment	873497=IfcFlowFitting	797818=IfcFlowSegment	798062=IfcFlowFitting	798162=IfcFlowSegment	2370186=IfcFlowSegment
+12	32	6	3	35693=IfcSlab	38485=IfcColumn	2370186=IfcFlowSegment
+12	33	4	4	19261=IfcSlab	838358=IfcBuildingElementProxy	3078011=IfcBuildingElementProxy	3080144=IfcBuildingElementProxy
+12	33	5	35	802311=IfcFlowSegment	838358=IfcBuildingElementProxy	838724=IfcFlowSegment	753376=IfcFlowSegment	854613=IfcFlowSegment	854779=IfcFlowSegment	854869=IfcFlowSegment	873094=IfcFlowSegment	874272=IfcFlowSegment	874337=IfcFlowSegment	874404=IfcFlowSegment	874610=IfcFlowFitting	874691=IfcFlowFitting	874771=IfcFlowSegment	874953=IfcFlowFitting	3078011=IfcBuildingElementProxy	3078231=IfcFlowSegment	3078326=IfcFlowSegment	3080270=IfcFlowSegment	880394=IfcFlowSegment	880474=IfcFlowFitting	880596=IfcFlowSegment	880676=IfcFlowFitting	880763=IfcFlowSegment	880843=IfcFlowFitting	880965=IfcFlowSegment	881044=IfcFlowFitting	882426=IfcFlowSegment	883640=IfcFlowFitting	884283=IfcFlowFitting	797912=IfcFlowSegment	798062=IfcFlowFitting	798162=IfcFlowSegment	1813122=IfcFlowSegment	1813209=IfcFlowFitting
+12	33	6	5	35693=IfcSlab	753376=IfcFlowSegment	872999=IfcFlowSegment	874953=IfcFlowFitting	884283=IfcFlowFitting
+12	34	3	1	38302=IfcColumn
+12	34	4	9	802406=IfcFlowSegment	802585=IfcFlowFitting	38302=IfcColumn	18755=IfcBeam	19261=IfcSlab	838358=IfcBuildingElementProxy	3078011=IfcBuildingElementProxy	3080144=IfcBuildingElementProxy	2689512=IfcBeam
+12	34	5	14	802311=IfcFlowSegment	802585=IfcFlowFitting	803351=IfcFlowSegment	38302=IfcColumn	838358=IfcBuildingElementProxy	753376=IfcFlowSegment	3078011=IfcBuildingElementProxy	3078136=IfcFlowSegment	3078231=IfcFlowSegment	882426=IfcFlowSegment	884283=IfcFlowFitting	798445=IfcFlowSegment	1878625=IfcFlowSegment	1921856=IfcBuildingElementProxy
+12	34	6	9	35693=IfcSlab	36459=IfcSlab	36812=IfcWallStandardCase	38302=IfcColumn	753376=IfcFlowSegment	884283=IfcFlowFitting	798445=IfcFlowSegment	2725473=IfcBeam	1921856=IfcBuildingElementProxy
+12	34	7	2	36459=IfcSlab	2725473=IfcBeam
+12	35	4	10	10852=IfcWallStandardCase	802406=IfcFlowSegment	802585=IfcFlowFitting	18755=IfcBeam	18951=IfcBeam	19261=IfcSlab	2527363=IfcBuildingElementProxy	2689512=IfcBeam	2689689=IfcBeam	1916495=IfcBuildingElementProxy
+12	35	5	17	10852=IfcWallStandardCase	802585=IfcFlowFitting	153492=IfcFlowSegment	754970=IfcFlowSegment	755327=IfcFlowFitting	756836=IfcFlowFitting	756936=IfcFlowSegment	3076399=IfcFlowFitting	798445=IfcFlowSegment	2527363=IfcBuildingElementProxy	2527429=IfcFlowSegment	2527515=IfcFlowSegment	2527974=IfcFlowFitting	1878625=IfcFlowSegment	1880482=IfcFlowSegment	1916495=IfcBuildingElementProxy	1921856=IfcBuildingElementProxy
+12	35	6	10	10852=IfcWallStandardCase	36459=IfcSlab	754970=IfcFlowSegment	755327=IfcFlowFitting	756836=IfcFlowFitting	756936=IfcFlowSegment	798445=IfcFlowSegment	1586550=IfcFlowSegment	1880482=IfcFlowSegment	1921856=IfcBuildingElementProxy
+12	35	7	2	10852=IfcWallStandardCase	36459=IfcSlab
+12	36	3	1	154099=IfcFlowSegment
+12	36	4	9	10852=IfcWallStandardCase	38487=IfcBeam	18755=IfcBeam	19261=IfcSlab	825039=IfcDoor	154099=IfcFlowSegment	2689512=IfcBeam	2721649=IfcWallStandardCase	1916495=IfcBuildingElementProxy
+12	36	5	18	10852=IfcWallStandardCase	38487=IfcBeam	825039=IfcDoor	153492=IfcFlowSegment	754970=IfcFlowSegment	755327=IfcFlowFitting	756686=IfcFlowSegment	756836=IfcFlowFitting	756936=IfcFlowSegment	757115=IfcFlowFitting	757210=IfcFlowSegment	3076080=IfcFlowSegment	3076323=IfcFlowFitting	2721649=IfcWallStandardCase	1880130=IfcBuildingElementProxy	1880223=IfcFlowSegment	1880482=IfcFlowSegment	1916495=IfcBuildingElementProxy
+12	36	6	15	10852=IfcWallStandardCase	36459=IfcSlab	89765=IfcFlowSegment	153578=IfcFlowSegment	754970=IfcFlowSegment	755327=IfcFlowFitting	756836=IfcFlowFitting	756936=IfcFlowSegment	867848=IfcFlowSegment	870130=IfcFlowSegment	3076080=IfcFlowSegment	3076156=IfcFlowFitting	3076247=IfcFlowSegment	2721649=IfcWallStandardCase	1880482=IfcFlowSegment
+12	36	7	3	10852=IfcWallStandardCase	36459=IfcSlab	2721649=IfcWallStandardCase
+12	40	5	4	376126=IfcWallStandardCase	378041=IfcSlab	2721925=IfcWallStandardCase	2741283=IfcWallStandardCase
+12	40	6	3	376126=IfcWallStandardCase	2721925=IfcWallStandardCase	2741283=IfcWallStandardCase
+12	40	7	7	376126=IfcWallStandardCase	376526=IfcStairFlight	376555=IfcMember	376583=IfcMember	2721925=IfcWallStandardCase	2741283=IfcWallStandardCase	2741342=IfcSlab
+12	40	8	2	376126=IfcWallStandardCase	378498=IfcSlab
+13	30	4	1	2622837=IfcWallStandardCase
+13	30	5	1	2622837=IfcWallStandardCase
+13	30	6	2	35693=IfcSlab	2622837=IfcWallStandardCase
+13	31	4	2	19261=IfcSlab	2622837=IfcWallStandardCase
+13	31	5	11	754781=IfcFlowSegment	757304=IfcFlowSegment	758467=IfcFlowSegment	884859=IfcFlowFitting	885007=IfcFlowFitting	885987=IfcFlowSegment	886175=IfcFlowFitting	886266=IfcFlowFitting	2622837=IfcWallStandardCase	1803507=IfcFlowSegment	1876708=IfcFlowSegment
+13	31	6	6	35693=IfcSlab	754781=IfcFlowSegment	884859=IfcFlowFitting	885007=IfcFlowFitting	2622837=IfcWallStandardCase	1876708=IfcFlowSegment
+13	32	4	3	19261=IfcSlab	881399=IfcFlowFitting	881486=IfcFlowFitting
+13	32	5	21	757304=IfcFlowSegment	873189=IfcFlowSegment	881131=IfcFlowSegment	881225=IfcFlowSegment	881312=IfcFlowFitting	881399=IfcFlowFitting	881486=IfcFlowFitting	885987=IfcFlowSegment	886175=IfcFlowFitting	886266=IfcFlowFitting	797818=IfcFlowSegment	1819698=IfcFlowSegment	1819788=IfcFlowSegment	1820126=IfcFlowSegment	1820215=IfcFlowSegment	1820388=IfcFlowSegment	1820468=IfcFlowFitting	1820551=IfcFlowFitting	1820727=IfcFlowSegment	1820806=IfcFlowFitting	1820889=IfcFlowFitting
+13	32	6	1	35693=IfcSlab
+13	33	4	2	187=IfcSlab	19261=IfcSlab
+13	33	5	19	802311=IfcFlowSegment	757589=IfcFlowSegment	873094=IfcFlowSegment	873189=IfcFlowSegment	874272=IfcFlowSegment	3080270=IfcFlowSegment	880596=IfcFlowSegment	3080745=IfcFlowFitting	880965=IfcFlowSegment	881678=IfcFlowSegment	882426=IfcFlowSegment	883549=IfcFlowFitting	884402=IfcFlowFitting	884549=IfcFlowFitting	785868=IfcFlowSegment	1820126=IfcFlowSegment	1820215=IfcFlowSegment	1820295=IfcFlowFitting	1820634=IfcFlowFitting
+13	33	6	6	564=IfcSlab	395=IfcSlab	35693=IfcSlab	881678=IfcFlowSegment	884402=IfcFlowFitting	884549=IfcFlowFitting
+13	34	4	8	802406=IfcFlowSegment	802585=IfcFlowFitting	18872=IfcBeam	19261=IfcSlab	835832=IfcFlowSegment	836011=IfcFlowFitting	836112=IfcBuildingElementProxy	2689610=IfcBeam
+13	34	5	23	802311=IfcFlowSegment	802585=IfcFlowFitting	803351=IfcFlowSegment	836112=IfcBuildingElementProxy	753471=IfcFlowSegment	757589=IfcFlowSegment	873189=IfcFlowSegment	881584=IfcFlowFitting	881678=IfcFlowSegment	881773=IfcFlowSegment	881870=IfcFlowSegment	881959=IfcFlowFitting	882145=IfcFlowFitting	882426=IfcFlowSegment	884402=IfcFlowFitting	884549=IfcFlowFitting	884681=IfcFlowFitting	884772=IfcFlowFitting	785868=IfcFlowSegment	785964=IfcFlowSegment	786692=IfcFlowFitting	798445=IfcFlowSegment	1878625=IfcFlowSegment
+13	34	6	8	35693=IfcSlab	36459=IfcSlab	36812=IfcWallStandardCase	881678=IfcFlowSegment	884402=IfcFlowFitting	884549=IfcFlowFitting	798445=IfcFlowSegment	2725473=IfcBeam
+13	34	7	2	36459=IfcSlab	2725473=IfcBeam
+13	35	4	14	10852=IfcWallStandardCase	10916=IfcWallStandardCase	10980=IfcWallStandardCase	802406=IfcFlowSegment	802585=IfcFlowFitting	18872=IfcBeam	18951=IfcBeam	19261=IfcSlab	830379=IfcDoor	835832=IfcFlowSegment	836011=IfcFlowFitting	836112=IfcBuildingElementProxy	2689610=IfcBeam	2689689=IfcBeam
+13	35	5	16	10852=IfcWallStandardCase	10916=IfcWallStandardCase	10980=IfcWallStandardCase	802585=IfcFlowFitting	830379=IfcDoor	836112=IfcBuildingElementProxy	755065=IfcFlowSegment	881959=IfcFlowFitting	785964=IfcFlowSegment	786692=IfcFlowFitting	798445=IfcFlowSegment	1878625=IfcFlowSegment	1880366=IfcBuildingElementProxy	1880482=IfcFlowSegment	1880570=IfcBuildingElementProxy	1880667=IfcFlowSegment
+13	35	6	11	10852=IfcWallStandardCase	10916=IfcWallStandardCase	10980=IfcWallStandardCase	36459=IfcSlab	755065=IfcFlowSegment	798445=IfcFlowSegment	1586550=IfcFlowSegment	1880366=IfcBuildingElementProxy	1880482=IfcFlowSegment	1880570=IfcBuildingElementProxy	1880667=IfcFlowSegment
+13	35	7	4	10852=IfcWallStandardCase	10916=IfcWallStandardCase	10980=IfcWallStandardCase	36459=IfcSlab
+13	36	1	18	8484=IfcColumn	8526=IfcColumn	8568=IfcColumn	8610=IfcColumn	8652=IfcColumn	8694=IfcColumn	8736=IfcColumn	8778=IfcColumn	8820=IfcColumn	2658628=IfcColumn	2658670=IfcColumn	2658712=IfcColumn	2658754=IfcColumn	2658796=IfcColumn	2658838=IfcColumn	2658880=IfcColumn	2658922=IfcColumn	2658964=IfcColumn
+13	36	2	18	8484=IfcColumn	8526=IfcColumn	8568=IfcColumn	8610=IfcColumn	8652=IfcColumn	8694=IfcColumn	8736=IfcColumn	8778=IfcColumn	8820=IfcColumn	2658628=IfcColumn	2658670=IfcColumn	2658712=IfcColumn	2658754=IfcColumn	2658796=IfcColumn	2658838=IfcColumn	2658880=IfcColumn	2658922=IfcColumn	2658964=IfcColumn
+13	36	3	18	8484=IfcColumn	8526=IfcColumn	8568=IfcColumn	8610=IfcColumn	8652=IfcColumn	8694=IfcColumn	8736=IfcColumn	8778=IfcColumn	8820=IfcColumn	2658628=IfcColumn	2658670=IfcColumn	2658712=IfcColumn	2658754=IfcColumn	2658796=IfcColumn	2658838=IfcColumn	2658880=IfcColumn	2658922=IfcColumn	2658964=IfcColumn
+13	36	4	30	3063=IfcWallStandardCase	8484=IfcColumn	8526=IfcColumn	8568=IfcColumn	8610=IfcColumn	8652=IfcColumn	8694=IfcColumn	8736=IfcColumn	8778=IfcColumn	8820=IfcColumn	10852=IfcWallStandardCase	10980=IfcWallStandardCase	38487=IfcBeam	18872=IfcBeam	19261=IfcSlab	114501=IfcFlowSegment	115417=IfcFlowFitting	825039=IfcDoor	2658628=IfcColumn	2658670=IfcColumn	2658712=IfcColumn	2658754=IfcColumn	2658796=IfcColumn	2658838=IfcColumn	2658880=IfcColumn	2658922=IfcColumn	2658964=IfcColumn	2689610=IfcBeam	2721649=IfcWallStandardCase	2729151=IfcBeam
+13	36	5	33	3063=IfcWallStandardCase	8484=IfcColumn	8526=IfcColumn	8568=IfcColumn	8610=IfcColumn	8652=IfcColumn	8694=IfcColumn	8736=IfcColumn	8778=IfcColumn	8820=IfcColumn	10852=IfcWallStandardCase	10980=IfcWallStandardCase	38487=IfcBeam	114501=IfcFlowSegment	825039=IfcDoor	755065=IfcFlowSegment	375893=IfcWallStandardCase	378041=IfcSlab	2658628=IfcColumn	2658670=IfcColumn	2658712=IfcColumn	2658754=IfcColumn	2658796=IfcColumn	2658838=IfcColumn	2658880=IfcColumn	2658922=IfcColumn	2658964=IfcColumn	2721649=IfcWallStandardCase	2729151=IfcBeam	1880366=IfcBuildingElementProxy	1880482=IfcFlowSegment	1880570=IfcBuildingElementProxy	1880667=IfcFlowSegment
+13	36	6	46	8484=IfcColumn	8526=IfcColumn	8568=IfcColumn	8610=IfcColumn	8652=IfcColumn	8694=IfcColumn	8736=IfcColumn	8778=IfcColumn	8820=IfcColumn	10852=IfcWallStandardCase	10980=IfcWallStandardCase	32664=IfcFlowSegment	93153=IfcFlowSegment	36459=IfcSlab	89443=IfcFlowSegment	89528=IfcFlowSegment	89603=IfcFlowFitting	89679=IfcFlowFitting	89765=IfcFlowSegment	89840=IfcFlowFitting	114501=IfcFlowSegment	114577=IfcFlowFitting	153578=IfcFlowSegment	755065=IfcFlowSegment	867848=IfcFlowSegment	867938=IfcFlowSegment	868507=IfcFlowSegment	868583=IfcFlowFitting	868674=IfcFlowSegment	868826=IfcFlowFitting	870130=IfcFlowSegment	375893=IfcWallStandardCase	2658628=IfcColumn	2658670=IfcColumn	2658712=IfcColumn	2658754=IfcColumn	2658796=IfcColumn	2658838=IfcColumn	2658880=IfcColumn	2658922=IfcColumn	2658964=IfcColumn	2721649=IfcWallStandardCase	1880366=IfcBuildingElementProxy	1880482=IfcFlowSegment	1880570=IfcBuildingElementProxy	1880667=IfcFlowSegment
+13	36	7	5	10852=IfcWallStandardCase	10980=IfcWallStandardCase	36459=IfcSlab	375893=IfcWallStandardCase	2721649=IfcWallStandardCase
+13	37	1	8	8484=IfcColumn	8526=IfcColumn	8568=IfcColumn	8610=IfcColumn	2658628=IfcColumn	2658670=IfcColumn	2658712=IfcColumn	2658754=IfcColumn
+13	37	2	8	8484=IfcColumn	8526=IfcColumn	8568=IfcColumn	8610=IfcColumn	2658628=IfcColumn	2658670=IfcColumn	2658712=IfcColumn	2658754=IfcColumn
+13	37	3	8	8484=IfcColumn	8526=IfcColumn	8568=IfcColumn	8610=IfcColumn	2658628=IfcColumn	2658670=IfcColumn	2658712=IfcColumn	2658754=IfcColumn
+13	37	4	9	8484=IfcColumn	8526=IfcColumn	8568=IfcColumn	8610=IfcColumn	2527594=IfcBuildingElementProxy	2658628=IfcColumn	2658670=IfcColumn	2658712=IfcColumn	2658754=IfcColumn
+13	37	5	14	8484=IfcColumn	8526=IfcColumn	8568=IfcColumn	8610=IfcColumn	375893=IfcWallStandardCase	378041=IfcSlab	2527594=IfcBuildingElementProxy	2527660=IfcFlowSegment	2527746=IfcFlowSegment	2527898=IfcFlowFitting	2658628=IfcColumn	2658670=IfcColumn	2658712=IfcColumn	2658754=IfcColumn
+13	37	6	17	8484=IfcColumn	8526=IfcColumn	8568=IfcColumn	8610=IfcColumn	32549=IfcFlowSegment	32664=IfcFlowSegment	93153=IfcFlowSegment	36459=IfcSlab	868750=IfcFlowFitting	375893=IfcWallStandardCase	378261=IfcSlab	2527746=IfcFlowSegment	2527822=IfcFlowFitting	2658628=IfcColumn	2658670=IfcColumn	2658712=IfcColumn	2658754=IfcColumn
+13	37	7	3	36459=IfcSlab	375893=IfcWallStandardCase	378261=IfcSlab
+13	38	5	4	375893=IfcWallStandardCase	377545=IfcStairFlight	377573=IfcMember	378041=IfcSlab
+13	38	6	6	93153=IfcFlowSegment	631175=IfcWallStandardCase	375893=IfcWallStandardCase	377545=IfcStairFlight	377573=IfcMember	378261=IfcSlab
+13	38	7	3	631175=IfcWallStandardCase	375893=IfcWallStandardCase	378261=IfcSlab
+13	39	5	4	632630=IfcWallStandardCase	375893=IfcWallStandardCase	378041=IfcSlab	2721860=IfcWallStandardCase
+13	39	6	10	93153=IfcFlowSegment	631175=IfcWallStandardCase	632630=IfcWallStandardCase	375893=IfcWallStandardCase	377005=IfcStairFlight	377033=IfcMember	377545=IfcStairFlight	377573=IfcMember	377776=IfcSlab	2721860=IfcWallStandardCase
+13	39	7	4	631175=IfcWallStandardCase	632630=IfcWallStandardCase	375893=IfcWallStandardCase	2721860=IfcWallStandardCase
+13	40	4	5	91214=IfcFlowSegment	91300=IfcFlowSegment	91384=IfcFlowSegment	91469=IfcFlowSegment	89283=IfcFlowSegment
+13	40	5	10	91214=IfcFlowSegment	91300=IfcFlowSegment	91384=IfcFlowSegment	91469=IfcFlowSegment	89283=IfcFlowSegment	632630=IfcWallStandardCase	376023=IfcWallStandardCase	376126=IfcWallStandardCase	378041=IfcSlab	2721925=IfcWallStandardCase
+13	40	6	26	91214=IfcFlowSegment	91300=IfcFlowSegment	91384=IfcFlowSegment	91469=IfcFlowSegment	92662=IfcFlowFitting	92748=IfcFlowSegment	92823=IfcFlowFitting	92908=IfcFlowSegment	92983=IfcFlowFitting	93068=IfcFlowSegment	93153=IfcFlowSegment	93228=IfcFlowFitting	93313=IfcFlowSegment	93764=IfcFlowFitting	89283=IfcFlowSegment	89357=IfcFlowFitting	632630=IfcWallStandardCase	376023=IfcWallStandardCase	376126=IfcWallStandardCase	376526=IfcStairFlight	376555=IfcMember	376583=IfcMember	377005=IfcStairFlight	377033=IfcMember	378172=IfcSlab	2721925=IfcWallStandardCase
+13	40	7	9	631110=IfcWallStandardCase	632630=IfcWallStandardCase	376023=IfcWallStandardCase	376126=IfcWallStandardCase	376526=IfcStairFlight	376555=IfcMember	376583=IfcMember	378498=IfcSlab	2721925=IfcWallStandardCase
+13	40	8	2	376126=IfcWallStandardCase	378498=IfcSlab
+14	30	4	1	2622837=IfcWallStandardCase
+14	30	5	1	2622837=IfcWallStandardCase
+14	30	6	3	35693=IfcSlab	36528=IfcSlab	2622837=IfcWallStandardCase
+14	31	4	3	11044=IfcWallStandardCase	19261=IfcSlab	2622837=IfcWallStandardCase
+14	31	5	19	11044=IfcWallStandardCase	805612=IfcFlowSegment	757684=IfcFlowSegment	758467=IfcFlowSegment	875504=IfcFlowSegment	885569=IfcFlowSegment	885745=IfcFlowSegment	885821=IfcFlowFitting	885899=IfcFlowFitting	885987=IfcFlowSegment	886175=IfcFlowFitting	886266=IfcFlowFitting	886829=IfcFlowFitting	2622837=IfcWallStandardCase	1803507=IfcFlowSegment	1876611=IfcBuildingElementProxy	1876708=IfcFlowSegment	1885030=IfcFlowSegment	1928990=IfcFlowTerminal
+14	31	6	7	11044=IfcWallStandardCase	35693=IfcSlab	36528=IfcSlab	2622837=IfcWallStandardCase	1876611=IfcBuildingElementProxy	1876708=IfcFlowSegment	1885030=IfcFlowSegment
+14	32	3	1	38721=IfcColumn
+14	32	4	9	11044=IfcWallStandardCase	11107=IfcWallStandardCase	38721=IfcColumn	19030=IfcBeam	19109=IfcBeam	19261=IfcSlab	869189=IfcDoor	2689768=IfcBeam	2689891=IfcBeam
+14	32	5	13	11044=IfcWallStandardCase	11107=IfcWallStandardCase	44043=IfcFlowSegment	38721=IfcColumn	869189=IfcDoor	872317=IfcFlowFitting	875504=IfcFlowSegment	885569=IfcFlowSegment	885987=IfcFlowSegment	886175=IfcFlowFitting	886266=IfcFlowFitting	1819698=IfcFlowSegment	1819788=IfcFlowSegment
+14	32	6	7	3398=IfcBeam	11044=IfcWallStandardCase	11107=IfcWallStandardCase	35693=IfcSlab	36528=IfcSlab	38721=IfcColumn	2133543=IfcBeam
+14	33	4	7	11044=IfcWallStandardCase	11863=IfcWallStandardCase	19030=IfcBeam	19109=IfcBeam	19261=IfcSlab	2689768=IfcBeam	2689891=IfcBeam
+14	33	5	17	11044=IfcWallStandardCase	11863=IfcWallStandardCase	805085=IfcFlowSegment	805173=IfcFlowFitting	757589=IfcFlowSegment	874272=IfcFlowSegment	875761=IfcFlowSegment	3081037=IfcFlowFitting	882426=IfcFlowSegment	882523=IfcFlowSegment	882710=IfcFlowFitting	882807=IfcFlowSegment	883461=IfcFlowFitting	883549=IfcFlowFitting	884549=IfcFlowFitting	1876852=IfcBuildingElementProxy	1876949=IfcFlowSegment
+14	33	6	10	3398=IfcBeam	11044=IfcWallStandardCase	11863=IfcWallStandardCase	35693=IfcSlab	36528=IfcSlab	875761=IfcFlowSegment	884549=IfcFlowFitting	2133543=IfcBeam	1876852=IfcBuildingElementProxy	1876949=IfcFlowSegment
+14	34	3	1	38993=IfcColumn
+14	34	4	11	3169=IfcWallStandardCase	11044=IfcWallStandardCase	18872=IfcBeam	38993=IfcColumn	19030=IfcBeam	19109=IfcBeam	19261=IfcSlab	836011=IfcFlowFitting	2689610=IfcBeam	2689768=IfcBeam	2689891=IfcBeam
+14	34	5	22	3169=IfcWallStandardCase	11044=IfcWallStandardCase	803351=IfcFlowSegment	805085=IfcFlowSegment	805173=IfcFlowFitting	38993=IfcColumn	810816=IfcFlowSegment	757589=IfcFlowSegment	872813=IfcFlowSegment	875761=IfcFlowSegment	3081037=IfcFlowFitting	881584=IfcFlowFitting	882426=IfcFlowSegment	882523=IfcFlowSegment	882710=IfcFlowFitting	884549=IfcFlowFitting	785964=IfcFlowSegment	798445=IfcFlowSegment	1876852=IfcBuildingElementProxy	1876949=IfcFlowSegment	1926595=IfcFlowTerminal	1927246=IfcFlowTerminal
+14	34	6	15	3169=IfcWallStandardCase	3398=IfcBeam	11044=IfcWallStandardCase	35693=IfcSlab	36459=IfcSlab	36528=IfcSlab	36812=IfcWallStandardCase	38993=IfcColumn	875761=IfcFlowSegment	884549=IfcFlowFitting	798445=IfcFlowSegment	2133543=IfcBeam	2725473=IfcBeam	1876852=IfcBuildingElementProxy	1876949=IfcFlowSegment
+14	34	7	3	3169=IfcWallStandardCase	36459=IfcSlab	2725473=IfcBeam
+14	35	4	7	3169=IfcWallStandardCase	10916=IfcWallStandardCase	18872=IfcBeam	19261=IfcSlab	836011=IfcFlowFitting	2689610=IfcBeam	2721797=IfcWallStandardCase
+14	35	5	6	3169=IfcWallStandardCase	10916=IfcWallStandardCase	755065=IfcFlowSegment	785964=IfcFlowSegment	798445=IfcFlowSegment	2721797=IfcWallStandardCase
+14	35	6	11	3169=IfcWallStandardCase	10916=IfcWallStandardCase	36459=IfcSlab	36528=IfcSlab	755065=IfcFlowSegment	868109=IfcFlowSegment	868421=IfcFlowFitting	798445=IfcFlowSegment	1586550=IfcFlowSegment	2721797=IfcWallStandardCase	2722011=IfcBeam
+14	35	7	4	3169=IfcWallStandardCase	10916=IfcWallStandardCase	36459=IfcSlab	2722011=IfcBeam
+14	36	1	6	8610=IfcColumn	8652=IfcColumn	8694=IfcColumn	2658754=IfcColumn	2658796=IfcColumn	2658838=IfcColumn
+14	36	2	6	8610=IfcColumn	8652=IfcColumn	8694=IfcColumn	2658754=IfcColumn	2658796=IfcColumn	2658838=IfcColumn
+14	36	3	6	8610=IfcColumn	8652=IfcColumn	8694=IfcColumn	2658754=IfcColumn	2658796=IfcColumn	2658838=IfcColumn
+14	36	4	15	3063=IfcWallStandardCase	3235=IfcWallStandardCase	3339=IfcWallStandardCase	8610=IfcColumn	8652=IfcColumn	8694=IfcColumn	12029=IfcWallStandardCase	38487=IfcBeam	18872=IfcBeam	19261=IfcSlab	2658754=IfcColumn	2658796=IfcColumn	2658838=IfcColumn	2689610=IfcBeam	2729151=IfcBeam
+14	36	5	20	3063=IfcWallStandardCase	3235=IfcWallStandardCase	3339=IfcWallStandardCase	8610=IfcColumn	8652=IfcColumn	8694=IfcColumn	12029=IfcWallStandardCase	38487=IfcBeam	755065=IfcFlowSegment	375958=IfcWallStandardCase	378041=IfcSlab	2658754=IfcColumn	2658796=IfcColumn	2658838=IfcColumn	2729151=IfcBeam	2780414=IfcRailing	2781748=IfcRailing	1804942=IfcStairFlight	1804973=IfcMember	1805004=IfcMember
+14	36	6	36	3235=IfcWallStandardCase	3339=IfcWallStandardCase	8610=IfcColumn	8652=IfcColumn	8694=IfcColumn	12029=IfcWallStandardCase	36459=IfcSlab	36528=IfcSlab	755065=IfcFlowSegment	867848=IfcFlowSegment	867938=IfcFlowSegment	868024=IfcFlowSegment	868109=IfcFlowSegment	868194=IfcFlowSegment	868269=IfcFlowFitting	868345=IfcFlowFitting	868912=IfcFlowSegment	868998=IfcFlowSegment	869074=IfcFlowFitting	869150=IfcFlowFitting	869312=IfcFlowSegment	869402=IfcFlowSegment	869482=IfcFlowFitting	869559=IfcFlowFitting	869723=IfcFlowSegment	869808=IfcFlowSegment	869893=IfcFlowSegment	869968=IfcFlowFitting	870044=IfcFlowFitting	870130=IfcFlowSegment	870205=IfcFlowFitting	375958=IfcWallStandardCase	2658754=IfcColumn	2658796=IfcColumn	2658838=IfcColumn	2722011=IfcBeam
+14	36	7	3	36459=IfcSlab	375958=IfcWallStandardCase	2722011=IfcBeam
+14	37	1	2	8610=IfcColumn	2658754=IfcColumn
+14	37	2	2	8610=IfcColumn	2658754=IfcColumn
+14	37	3	2	8610=IfcColumn	2658754=IfcColumn
+14	37	4	5	3339=IfcWallStandardCase	3421=IfcWallStandardCase	8610=IfcColumn	19261=IfcSlab	2658754=IfcColumn
+14	37	5	6	3339=IfcWallStandardCase	3421=IfcWallStandardCase	8610=IfcColumn	375958=IfcWallStandardCase	378041=IfcSlab	2658754=IfcColumn
+14	37	6	8	3339=IfcWallStandardCase	3421=IfcWallStandardCase	8610=IfcColumn	36459=IfcSlab	36528=IfcSlab	375958=IfcWallStandardCase	378261=IfcSlab	2658754=IfcColumn
+14	37	7	3	36459=IfcSlab	375958=IfcWallStandardCase	378261=IfcSlab
+14	38	5	4	375958=IfcWallStandardCase	377545=IfcStairFlight	377601=IfcMember	378041=IfcSlab
+14	38	6	5	631175=IfcWallStandardCase	375958=IfcWallStandardCase	377545=IfcStairFlight	377601=IfcMember	378261=IfcSlab
+14	38	7	3	631175=IfcWallStandardCase	375958=IfcWallStandardCase	378261=IfcSlab
+14	39	5	4	632565=IfcWallStandardCase	375958=IfcWallStandardCase	378041=IfcSlab	378415=IfcWallStandardCase
+14	39	6	9	631175=IfcWallStandardCase	632565=IfcWallStandardCase	375958=IfcWallStandardCase	377005=IfcStairFlight	377061=IfcMember	377545=IfcStairFlight	377601=IfcMember	377776=IfcSlab	378415=IfcWallStandardCase
+14	39	7	4	631175=IfcWallStandardCase	632565=IfcWallStandardCase	375958=IfcWallStandardCase	378415=IfcWallStandardCase
+14	40	5	3	632565=IfcWallStandardCase	376023=IfcWallStandardCase	378041=IfcSlab
+14	40	6	5	632565=IfcWallStandardCase	376023=IfcWallStandardCase	377005=IfcStairFlight	377061=IfcMember	378172=IfcSlab
+14	40	7	2	632565=IfcWallStandardCase	376023=IfcWallStandardCase
+15	30	4	1	2622837=IfcWallStandardCase
+15	30	5	1	2622837=IfcWallStandardCase
+15	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+15	31	4	3	11737=IfcWallStandardCase	19261=IfcSlab	2622837=IfcWallStandardCase
+15	31	5	8	11737=IfcWallStandardCase	805612=IfcFlowSegment	809581=IfcFlowSegment	809918=IfcFlowFitting	757684=IfcFlowSegment	875504=IfcFlowSegment	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+15	31	6	4	11737=IfcWallStandardCase	36528=IfcSlab	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+15	32	4	9	11107=IfcWallStandardCase	11737=IfcWallStandardCase	19226=IfcBeam	19261=IfcSlab	19520=IfcBeam	880443=IfcDoor	891671=IfcDoor	2690008=IfcBeam	2690302=IfcBeam
+15	32	5	10	11107=IfcWallStandardCase	11737=IfcWallStandardCase	44043=IfcFlowSegment	760474=IfcFlowSegment	875504=IfcFlowSegment	880443=IfcDoor	886386=IfcFlowFitting	891671=IfcDoor	1819698=IfcFlowSegment	1819788=IfcFlowSegment
+15	32	6	3	11107=IfcWallStandardCase	11737=IfcWallStandardCase	36528=IfcSlab
+15	33	3	3	2775700=IfcRailing	2779080=IfcRailing	1803677=IfcMember
+15	33	4	13	11863=IfcWallStandardCase	13320=IfcWallStandardCase	19226=IfcBeam	19261=IfcSlab	19520=IfcBeam	891671=IfcDoor	2690008=IfcBeam	2690302=IfcBeam	2775700=IfcRailing	2779080=IfcRailing	1803120=IfcStairFlight	1803486=IfcMember	1803677=IfcMember
+15	33	5	18	11863=IfcWallStandardCase	13320=IfcWallStandardCase	805173=IfcFlowFitting	805517=IfcFlowSegment	760474=IfcFlowSegment	874272=IfcFlowSegment	875170=IfcFlowFitting	882807=IfcFlowSegment	882902=IfcFlowSegment	882999=IfcFlowSegment	883187=IfcFlowFitting	883280=IfcFlowFitting	883461=IfcFlowFitting	886505=IfcFlowFitting	891671=IfcDoor	1876949=IfcFlowSegment	1877036=IfcBuildingElementProxy	1877133=IfcFlowSegment
+15	33	6	9	11863=IfcWallStandardCase	13320=IfcWallStandardCase	805517=IfcFlowSegment	36528=IfcSlab	882999=IfcFlowSegment	883187=IfcFlowFitting	1876949=IfcFlowSegment	1877036=IfcBuildingElementProxy	1877133=IfcFlowSegment
+15	34	3	3	2775700=IfcRailing	2779080=IfcRailing	1803677=IfcMember
+15	34	4	10	13320=IfcWallStandardCase	19226=IfcBeam	19261=IfcSlab	19441=IfcBeam	2690008=IfcBeam	2690223=IfcBeam	2775700=IfcRailing	2779080=IfcRailing	1803120=IfcStairFlight	1803486=IfcMember
+15	34	5	21	13320=IfcWallStandardCase	803351=IfcFlowSegment	803446=IfcFlowSegment	803625=IfcFlowFitting	805173=IfcFlowFitting	810816=IfcFlowSegment	760474=IfcFlowSegment	871815=IfcFlowFitting	872813=IfcFlowSegment	785964=IfcFlowSegment	886505=IfcFlowFitting	798445=IfcFlowSegment	2779080=IfcRailing	1876949=IfcFlowSegment	1877036=IfcBuildingElementProxy	1877133=IfcFlowSegment	2988413=IfcFlowSegment	2988722=IfcFlowFitting	2988830=IfcFlowSegment	2989018=IfcFlowFitting	2989109=IfcFlowFitting
+15	34	6	6	13320=IfcWallStandardCase	36528=IfcSlab	798445=IfcFlowSegment	1876949=IfcFlowSegment	1877036=IfcBuildingElementProxy	1877133=IfcFlowSegment
+15	35	4	3	13320=IfcWallStandardCase	19261=IfcSlab	2721797=IfcWallStandardCase
+15	35	5	20	20282=IfcFlowSegment	8424=IfcFlowSegment	13320=IfcWallStandardCase	37970=IfcFlowFitting	755065=IfcFlowSegment	755654=IfcFlowFitting	863279=IfcFlowSegment	863430=IfcFlowFitting	863516=IfcFlowSegment	865995=IfcFlowSegment	866156=IfcFlowSegment	866231=IfcFlowFitting	866397=IfcFlowFitting	871815=IfcFlowFitting	785964=IfcFlowSegment	786060=IfcFlowSegment	798445=IfcFlowSegment	2721797=IfcWallStandardCase	2988722=IfcFlowFitting	2989775=IfcFlowSegment
+15	35	6	6	13320=IfcWallStandardCase	36528=IfcSlab	755065=IfcFlowSegment	755654=IfcFlowFitting	798445=IfcFlowSegment	2721797=IfcWallStandardCase
+15	36	4	7	12029=IfcWallStandardCase	19261=IfcSlab	2780414=IfcRailing	2781748=IfcRailing	1804942=IfcStairFlight	1804973=IfcMember	1805004=IfcMember
+15	36	5	35	8424=IfcFlowSegment	12029=IfcWallStandardCase	37808=IfcFlowSegment	37970=IfcFlowFitting	755065=IfcFlowSegment	755654=IfcFlowFitting	755760=IfcFlowSegment	755943=IfcFlowFitting	863516=IfcFlowSegment	866156=IfcFlowSegment	866317=IfcFlowSegment	866474=IfcFlowFitting	866561=IfcFlowSegment	866641=IfcFlowFitting	866728=IfcFlowSegment	866813=IfcFlowSegment	866898=IfcFlowSegment	867049=IfcFlowFitting	867125=IfcFlowFitting	867211=IfcFlowSegment	867362=IfcFlowFitting	867438=IfcFlowFitting	867524=IfcFlowSegment	867610=IfcFlowSegment	867686=IfcFlowFitting	867762=IfcFlowFitting	872125=IfcFlowFitting	786060=IfcFlowSegment	2780414=IfcRailing	2781748=IfcRailing	1804942=IfcStairFlight	1804973=IfcMember	1805004=IfcMember	1880755=IfcBuildingElementProxy	1880852=IfcFlowSegment
+15	36	6	20	12029=IfcWallStandardCase	36528=IfcSlab	755065=IfcFlowSegment	755654=IfcFlowFitting	755760=IfcFlowSegment	755943=IfcFlowFitting	866561=IfcFlowSegment	866898=IfcFlowSegment	866973=IfcFlowFitting	867211=IfcFlowSegment	867286=IfcFlowFitting	867610=IfcFlowSegment	868024=IfcFlowSegment	868912=IfcFlowSegment	869226=IfcFlowFitting	869312=IfcFlowSegment	869636=IfcFlowFitting	869723=IfcFlowSegment	1880755=IfcBuildingElementProxy	1880852=IfcFlowSegment
+15	37	4	2	3421=IfcWallStandardCase	19261=IfcSlab
+15	37	5	4	3421=IfcWallStandardCase	755943=IfcFlowFitting	872125=IfcFlowFitting	786336=IfcFlowSegment
+15	37	6	3	3421=IfcWallStandardCase	36528=IfcSlab	755943=IfcFlowFitting
+16	30	4	1	2622837=IfcWallStandardCase
+16	30	5	1	2622837=IfcWallStandardCase
+16	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+16	31	4	3	11800=IfcWallStandardCase	19261=IfcSlab	2622837=IfcWallStandardCase
+16	31	5	10	11800=IfcWallStandardCase	809581=IfcFlowSegment	837370=IfcFlowSegment	757684=IfcFlowSegment	875504=IfcFlowSegment	875652=IfcFlowFitting	2622837=IfcWallStandardCase	1885030=IfcFlowSegment	1928844=IfcFlowTerminal	1928917=IfcFlowTerminal
+16	31	6	4	11800=IfcWallStandardCase	36528=IfcSlab	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+16	32	3	1	39223=IfcColumn
+16	32	4	12	11107=IfcWallStandardCase	11170=IfcWallStandardCase	11233=IfcWallStandardCase	11800=IfcWallStandardCase	902892=IfcDoor	39223=IfcColumn	19261=IfcSlab	19362=IfcBeam	19520=IfcBeam	3035611=IfcBuildingElementProxy	2690144=IfcBeam	2690302=IfcBeam
+16	32	5	21	11107=IfcWallStandardCase	11170=IfcWallStandardCase	11233=IfcWallStandardCase	11800=IfcWallStandardCase	902892=IfcDoor	43957=IfcFlowSegment	44043=IfcFlowSegment	46339=IfcFlowFitting	26632=IfcBeam	39223=IfcColumn	3035611=IfcBuildingElementProxy	837370=IfcFlowSegment	875504=IfcFlowSegment	875652=IfcFlowFitting	882243=IfcFlowSegment	882333=IfcFlowSegment	2698310=IfcBeam	1819698=IfcFlowSegment	1819788=IfcFlowSegment	1819950=IfcFlowFitting	1820972=IfcFlowFitting
+16	32	6	10	11107=IfcWallStandardCase	11170=IfcWallStandardCase	11233=IfcWallStandardCase	11800=IfcWallStandardCase	36528=IfcSlab	26632=IfcBeam	28734=IfcBeam	39223=IfcColumn	2698310=IfcBeam	2703119=IfcBeam
+16	33	4	15	11863=IfcWallStandardCase	11949=IfcWallStandardCase	13406=IfcWallStandardCase	13469=IfcWallStandardCase	19261=IfcSlab	19362=IfcBeam	19520=IfcBeam	249851=IfcFlowTerminal	249918=IfcFlowTerminal	2690144=IfcBeam	2690302=IfcBeam	2775700=IfcRailing	1803120=IfcStairFlight	1803677=IfcMember	1877588=IfcBuildingElementProxy
+16	33	5	41	11863=IfcWallStandardCase	11949=IfcWallStandardCase	62102=IfcFlowSegment	13406=IfcWallStandardCase	13469=IfcWallStandardCase	43957=IfcFlowSegment	805517=IfcFlowSegment	46263=IfcFlowFitting	3027204=IfcFlowSegment	3027689=IfcFlowSegment	3027754=IfcFlowSegment	3027823=IfcFlowSegment	3028029=IfcFlowFitting	3028104=IfcFlowSegment	3028173=IfcFlowSegment	3028231=IfcFlowFitting	3028306=IfcFlowFitting	3029255=IfcFlowFitting	3029589=IfcFlowFitting	838552=IfcFlowSegment	849539=IfcFlowSegment	753849=IfcFlowFitting	759602=IfcFlowSegment	3059878=IfcBuildingElementProxy	875045=IfcFlowSegment	875112=IfcFlowSegment	875170=IfcFlowFitting	875238=IfcFlowFitting	882243=IfcFlowSegment	882333=IfcFlowSegment	886505=IfcFlowFitting	1819867=IfcFlowFitting	1820033=IfcFlowFitting	1821062=IfcFlowSegment	1821120=IfcFlowFitting	1822402=IfcFlowSegment	1877133=IfcFlowSegment	1877220=IfcBuildingElementProxy	1877317=IfcFlowSegment	1877404=IfcBuildingElementProxy	1877501=IfcFlowSegment
+16	33	6	15	11863=IfcWallStandardCase	11949=IfcWallStandardCase	13406=IfcWallStandardCase	13469=IfcWallStandardCase	805517=IfcFlowSegment	36528=IfcSlab	28734=IfcBeam	753849=IfcFlowFitting	3059878=IfcBuildingElementProxy	2703119=IfcBeam	1877133=IfcFlowSegment	1877220=IfcBuildingElementProxy	1877317=IfcFlowSegment	1877404=IfcBuildingElementProxy	1877501=IfcFlowSegment
+16	34	3	1	39512=IfcColumn
+16	34	4	13	11949=IfcWallStandardCase	13406=IfcWallStandardCase	14948=IfcWallStandardCase	19261=IfcSlab	19362=IfcBeam	19441=IfcBeam	39512=IfcColumn	2690144=IfcBeam	2690223=IfcBeam	2775700=IfcRailing	1803120=IfcStairFlight	1803677=IfcMember	1877588=IfcBuildingElementProxy
+16	34	5	24	11949=IfcWallStandardCase	13406=IfcWallStandardCase	14948=IfcWallStandardCase	28163=IfcBeam	39512=IfcColumn	810816=IfcFlowSegment	753849=IfcFlowFitting	759602=IfcFlowSegment	872813=IfcFlowSegment	872905=IfcFlowFitting	886505=IfcFlowFitting	798445=IfcFlowSegment	798717=IfcFlowFitting	799682=IfcFlowSegment	2701190=IfcBeam	2775700=IfcRailing	1821062=IfcFlowSegment	1822402=IfcFlowSegment	1877133=IfcFlowSegment	1877220=IfcBuildingElementProxy	1877317=IfcFlowSegment	1877404=IfcBuildingElementProxy	1877501=IfcFlowSegment	1877777=IfcFlowSegment
+16	34	6	18	11949=IfcWallStandardCase	13406=IfcWallStandardCase	14948=IfcWallStandardCase	36528=IfcSlab	28163=IfcBeam	28734=IfcBeam	39512=IfcColumn	753849=IfcFlowFitting	798445=IfcFlowSegment	798717=IfcFlowFitting	2701190=IfcBeam	2703119=IfcBeam	1877133=IfcFlowSegment	1877220=IfcBuildingElementProxy	1877317=IfcFlowSegment	1877404=IfcBuildingElementProxy	1877501=IfcFlowSegment	1877777=IfcFlowSegment
+16	35	4	6	11949=IfcWallStandardCase	13406=IfcWallStandardCase	14515=IfcWallStandardCase	19261=IfcSlab	941701=IfcDoor	997248=IfcDoor
+16	35	5	32	3000272=IfcFlowFitting	20282=IfcFlowSegment	11949=IfcWallStandardCase	13406=IfcWallStandardCase	14515=IfcWallStandardCase	37894=IfcFlowSegment	37970=IfcFlowFitting	3025538=IfcFlowSegment	941701=IfcDoor	760566=IfcFlowSegment	863279=IfcFlowSegment	865995=IfcFlowSegment	997248=IfcDoor	798445=IfcFlowSegment	798539=IfcFlowSegment	798717=IfcFlowFitting	798812=IfcFlowSegment	799124=IfcFlowFitting	799682=IfcFlowSegment	1821062=IfcFlowSegment	1821843=IfcFlowSegment	1821901=IfcFlowFitting	1822054=IfcFlowSegment	1822260=IfcFlowFitting	1822328=IfcFlowFitting	1822402=IfcFlowSegment	1822467=IfcFlowSegment	1822525=IfcFlowFitting	1822607=IfcFlowSegment	1822813=IfcFlowFitting	1824380=IfcFlowSegment	2989775=IfcFlowSegment
+16	35	6	12	11949=IfcWallStandardCase	13406=IfcWallStandardCase	14515=IfcWallStandardCase	36528=IfcSlab	28163=IfcBeam	798445=IfcFlowSegment	798539=IfcFlowSegment	798717=IfcFlowFitting	798812=IfcFlowSegment	799124=IfcFlowFitting	2701190=IfcBeam	2703119=IfcBeam
+16	36	3	1	2711503=IfcColumn
+16	36	4	9	11949=IfcWallStandardCase	12029=IfcWallStandardCase	12113=IfcWallStandardCase	12193=IfcWallStandardCase	12291=IfcWallStandardCase	19261=IfcSlab	963861=IfcDoor	986025=IfcDoor	2711503=IfcColumn
+16	36	5	21	11949=IfcWallStandardCase	12029=IfcWallStandardCase	12113=IfcWallStandardCase	12193=IfcWallStandardCase	12291=IfcWallStandardCase	37808=IfcFlowSegment	37894=IfcFlowSegment	37970=IfcFlowFitting	28280=IfcBeam	755855=IfcFlowSegment	755943=IfcFlowFitting	963861=IfcDoor	867686=IfcFlowFitting	986025=IfcDoor	799230=IfcFlowSegment	799582=IfcFlowFitting	799682=IfcFlowSegment	799870=IfcFlowSegment	2701656=IfcBeam	2711503=IfcColumn	1926522=IfcFlowTerminal
+16	36	6	11	11949=IfcWallStandardCase	12029=IfcWallStandardCase	12113=IfcWallStandardCase	12193=IfcWallStandardCase	12291=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	755855=IfcFlowSegment	755943=IfcFlowFitting	2701656=IfcBeam	2711503=IfcColumn
+16	37	4	3	3421=IfcWallStandardCase	12113=IfcWallStandardCase	19261=IfcSlab
+16	37	5	8	3421=IfcWallStandardCase	12113=IfcWallStandardCase	755855=IfcFlowSegment	755943=IfcFlowFitting	786336=IfcFlowSegment	799230=IfcFlowSegment	1922237=IfcFlowTerminal	1926522=IfcFlowTerminal
+16	37	6	7	3421=IfcWallStandardCase	12113=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	755855=IfcFlowSegment	755943=IfcFlowFitting	2701656=IfcBeam
+17	30	4	1	2622837=IfcWallStandardCase
+17	30	5	1	2622837=IfcWallStandardCase
+17	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+17	31	4	3	15381=IfcWallStandardCase	19261=IfcSlab	2622837=IfcWallStandardCase
+17	31	5	10	15381=IfcWallStandardCase	805710=IfcFlowSegment	809480=IfcFlowFitting	809581=IfcFlowSegment	837370=IfcFlowSegment	757684=IfcFlowSegment	872232=IfcFlowSegment	2622837=IfcWallStandardCase	2741099=IfcCovering	1885030=IfcFlowSegment
+17	31	6	4	15381=IfcWallStandardCase	36528=IfcSlab	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+17	32	4	7	11233=IfcWallStandardCase	11296=IfcWallStandardCase	11359=IfcWallStandardCase	15381=IfcWallStandardCase	19261=IfcSlab	3035611=IfcBuildingElementProxy	997568=IfcDoor
+17	32	5	21	11233=IfcWallStandardCase	11296=IfcWallStandardCase	11359=IfcWallStandardCase	61930=IfcFlowSegment	62016=IfcFlowSegment	805267=IfcFlowSegment	15381=IfcWallStandardCase	26632=IfcBeam	3035611=IfcBuildingElementProxy	3035677=IfcFlowSegment	3036083=IfcFlowFitting	3036188=IfcFlowFitting	837370=IfcFlowSegment	872232=IfcFlowSegment	685694=IfcFlowSegment	685972=IfcFlowSegment	690207=IfcFlowSegment	690379=IfcFlowSegment	997568=IfcDoor	2698310=IfcBeam	2741099=IfcCovering
+17	32	6	7	11233=IfcWallStandardCase	11296=IfcWallStandardCase	11359=IfcWallStandardCase	15381=IfcWallStandardCase	36528=IfcSlab	26632=IfcBeam	2698310=IfcBeam
+17	33	4	5	13469=IfcWallStandardCase	14885=IfcWallStandardCase	19261=IfcSlab	997409=IfcDoor	1877588=IfcBuildingElementProxy
+17	33	5	30	61930=IfcFlowSegment	62102=IfcFlowSegment	62178=IfcFlowFitting	62269=IfcFlowSegment	13469=IfcWallStandardCase	14885=IfcWallStandardCase	805267=IfcFlowSegment	805417=IfcFlowFitting	805517=IfcFlowSegment	3027689=IfcFlowSegment	3028104=IfcFlowSegment	3030588=IfcFlowSegment	838552=IfcFlowSegment	849539=IfcFlowSegment	753663=IfcFlowSegment	753849=IfcFlowFitting	754034=IfcFlowFitting	759602=IfcFlowSegment	3059952=IfcBuildingElementProxy	875045=IfcFlowSegment	888232=IfcFlowSegment	690207=IfcFlowSegment	690293=IfcFlowSegment	690379=IfcFlowSegment	690455=IfcFlowFitting	695252=IfcFlowFitting	997409=IfcDoor	1877678=IfcBuildingElementProxy	1877777=IfcFlowSegment	1877961=IfcFlowSegment
+17	33	6	13	13469=IfcWallStandardCase	14885=IfcWallStandardCase	805417=IfcFlowFitting	805517=IfcFlowSegment	36528=IfcSlab	753663=IfcFlowSegment	753849=IfcFlowFitting	754034=IfcFlowFitting	3059952=IfcBuildingElementProxy	888232=IfcFlowSegment	1877678=IfcBuildingElementProxy	1877777=IfcFlowSegment	1877961=IfcFlowSegment
+17	34	4	5	14885=IfcWallStandardCase	14948=IfcWallStandardCase	15011=IfcWallStandardCase	19261=IfcSlab	1877588=IfcBuildingElementProxy
+17	34	5	17	14885=IfcWallStandardCase	14948=IfcWallStandardCase	15011=IfcWallStandardCase	28163=IfcBeam	810816=IfcFlowSegment	810915=IfcFlowSegment	811091=IfcFlowFitting	811192=IfcFlowSegment	753663=IfcFlowSegment	753849=IfcFlowFitting	754034=IfcFlowFitting	759602=IfcFlowSegment	2701190=IfcBeam	1877678=IfcBuildingElementProxy	1877777=IfcFlowSegment	1877961=IfcFlowSegment	1927137=IfcFlowTerminal
+17	34	6	12	14885=IfcWallStandardCase	14948=IfcWallStandardCase	15011=IfcWallStandardCase	36528=IfcSlab	28163=IfcBeam	753663=IfcFlowSegment	753849=IfcFlowFitting	754034=IfcFlowFitting	2701190=IfcBeam	1877678=IfcBuildingElementProxy	1877777=IfcFlowSegment	1877961=IfcFlowSegment
+17	35	4	4	14515=IfcWallStandardCase	14885=IfcWallStandardCase	19261=IfcSlab	997355=IfcDoor
+17	35	5	13	20282=IfcFlowSegment	14515=IfcWallStandardCase	14885=IfcWallStandardCase	37894=IfcFlowSegment	3025538=IfcFlowSegment	3055515=IfcBuildingElementProxy	760566=IfcFlowSegment	863279=IfcFlowSegment	865995=IfcFlowSegment	997355=IfcDoor	798812=IfcFlowSegment	1824380=IfcFlowSegment	2989775=IfcFlowSegment
+17	35	6	7	14515=IfcWallStandardCase	14885=IfcWallStandardCase	36528=IfcSlab	28163=IfcBeam	3055515=IfcBuildingElementProxy	798812=IfcFlowSegment	2701190=IfcBeam
+17	36	4	3	12291=IfcWallStandardCase	19261=IfcSlab	986025=IfcDoor
+17	36	5	9	12291=IfcWallStandardCase	37894=IfcFlowSegment	28280=IfcBeam	3055515=IfcBuildingElementProxy	755855=IfcFlowSegment	986025=IfcDoor	799870=IfcFlowSegment	2701656=IfcBeam	1926449=IfcFlowTerminal
+17	36	6	6	12291=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	3055515=IfcBuildingElementProxy	755855=IfcFlowSegment	2701656=IfcBeam
+17	37	4	2	3421=IfcWallStandardCase	19261=IfcSlab
+17	37	5	4	3421=IfcWallStandardCase	755855=IfcFlowSegment	786336=IfcFlowSegment	1922338=IfcFlowTerminal
+17	37	6	5	3421=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	755855=IfcFlowSegment	2701656=IfcBeam
+18	30	4	1	2622837=IfcWallStandardCase
+18	30	5	1	2622837=IfcWallStandardCase
+18	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+18	31	4	3	15444=IfcWallStandardCase	19261=IfcSlab	2622837=IfcWallStandardCase
+18	31	5	10	15444=IfcWallStandardCase	805710=IfcFlowSegment	805808=IfcFlowSegment	809744=IfcFlowFitting	837370=IfcFlowSegment	757684=IfcFlowSegment	2622837=IfcWallStandardCase	2741099=IfcCovering	1885030=IfcFlowSegment	1928771=IfcFlowTerminal
+18	31	6	4	15444=IfcWallStandardCase	36528=IfcSlab	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+18	32	3	1	39974=IfcColumn
+18	32	4	9	11359=IfcWallStandardCase	11422=IfcWallStandardCase	11485=IfcWallStandardCase	11548=IfcWallStandardCase	11611=IfcWallStandardCase	1002872=IfcDoor	15444=IfcWallStandardCase	19261=IfcSlab	39974=IfcColumn
+18	32	5	18	11359=IfcWallStandardCase	11422=IfcWallStandardCase	11485=IfcWallStandardCase	11548=IfcWallStandardCase	11611=IfcWallStandardCase	1002872=IfcDoor	15444=IfcWallStandardCase	26632=IfcBeam	39974=IfcColumn	837370=IfcFlowSegment	685608=IfcFlowSegment	685694=IfcFlowSegment	685770=IfcFlowFitting	685886=IfcFlowSegment	685972=IfcFlowSegment	690090=IfcFlowFitting	2698310=IfcBeam	2741099=IfcCovering
+18	32	6	10	11359=IfcWallStandardCase	11422=IfcWallStandardCase	11485=IfcWallStandardCase	11548=IfcWallStandardCase	11611=IfcWallStandardCase	15444=IfcWallStandardCase	36528=IfcSlab	26632=IfcBeam	39974=IfcColumn	2698310=IfcBeam
+18	33	4	5	13469=IfcWallStandardCase	15091=IfcWallStandardCase	19261=IfcSlab	997462=IfcDoor	997515=IfcDoor
+18	33	5	22	62269=IfcFlowSegment	13469=IfcWallStandardCase	15091=IfcWallStandardCase	3027689=IfcFlowSegment	3028104=IfcFlowSegment	3029734=IfcFlowSegment	3030588=IfcFlowSegment	838552=IfcFlowSegment	849539=IfcFlowSegment	759602=IfcFlowSegment	3060026=IfcBuildingElementProxy	875045=IfcFlowSegment	685522=IfcFlowSegment	685608=IfcFlowSegment	685886=IfcFlowSegment	888232=IfcFlowSegment	690293=IfcFlowSegment	694828=IfcFlowFitting	695040=IfcFlowFitting	997462=IfcDoor	997515=IfcDoor	1877961=IfcFlowSegment
+18	33	6	6	13469=IfcWallStandardCase	15091=IfcWallStandardCase	36528=IfcSlab	3060026=IfcBuildingElementProxy	888232=IfcFlowSegment	1877961=IfcFlowSegment
+18	34	3	1	39747=IfcColumn
+18	34	4	4	15011=IfcWallStandardCase	15091=IfcWallStandardCase	19261=IfcSlab	39747=IfcColumn
+18	34	5	16	15011=IfcWallStandardCase	15091=IfcWallStandardCase	28163=IfcBeam	39747=IfcColumn	810436=IfcFlowSegment	810702=IfcFlowFitting	811192=IfcFlowSegment	811291=IfcFlowSegment	811445=IfcFlowFitting	811545=IfcFlowSegment	759602=IfcFlowSegment	2701190=IfcBeam	1877961=IfcFlowSegment	1926775=IfcFlowTerminal	1926884=IfcFlowTerminal	1926957=IfcFlowTerminal
+18	34	6	7	15011=IfcWallStandardCase	15091=IfcWallStandardCase	36528=IfcSlab	28163=IfcBeam	39747=IfcColumn	2701190=IfcBeam	1877961=IfcFlowSegment
+18	35	4	4	14515=IfcWallStandardCase	19261=IfcSlab	249985=IfcFlowTerminal	997355=IfcDoor
+18	35	5	14	20282=IfcFlowSegment	14515=IfcWallStandardCase	37894=IfcFlowSegment	811291=IfcFlowSegment	3025538=IfcFlowSegment	3055441=IfcBuildingElementProxy	760566=IfcFlowSegment	863279=IfcFlowSegment	865995=IfcFlowSegment	997355=IfcDoor	798812=IfcFlowSegment	1824380=IfcFlowSegment	1926957=IfcFlowTerminal	2989775=IfcFlowSegment
+18	35	6	6	14515=IfcWallStandardCase	36528=IfcSlab	28163=IfcBeam	3055441=IfcBuildingElementProxy	798812=IfcFlowSegment	2701190=IfcBeam
+18	36	3	1	40210=IfcColumn
+18	36	4	8	40210=IfcColumn	12291=IfcWallStandardCase	12711=IfcWallStandardCase	12793=IfcWallStandardCase	12877=IfcWallStandardCase	19261=IfcSlab	997302=IfcDoor	1163391=IfcDoor
+18	36	5	13	40210=IfcColumn	12291=IfcWallStandardCase	12711=IfcWallStandardCase	12793=IfcWallStandardCase	12877=IfcWallStandardCase	37894=IfcFlowSegment	28280=IfcBeam	3055441=IfcBuildingElementProxy	755855=IfcFlowSegment	997302=IfcDoor	799870=IfcFlowSegment	1163391=IfcDoor	2701656=IfcBeam
+18	36	6	10	40210=IfcColumn	12291=IfcWallStandardCase	12711=IfcWallStandardCase	12793=IfcWallStandardCase	12877=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	3055441=IfcBuildingElementProxy	755855=IfcFlowSegment	2701656=IfcBeam
+18	37	4	3	3421=IfcWallStandardCase	12793=IfcWallStandardCase	19261=IfcSlab
+18	37	5	4	3421=IfcWallStandardCase	12793=IfcWallStandardCase	755855=IfcFlowSegment	786336=IfcFlowSegment
+18	37	6	6	3421=IfcWallStandardCase	12793=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	755855=IfcFlowSegment	2701656=IfcBeam
+19	30	4	1	2622837=IfcWallStandardCase
+19	30	5	1	2622837=IfcWallStandardCase
+19	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+19	31	4	3	11674=IfcWallStandardCase	19261=IfcSlab	2622837=IfcWallStandardCase
+19	31	5	9	11674=IfcWallStandardCase	805808=IfcFlowSegment	805906=IfcFlowSegment	806171=IfcFlowFitting	837370=IfcFlowSegment	757684=IfcFlowSegment	2622837=IfcWallStandardCase	1885030=IfcFlowSegment	1928698=IfcFlowTerminal
+19	31	6	4	11674=IfcWallStandardCase	36528=IfcSlab	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+19	32	3	1	39974=IfcColumn
+19	32	4	8	11611=IfcWallStandardCase	11674=IfcWallStandardCase	1002961=IfcDoor	1003014=IfcDoor	15507=IfcWallStandardCase	15570=IfcWallStandardCase	19261=IfcSlab	39974=IfcColumn
+19	32	5	10	11611=IfcWallStandardCase	11674=IfcWallStandardCase	1002961=IfcDoor	1003014=IfcDoor	15507=IfcWallStandardCase	15570=IfcWallStandardCase	26632=IfcBeam	39974=IfcColumn	837370=IfcFlowSegment	2698310=IfcBeam
+19	32	6	8	11611=IfcWallStandardCase	11674=IfcWallStandardCase	15507=IfcWallStandardCase	15570=IfcWallStandardCase	36528=IfcSlab	26632=IfcBeam	39974=IfcColumn	2698310=IfcBeam
+19	33	4	4	13469=IfcWallStandardCase	14805=IfcWallStandardCase	19261=IfcSlab	249784=IfcFlowTerminal
+19	33	5	22	62269=IfcFlowSegment	13469=IfcWallStandardCase	14805=IfcWallStandardCase	806662=IfcFlowSegment	3027689=IfcFlowSegment	3028104=IfcFlowSegment	3029734=IfcFlowSegment	3030588=IfcFlowSegment	838552=IfcFlowSegment	849539=IfcFlowSegment	759502=IfcFlowFitting	759602=IfcFlowSegment	3060100=IfcBuildingElementProxy	875045=IfcFlowSegment	685522=IfcFlowSegment	888132=IfcFlowFitting	888232=IfcFlowSegment	888413=IfcFlowSegment	888501=IfcFlowFitting	690293=IfcFlowSegment	1877961=IfcFlowSegment	2990433=IfcFlowSegment
+19	33	6	10	13469=IfcWallStandardCase	14805=IfcWallStandardCase	36528=IfcSlab	806662=IfcFlowSegment	3060100=IfcBuildingElementProxy	888132=IfcFlowFitting	888232=IfcFlowSegment	888413=IfcFlowSegment	888501=IfcFlowFitting	1877961=IfcFlowSegment
+19	34	3	1	39747=IfcColumn
+19	34	4	4	14805=IfcWallStandardCase	15011=IfcWallStandardCase	19261=IfcSlab	39747=IfcColumn
+19	34	5	19	14805=IfcWallStandardCase	15011=IfcWallStandardCase	28163=IfcBeam	39747=IfcColumn	810436=IfcFlowSegment	759340=IfcFlowSegment	759502=IfcFlowFitting	759602=IfcFlowSegment	888319=IfcFlowFitting	2701190=IfcBeam	1877961=IfcFlowSegment	1922988=IfcFlowTerminal	1923097=IfcFlowTerminal	1926775=IfcFlowTerminal	2990433=IfcFlowSegment	2990528=IfcFlowSegment	2990625=IfcFlowSegment	2990713=IfcFlowFitting	2990804=IfcFlowFitting
+19	34	6	7	14805=IfcWallStandardCase	15011=IfcWallStandardCase	36528=IfcSlab	28163=IfcBeam	39747=IfcColumn	2701190=IfcBeam	1877961=IfcFlowSegment
+19	35	4	6	14515=IfcWallStandardCase	14805=IfcWallStandardCase	19261=IfcSlab	747250=IfcWallStandardCase	1141217=IfcDoor	2527218=IfcBuildingElementProxy
+19	35	5	23	20282=IfcFlowSegment	61002=IfcFlowFitting	14515=IfcWallStandardCase	14805=IfcWallStandardCase	37894=IfcFlowSegment	38056=IfcFlowSegment	3025538=IfcFlowSegment	747250=IfcWallStandardCase	3055293=IfcBuildingElementProxy	3055367=IfcBuildingElementProxy	759340=IfcFlowSegment	760566=IfcFlowSegment	863279=IfcFlowSegment	865995=IfcFlowSegment	798812=IfcFlowSegment	1141217=IfcDoor	2527218=IfcBuildingElementProxy	1824380=IfcFlowSegment	2989775=IfcFlowSegment	2989870=IfcFlowSegment	2989967=IfcFlowSegment	2990154=IfcFlowFitting	2990246=IfcFlowFitting
+19	35	6	11	14515=IfcWallStandardCase	14805=IfcWallStandardCase	36528=IfcSlab	28163=IfcBeam	747250=IfcWallStandardCase	3055293=IfcBuildingElementProxy	3055367=IfcBuildingElementProxy	798812=IfcFlowSegment	2701190=IfcBeam	2989870=IfcFlowSegment	2990246=IfcFlowFitting
+19	36	3	1	40210=IfcColumn
+19	36	4	8	40210=IfcColumn	12291=IfcWallStandardCase	12623=IfcWallStandardCase	12711=IfcWallStandardCase	19261=IfcSlab	1163391=IfcDoor	1163482=IfcDoor	2527218=IfcBuildingElementProxy
+19	36	5	21	40210=IfcColumn	50464=IfcFlowSegment	50552=IfcFlowSegment	61002=IfcFlowFitting	51299=IfcFlowFitting	12291=IfcWallStandardCase	12623=IfcWallStandardCase	12711=IfcWallStandardCase	37894=IfcFlowSegment	38056=IfcFlowSegment	28280=IfcBeam	3055293=IfcBuildingElementProxy	3055367=IfcBuildingElementProxy	755855=IfcFlowSegment	799870=IfcFlowSegment	1163391=IfcDoor	1163482=IfcDoor	2527218=IfcBuildingElementProxy	2527284=IfcFlowSegment	2528050=IfcFlowFitting	2701656=IfcBeam
+19	36	6	10	40210=IfcColumn	12291=IfcWallStandardCase	12623=IfcWallStandardCase	12711=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	3055293=IfcBuildingElementProxy	3055367=IfcBuildingElementProxy	755855=IfcFlowSegment	2701656=IfcBeam
+19	37	4	3	3421=IfcWallStandardCase	12623=IfcWallStandardCase	19261=IfcSlab
+19	37	5	4	3421=IfcWallStandardCase	12623=IfcWallStandardCase	755855=IfcFlowSegment	786336=IfcFlowSegment
+19	37	6	6	3421=IfcWallStandardCase	12623=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	755855=IfcFlowSegment	2701656=IfcBeam
+20	30	4	1	2622837=IfcWallStandardCase
+20	30	5	1	2622837=IfcWallStandardCase
+20	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+20	31	3	1	157015=IfcFlowSegment
+20	31	4	3	19261=IfcSlab	157015=IfcFlowSegment	2622837=IfcWallStandardCase
+20	31	5	12	805906=IfcFlowSegment	806284=IfcFlowSegment	806549=IfcFlowFitting	3031442=IfcFlowSegment	837370=IfcFlowSegment	757684=IfcFlowSegment	785441=IfcFlowSegment	785560=IfcFlowFitting	886666=IfcFlowFitting	2622837=IfcWallStandardCase	1885030=IfcFlowSegment	1928625=IfcFlowTerminal
+20	31	6	3	36528=IfcSlab	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+20	32	4	5	1003067=IfcDoor	15570=IfcWallStandardCase	15633=IfcWallStandardCase	15696=IfcWallStandardCase	19261=IfcSlab
+20	32	5	12	1003067=IfcDoor	15570=IfcWallStandardCase	15633=IfcWallStandardCase	15696=IfcWallStandardCase	26632=IfcBeam	3031442=IfcFlowSegment	3031538=IfcFlowSegment	3031636=IfcFlowSegment	3031824=IfcFlowFitting	3031917=IfcFlowFitting	837370=IfcFlowSegment	2698310=IfcBeam
+20	32	6	6	15570=IfcWallStandardCase	15633=IfcWallStandardCase	15696=IfcWallStandardCase	36528=IfcSlab	26632=IfcBeam	2698310=IfcBeam
+20	33	4	5	13469=IfcWallStandardCase	19261=IfcSlab	747090=IfcWallStandardCase	1141269=IfcDoor	2757174=IfcWallStandardCase
+20	33	5	35	62269=IfcFlowSegment	13469=IfcWallStandardCase	806662=IfcFlowSegment	3027689=IfcFlowSegment	3028104=IfcFlowSegment	3029734=IfcFlowSegment	3030588=IfcFlowSegment	3031538=IfcFlowSegment	838552=IfcFlowSegment	747090=IfcWallStandardCase	849539=IfcFlowSegment	758661=IfcFlowSegment	758759=IfcFlowSegment	758949=IfcFlowFitting	759502=IfcFlowFitting	3060174=IfcBuildingElementProxy	3060248=IfcBuildingElementProxy	662512=IfcFlowTerminal	664895=IfcFlowTerminal	665075=IfcFlowSegment	665336=IfcFlowSegment	665423=IfcFlowSegment	875045=IfcFlowSegment	782084=IfcFlowSegment	685522=IfcFlowSegment	690293=IfcFlowSegment	690561=IfcFlowFitting	890683=IfcFlowFitting	890974=IfcFlowSegment	891051=IfcFlowFitting	891360=IfcFlowSegment	891437=IfcFlowFitting	1141269=IfcDoor	2757174=IfcWallStandardCase	1877961=IfcFlowSegment
+20	33	6	8	13469=IfcWallStandardCase	36528=IfcSlab	806662=IfcFlowSegment	747090=IfcWallStandardCase	3060174=IfcBuildingElementProxy	3060248=IfcBuildingElementProxy	2757174=IfcWallStandardCase	1877961=IfcFlowSegment
+20	34	4	1	19261=IfcSlab
+20	34	5	29	28163=IfcBeam	758661=IfcFlowSegment	758759=IfcFlowSegment	758949=IfcFlowFitting	759048=IfcFlowSegment	759241=IfcFlowFitting	759340=IfcFlowSegment	759502=IfcFlowFitting	664758=IfcFlowTerminal	664827=IfcFlowTerminal	664974=IfcFlowSegment	665075=IfcFlowSegment	665162=IfcFlowSegment	665249=IfcFlowSegment	665336=IfcFlowSegment	665423=IfcFlowSegment	665499=IfcFlowFitting	665611=IfcFlowFitting	782084=IfcFlowSegment	890781=IfcFlowSegment	890858=IfcFlowFitting	891167=IfcFlowSegment	891244=IfcFlowFitting	694522=IfcFlowFitting	694645=IfcFlowSegment	2701190=IfcBeam	1877961=IfcFlowSegment	1923387=IfcFlowTerminal	1923457=IfcFlowTerminal
+20	34	6	4	36528=IfcSlab	28163=IfcBeam	2701190=IfcBeam	1877961=IfcFlowSegment
+20	35	4	7	19261=IfcSlab	747250=IfcWallStandardCase	747334=IfcWallStandardCase	747416=IfcWallStandardCase	250052=IfcFlowTerminal	759887=IfcFlowSegment	1141217=IfcDoor
+20	35	5	27	20282=IfcFlowSegment	38056=IfcFlowSegment	3025538=IfcFlowSegment	747250=IfcWallStandardCase	747334=IfcWallStandardCase	747416=IfcWallStandardCase	3055219=IfcBuildingElementProxy	759048=IfcFlowSegment	759340=IfcFlowSegment	759697=IfcFlowSegment	759792=IfcFlowSegment	759887=IfcFlowSegment	760066=IfcFlowFitting	760184=IfcFlowFitting	760379=IfcFlowFitting	760566=IfcFlowSegment	863279=IfcFlowSegment	865995=IfcFlowSegment	798812=IfcFlowSegment	1141217=IfcDoor	1824380=IfcFlowSegment	1923283=IfcFlowTerminal	2988128=IfcFlowSegment	2988315=IfcFlowFitting	2989590=IfcFlowSegment	2989678=IfcFlowFitting	2989870=IfcFlowSegment
+20	35	6	13	36528=IfcSlab	28163=IfcBeam	747250=IfcWallStandardCase	747334=IfcWallStandardCase	747416=IfcWallStandardCase	3055219=IfcBuildingElementProxy	798812=IfcFlowSegment	2701190=IfcBeam	2988128=IfcFlowSegment	2988315=IfcFlowFitting	2989590=IfcFlowSegment	2989678=IfcFlowFitting	2989870=IfcFlowSegment
+20	36	4	3	12291=IfcWallStandardCase	19261=IfcSlab	1163536=IfcDoor
+20	36	5	9	12291=IfcWallStandardCase	38056=IfcFlowSegment	28280=IfcBeam	3055219=IfcBuildingElementProxy	755855=IfcFlowSegment	799870=IfcFlowSegment	1163536=IfcDoor	2701656=IfcBeam	1926376=IfcFlowTerminal
+20	36	6	6	12291=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	3055219=IfcBuildingElementProxy	755855=IfcFlowSegment	2701656=IfcBeam
+20	37	4	2	3421=IfcWallStandardCase	19261=IfcSlab
+20	37	5	4	3421=IfcWallStandardCase	755855=IfcFlowSegment	786336=IfcFlowSegment	1922404=IfcFlowTerminal
+20	37	6	5	3421=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	755855=IfcFlowSegment	2701656=IfcBeam
+21	30	4	1	2622837=IfcWallStandardCase
+21	30	5	1	2622837=IfcWallStandardCase
+21	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+21	31	3	1	157015=IfcFlowSegment
+21	31	4	4	15759=IfcWallStandardCase	19261=IfcSlab	157015=IfcFlowSegment	2622837=IfcWallStandardCase
+21	31	5	17	15759=IfcWallStandardCase	806284=IfcFlowSegment	837270=IfcFlowFitting	837370=IfcFlowSegment	758368=IfcFlowSegment	758563=IfcFlowSegment	680815=IfcFlowTerminal	680957=IfcFlowSegment	684929=IfcFlowFitting	685046=IfcFlowSegment	685208=IfcFlowFitting	685314=IfcFlowFitting	785347=IfcFlowSegment	785441=IfcFlowSegment	888005=IfcBuildingElementProxy	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+21	31	6	4	15759=IfcWallStandardCase	36528=IfcSlab	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+21	32	3	1	40471=IfcColumn
+21	32	4	5	40471=IfcColumn	15696=IfcWallStandardCase	15759=IfcWallStandardCase	19261=IfcSlab	837465=IfcFlowSegment
+21	32	5	18	40471=IfcColumn	15696=IfcWallStandardCase	15759=IfcWallStandardCase	26632=IfcBeam	26850=IfcBeam	837119=IfcFlowSegment	837270=IfcFlowFitting	837370=IfcFlowSegment	837465=IfcFlowSegment	837644=IfcFlowFitting	680881=IfcFlowTerminal	685132=IfcFlowSegment	685208=IfcFlowFitting	685314=IfcFlowFitting	785347=IfcFlowSegment	685436=IfcFlowSegment	2698310=IfcBeam	2698602=IfcBeam
+21	32	6	8	40471=IfcColumn	15696=IfcWallStandardCase	15759=IfcWallStandardCase	36528=IfcSlab	26632=IfcBeam	26850=IfcBeam	2698310=IfcBeam	2698602=IfcBeam
+21	33	4	6	14658=IfcWallStandardCase	19261=IfcSlab	747027=IfcWallStandardCase	747090=IfcWallStandardCase	249717=IfcFlowTerminal	1141269=IfcDoor
+21	33	5	25	802121=IfcFlowSegment	802216=IfcFlowSegment	62269=IfcFlowSegment	14658=IfcWallStandardCase	806662=IfcFlowSegment	3027689=IfcFlowSegment	3028104=IfcFlowSegment	3029734=IfcFlowSegment	3030588=IfcFlowSegment	838552=IfcFlowSegment	747027=IfcWallStandardCase	747090=IfcWallStandardCase	849539=IfcFlowSegment	3060322=IfcBuildingElementProxy	760989=IfcFlowSegment	875045=IfcFlowSegment	781989=IfcFlowFitting	782084=IfcFlowSegment	782172=IfcFlowFitting	685132=IfcFlowSegment	685522=IfcFlowSegment	694722=IfcFlowFitting	1141269=IfcDoor	2374228=IfcFlowFitting	1877961=IfcFlowSegment
+21	33	6	9	14658=IfcWallStandardCase	36528=IfcSlab	806662=IfcFlowSegment	26850=IfcBeam	747027=IfcWallStandardCase	747090=IfcWallStandardCase	3060322=IfcBuildingElementProxy	2698602=IfcBeam	1877961=IfcFlowSegment
+21	34	3	1	40697=IfcColumn
+21	34	4	4	40697=IfcColumn	14658=IfcWallStandardCase	14721=IfcWallStandardCase	19261=IfcSlab
+21	34	5	19	40697=IfcColumn	802121=IfcFlowSegment	14658=IfcWallStandardCase	14721=IfcWallStandardCase	27947=IfcBeam	28163=IfcBeam	759048=IfcFlowSegment	759241=IfcFlowFitting	760989=IfcFlowSegment	781989=IfcFlowFitting	782084=IfcFlowSegment	782172=IfcFlowFitting	2374314=IfcFlowFitting	2375167=IfcFlowSegment	2375636=IfcFlowFitting	2700890=IfcBeam	2701190=IfcBeam	1877961=IfcFlowSegment	2991363=IfcFlowFitting
+21	34	6	9	40697=IfcColumn	14658=IfcWallStandardCase	14721=IfcWallStandardCase	36528=IfcSlab	27947=IfcBeam	28163=IfcBeam	2700890=IfcBeam	2701190=IfcBeam	1877961=IfcFlowSegment
+21	35	4	3	14658=IfcWallStandardCase	19261=IfcSlab	747416=IfcWallStandardCase
+21	35	5	27	20282=IfcFlowSegment	14658=IfcWallStandardCase	807476=IfcFlowSegment	38056=IfcFlowSegment	3025538=IfcFlowSegment	747416=IfcWallStandardCase	3055145=IfcBuildingElementProxy	759048=IfcFlowSegment	760566=IfcFlowSegment	863279=IfcFlowSegment	865995=IfcFlowSegment	786436=IfcFlowSegment	786598=IfcFlowFitting	887100=IfcFlowSegment	887196=IfcFlowSegment	798812=IfcFlowSegment	2375167=IfcFlowSegment	2375636=IfcFlowFitting	2375783=IfcFlowFitting	1824380=IfcFlowSegment	2989590=IfcFlowSegment	2990900=IfcFlowSegment	2990995=IfcFlowSegment	2991092=IfcFlowSegment	2991181=IfcFlowFitting	2991273=IfcFlowFitting	2991363=IfcFlowFitting
+21	35	6	10	14658=IfcWallStandardCase	36528=IfcSlab	27947=IfcBeam	28163=IfcBeam	747416=IfcWallStandardCase	3055145=IfcBuildingElementProxy	798812=IfcFlowSegment	2700890=IfcBeam	2701190=IfcBeam	2989590=IfcFlowSegment
+21	36	3	1	40289=IfcColumn
+21	36	4	6	40289=IfcColumn	12291=IfcWallStandardCase	12539=IfcWallStandardCase	19261=IfcSlab	1163536=IfcDoor	1163589=IfcDoor
+21	36	5	17	40289=IfcColumn	12291=IfcWallStandardCase	12539=IfcWallStandardCase	38056=IfcFlowSegment	28280=IfcBeam	3055145=IfcBuildingElementProxy	755855=IfcFlowSegment	786234=IfcFlowFitting	887196=IfcFlowSegment	799770=IfcFlowFitting	799870=IfcFlowSegment	799968=IfcFlowSegment	1163536=IfcDoor	1163589=IfcDoor	2701656=IfcBeam	1926303=IfcFlowTerminal	2990995=IfcFlowSegment
+21	36	6	8	40289=IfcColumn	12291=IfcWallStandardCase	12539=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	3055145=IfcBuildingElementProxy	755855=IfcFlowSegment	2701656=IfcBeam
+21	37	4	3	3421=IfcWallStandardCase	12539=IfcWallStandardCase	19261=IfcSlab
+21	37	5	6	3421=IfcWallStandardCase	12539=IfcWallStandardCase	755855=IfcFlowSegment	786234=IfcFlowFitting	786336=IfcFlowSegment	1922470=IfcFlowTerminal
+21	37	6	6	3421=IfcWallStandardCase	12539=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	755855=IfcFlowSegment	2701656=IfcBeam
+22	30	4	2	20106=IfcBeam	2622837=IfcWallStandardCase
+22	30	5	1	2622837=IfcWallStandardCase
+22	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+22	31	4	8	20106=IfcBeam	20692=IfcBeam	17145=IfcWallStandardCase	19261=IfcSlab	1041965=IfcDoor	2622837=IfcWallStandardCase	2690976=IfcBeam	2691577=IfcBeam
+22	31	5	12	806284=IfcFlowSegment	17145=IfcWallStandardCase	837048=IfcBuildingElementProxy	1041965=IfcDoor	758368=IfcFlowSegment	758563=IfcFlowSegment	785347=IfcFlowSegment	2622837=IfcWallStandardCase	2741033=IfcCovering	1885030=IfcFlowSegment	1923640=IfcFlowTerminal	1928552=IfcFlowTerminal
+22	31	6	4	36528=IfcSlab	17145=IfcWallStandardCase	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+22	32	4	16	20106=IfcBeam	20297=IfcBeam	15696=IfcWallStandardCase	15822=IfcWallStandardCase	15885=IfcWallStandardCase	15948=IfcWallStandardCase	16011=IfcWallStandardCase	17145=IfcWallStandardCase	17271=IfcWallStandardCase	19261=IfcSlab	3035466=IfcBuildingElementProxy	1041875=IfcDoor	1041965=IfcDoor	1047269=IfcDoor	2690976=IfcBeam	2691182=IfcBeam
+22	32	5	21	62355=IfcFlowSegment	62608=IfcFlowSegment	15696=IfcWallStandardCase	15822=IfcWallStandardCase	15885=IfcWallStandardCase	15948=IfcWallStandardCase	16011=IfcWallStandardCase	26850=IfcBeam	17145=IfcWallStandardCase	17271=IfcWallStandardCase	3035466=IfcBuildingElementProxy	3035532=IfcFlowSegment	3035902=IfcFlowFitting	3036007=IfcFlowFitting	837048=IfcBuildingElementProxy	1041875=IfcDoor	1041965=IfcDoor	1047269=IfcDoor	785347=IfcFlowSegment	2698602=IfcBeam	2741033=IfcCovering
+22	32	6	10	15696=IfcWallStandardCase	15822=IfcWallStandardCase	15885=IfcWallStandardCase	15948=IfcWallStandardCase	16011=IfcWallStandardCase	36528=IfcSlab	26850=IfcBeam	17145=IfcWallStandardCase	17271=IfcWallStandardCase	2698602=IfcBeam
+22	33	4	4	14595=IfcWallStandardCase	19261=IfcSlab	747027=IfcWallStandardCase	1141164=IfcDoor
+22	33	5	22	802216=IfcFlowSegment	62269=IfcFlowSegment	62355=IfcFlowSegment	62431=IfcFlowFitting	62522=IfcFlowSegment	14595=IfcWallStandardCase	806662=IfcFlowSegment	3027689=IfcFlowSegment	3028104=IfcFlowSegment	3029734=IfcFlowSegment	3030588=IfcFlowSegment	838552=IfcFlowSegment	747027=IfcWallStandardCase	849539=IfcFlowSegment	3060396=IfcBuildingElementProxy	760989=IfcFlowSegment	3066328=IfcFlowSegment	875045=IfcFlowSegment	1141164=IfcDoor	1877864=IfcBuildingElementProxy	1877961=IfcFlowSegment	1878145=IfcFlowSegment
+22	33	6	10	14595=IfcWallStandardCase	36528=IfcSlab	806662=IfcFlowSegment	26850=IfcBeam	747027=IfcWallStandardCase	3060396=IfcBuildingElementProxy	2698602=IfcBeam	1877864=IfcBuildingElementProxy	1877961=IfcFlowSegment	1878145=IfcFlowSegment
+22	34	4	3	14595=IfcWallStandardCase	14721=IfcWallStandardCase	19261=IfcSlab
+22	34	5	20	14595=IfcWallStandardCase	14721=IfcWallStandardCase	27947=IfcBeam	760989=IfcFlowSegment	3066328=IfcFlowSegment	2375167=IfcFlowSegment	2375262=IfcFlowSegment	2375359=IfcFlowSegment	2375546=IfcFlowFitting	2375887=IfcFlowFitting	2700890=IfcBeam	1877864=IfcBuildingElementProxy	1877961=IfcFlowSegment	1878145=IfcFlowSegment	2991363=IfcFlowFitting	2991458=IfcFlowSegment	2991650=IfcFlowSegment	2991748=IfcFlowSegment	2992036=IfcFlowFitting	2992129=IfcFlowFitting
+22	34	6	10	14595=IfcWallStandardCase	14721=IfcWallStandardCase	36528=IfcSlab	27947=IfcBeam	2700890=IfcBeam	1877864=IfcBuildingElementProxy	1877961=IfcFlowSegment	1878145=IfcFlowSegment	2991650=IfcFlowSegment	2992129=IfcFlowFitting
+22	35	4	4	14595=IfcWallStandardCase	19261=IfcSlab	747416=IfcWallStandardCase	1141075=IfcDoor
+22	35	5	35	20282=IfcFlowSegment	14595=IfcWallStandardCase	807476=IfcFlowSegment	38056=IfcFlowSegment	3025538=IfcFlowSegment	747416=IfcWallStandardCase	3054978=IfcBuildingElementProxy	3055071=IfcBuildingElementProxy	760566=IfcFlowSegment	863279=IfcFlowSegment	865995=IfcFlowSegment	3066328=IfcFlowSegment	3066393=IfcFlowSegment	3066875=IfcFlowSegment	3067081=IfcFlowFitting	3067149=IfcFlowFitting	786436=IfcFlowSegment	798812=IfcFlowSegment	1141075=IfcDoor	2375167=IfcFlowSegment	2375262=IfcFlowSegment	2375359=IfcFlowSegment	2375546=IfcFlowFitting	2375887=IfcFlowFitting	1821267=IfcFlowSegment	1821976=IfcFlowFitting	1824380=IfcFlowSegment	1925869=IfcFlowTerminal	2989590=IfcFlowSegment	2991363=IfcFlowFitting	2991458=IfcFlowSegment	2991650=IfcFlowSegment	2991748=IfcFlowSegment	2992036=IfcFlowFitting	2992129=IfcFlowFitting
+22	35	6	11	14595=IfcWallStandardCase	36528=IfcSlab	27947=IfcBeam	747416=IfcWallStandardCase	3054978=IfcBuildingElementProxy	3055071=IfcBuildingElementProxy	798812=IfcFlowSegment	2700890=IfcBeam	2989590=IfcFlowSegment	2991650=IfcFlowSegment	2992129=IfcFlowFitting
+22	36	4	5	12291=IfcWallStandardCase	12459=IfcWallStandardCase	19261=IfcSlab	1163589=IfcDoor	1163642=IfcDoor
+22	36	5	12	12291=IfcWallStandardCase	12459=IfcWallStandardCase	38056=IfcFlowSegment	28280=IfcBeam	3054978=IfcBuildingElementProxy	3055071=IfcBuildingElementProxy	755855=IfcFlowSegment	799968=IfcFlowSegment	1163589=IfcDoor	1163642=IfcDoor	2701656=IfcBeam	1926230=IfcFlowTerminal
+22	36	6	8	12291=IfcWallStandardCase	12459=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	3054978=IfcBuildingElementProxy	3055071=IfcBuildingElementProxy	755855=IfcFlowSegment	2701656=IfcBeam
+22	37	4	3	3421=IfcWallStandardCase	12459=IfcWallStandardCase	19261=IfcSlab
+22	37	5	7	3421=IfcWallStandardCase	12459=IfcWallStandardCase	755855=IfcFlowSegment	786234=IfcFlowFitting	786787=IfcFlowSegment	787050=IfcFlowFitting	1922536=IfcFlowTerminal
+22	37	6	6	3421=IfcWallStandardCase	12459=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	755855=IfcFlowSegment	2701656=IfcBeam
+23	30	4	2	20218=IfcBeam	2622837=IfcWallStandardCase
+23	30	5	1	2622837=IfcWallStandardCase
+23	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+23	31	4	7	20218=IfcBeam	20692=IfcBeam	17208=IfcWallStandardCase	19261=IfcSlab	2622837=IfcWallStandardCase	2691103=IfcBeam	2691577=IfcBeam
+23	31	5	25	2180=IfcFlowSegment	1255=IfcFlowSegment	806284=IfcFlowSegment	17208=IfcWallStandardCase	837048=IfcBuildingElementProxy	757781=IfcFlowSegment	665791=IfcFlowTerminal	666092=IfcFlowSegment	3066110=IfcFlowFitting	666179=IfcFlowSegment	3066190=IfcFlowSegment	3066248=IfcFlowFitting	666266=IfcFlowSegment	671777=IfcFlowFitting	785657=IfcFlowSegment	891553=IfcFlowSegment	891630=IfcFlowFitting	2360447=IfcFlowFitting	2360553=IfcFlowFitting	2360642=IfcFlowFitting	2622837=IfcWallStandardCase	2741033=IfcCovering	1795595=IfcFlowSegment	1885030=IfcFlowSegment	1923856=IfcFlowTerminal
+23	31	6	4	36528=IfcSlab	17208=IfcWallStandardCase	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+23	32	3	1	41352=IfcColumn
+23	32	4	13	20218=IfcBeam	20297=IfcBeam	41352=IfcColumn	16011=IfcWallStandardCase	16074=IfcWallStandardCase	16137=IfcWallStandardCase	17208=IfcWallStandardCase	17271=IfcWallStandardCase	19261=IfcSlab	1047269=IfcDoor	1052610=IfcDoor	2691103=IfcBeam	2691182=IfcBeam
+23	32	5	28	1255=IfcFlowSegment	41352=IfcColumn	16011=IfcWallStandardCase	16074=IfcWallStandardCase	16137=IfcWallStandardCase	26850=IfcBeam	17208=IfcWallStandardCase	17271=IfcWallStandardCase	38703=IfcBeam	837048=IfcBuildingElementProxy	1047269=IfcDoor	1052610=IfcDoor	761084=IfcFlowSegment	761492=IfcFlowFitting	665723=IfcFlowTerminal	3066052=IfcFlowSegment	3066110=IfcFlowFitting	666179=IfcFlowSegment	3066190=IfcFlowSegment	782322=IfcFlowFitting	782422=IfcFlowSegment	891746=IfcFlowSegment	891823=IfcFlowFitting	2360447=IfcFlowFitting	2698602=IfcBeam	2741033=IfcCovering	2752777=IfcBeam	1795595=IfcFlowSegment
+23	32	6	11	41352=IfcColumn	16011=IfcWallStandardCase	16074=IfcWallStandardCase	16137=IfcWallStandardCase	36528=IfcSlab	26850=IfcBeam	17208=IfcWallStandardCase	17271=IfcWallStandardCase	38703=IfcBeam	2698602=IfcBeam	2752777=IfcBeam
+23	33	4	5	14429=IfcWallStandardCase	19261=IfcSlab	747027=IfcWallStandardCase	249650=IfcFlowTerminal	1129889=IfcDoor
+23	33	5	47	2050=IfcFlowSegment	801002=IfcFlowSegment	62522=IfcFlowSegment	14429=IfcWallStandardCase	806662=IfcFlowSegment	26850=IfcBeam	38703=IfcBeam	3027689=IfcFlowSegment	3028104=IfcFlowSegment	3029734=IfcFlowSegment	3029820=IfcFlowSegment	3029906=IfcFlowSegment	3029992=IfcFlowSegment	3030078=IfcFlowSegment	3030154=IfcFlowFitting	3030260=IfcFlowFitting	3030366=IfcFlowFitting	3030472=IfcFlowFitting	3030588=IfcFlowSegment	3030674=IfcFlowSegment	3030760=IfcFlowSegment	3030846=IfcFlowSegment	3030932=IfcFlowSegment	3031008=IfcFlowFitting	3031114=IfcFlowFitting	3031220=IfcFlowFitting	3031326=IfcFlowFitting	838552=IfcFlowSegment	747027=IfcWallStandardCase	849539=IfcFlowSegment	753947=IfcFlowSegment	3060470=IfcBuildingElementProxy	3060544=IfcBuildingElementProxy	760888=IfcFlowFitting	760989=IfcFlowSegment	761084=IfcFlowSegment	761764=IfcFlowSegment	3066052=IfcFlowSegment	3066190=IfcFlowSegment	3066328=IfcFlowSegment	875045=IfcFlowSegment	1129889=IfcDoor	2698602=IfcBeam	2752777=IfcBeam	1878048=IfcBuildingElementProxy	1878145=IfcFlowSegment	1928337=IfcFlowTerminal
+23	33	6	13	14429=IfcWallStandardCase	36528=IfcSlab	806662=IfcFlowSegment	26850=IfcBeam	38703=IfcBeam	747027=IfcWallStandardCase	753947=IfcFlowSegment	3060470=IfcBuildingElementProxy	3060544=IfcBuildingElementProxy	2698602=IfcBeam	2752777=IfcBeam	1878048=IfcBuildingElementProxy	1878145=IfcFlowSegment
+23	34	3	1	41103=IfcColumn
+23	34	4	5	41103=IfcColumn	13595=IfcWallStandardCase	14366=IfcWallStandardCase	14429=IfcWallStandardCase	19261=IfcSlab
+23	34	5	36	2050=IfcFlowSegment	801002=IfcFlowSegment	41103=IfcColumn	801193=IfcFlowFitting	801406=IfcFlowFitting	801613=IfcFlowSegment	13595=IfcWallStandardCase	14366=IfcWallStandardCase	14429=IfcWallStandardCase	27947=IfcBeam	38919=IfcBeam	753947=IfcFlowSegment	760888=IfcFlowFitting	760989=IfcFlowSegment	761764=IfcFlowSegment	3066328=IfcFlowSegment	788182=IfcFlowSegment	793850=IfcFlowFitting	794139=IfcFlowFitting	2374506=IfcFlowSegment	2375262=IfcFlowSegment	2375983=IfcFlowSegment	2376080=IfcFlowSegment	2376267=IfcFlowFitting	2376359=IfcFlowFitting	2376450=IfcFlowFitting	2700890=IfcBeam	2753115=IfcBeam	1878048=IfcBuildingElementProxy	1878145=IfcFlowSegment	1925803=IfcFlowTerminal	2991554=IfcFlowSegment	2991650=IfcFlowSegment	2991847=IfcFlowSegment	2992219=IfcFlowFitting	2992311=IfcFlowFitting
+23	34	6	14	41103=IfcColumn	13595=IfcWallStandardCase	14366=IfcWallStandardCase	14429=IfcWallStandardCase	36528=IfcSlab	27947=IfcBeam	38919=IfcBeam	753947=IfcFlowSegment	2700890=IfcBeam	2753115=IfcBeam	1878048=IfcBuildingElementProxy	1878145=IfcFlowSegment	2991650=IfcFlowSegment	2992219=IfcFlowFitting
+23	35	4	4	14280=IfcWallStandardCase	14366=IfcWallStandardCase	19261=IfcSlab	250119=IfcFlowTerminal
+23	35	5	52	2050=IfcFlowSegment	2245=IfcFlowSegment	20282=IfcFlowSegment	801101=IfcFlowSegment	801193=IfcFlowFitting	801305=IfcFlowFitting	801613=IfcFlowSegment	14280=IfcWallStandardCase	14366=IfcWallStandardCase	807476=IfcFlowSegment	807570=IfcFlowSegment	807720=IfcFlowFitting	807820=IfcFlowSegment	38056=IfcFlowSegment	3025538=IfcFlowSegment	3025603=IfcFlowSegment	863279=IfcFlowSegment	865995=IfcFlowSegment	3066328=IfcFlowSegment	3066393=IfcFlowSegment	3066458=IfcFlowSegment	3066525=IfcFlowSegment	3066731=IfcFlowFitting	3066799=IfcFlowFitting	3066875=IfcFlowSegment	3067081=IfcFlowFitting	3067149=IfcFlowFitting	788282=IfcFlowSegment	793850=IfcFlowFitting	794036=IfcFlowFitting	798812=IfcFlowSegment	2375262=IfcFlowSegment	2375983=IfcFlowSegment	2376080=IfcFlowSegment	2376267=IfcFlowFitting	2376359=IfcFlowFitting	2376450=IfcFlowFitting	1814376=IfcFlowSegment	1821200=IfcFlowSegment	1821267=IfcFlowSegment	1821473=IfcFlowFitting	1821562=IfcFlowSegment	1821768=IfcFlowFitting	1824380=IfcFlowSegment	1928264=IfcFlowTerminal	2989590=IfcFlowSegment	2991554=IfcFlowSegment	2991650=IfcFlowSegment	2991847=IfcFlowSegment	2992219=IfcFlowFitting	2992311=IfcFlowFitting	2999368=IfcFlowFitting
+23	35	6	9	14280=IfcWallStandardCase	14366=IfcWallStandardCase	36528=IfcSlab	27947=IfcBeam	798812=IfcFlowSegment	2700890=IfcBeam	2989590=IfcFlowSegment	2991650=IfcFlowSegment	2992219=IfcFlowFitting
+23	36	3	1	40883=IfcColumn
+23	36	4	12	40883=IfcColumn	12291=IfcWallStandardCase	12379=IfcWallStandardCase	12963=IfcWallStandardCase	13051=IfcWallStandardCase	19261=IfcSlab	19599=IfcBeam	19678=IfcBeam	747170=IfcWallStandardCase	1163695=IfcDoor	2690381=IfcBeam	2690460=IfcBeam
+23	36	5	16	800066=IfcFlowSegment	800157=IfcFlowFitting	2245=IfcFlowSegment	40883=IfcColumn	12291=IfcWallStandardCase	12379=IfcWallStandardCase	12963=IfcWallStandardCase	13051=IfcWallStandardCase	807570=IfcFlowSegment	38056=IfcFlowSegment	28280=IfcBeam	747170=IfcWallStandardCase	755855=IfcFlowSegment	799968=IfcFlowSegment	1163695=IfcDoor	2701656=IfcBeam
+23	36	6	10	40883=IfcColumn	12291=IfcWallStandardCase	12379=IfcWallStandardCase	12963=IfcWallStandardCase	13051=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	747170=IfcWallStandardCase	755855=IfcFlowSegment	2701656=IfcBeam
+23	37	4	8	3421=IfcWallStandardCase	12379=IfcWallStandardCase	12963=IfcWallStandardCase	19261=IfcSlab	19599=IfcBeam	19678=IfcBeam	2690381=IfcBeam	2690460=IfcBeam
+23	37	5	7	2245=IfcFlowSegment	3421=IfcWallStandardCase	12379=IfcWallStandardCase	12963=IfcWallStandardCase	755855=IfcFlowSegment	786886=IfcFlowSegment	787050=IfcFlowFitting
+23	37	6	7	3421=IfcWallStandardCase	12379=IfcWallStandardCase	12963=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	755855=IfcFlowSegment	2701656=IfcBeam
+24	30	4	1	2622837=IfcWallStandardCase
+24	30	5	1	2622837=IfcWallStandardCase
+24	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+24	31	4	2	19261=IfcSlab	2622837=IfcWallStandardCase
+24	31	5	18	806284=IfcFlowSegment	757781=IfcFlowSegment	758272=IfcFlowSegment	665859=IfcFlowTerminal	666005=IfcFlowSegment	666092=IfcFlowSegment	666353=IfcFlowSegment	666440=IfcFlowSegment	666527=IfcFlowSegment	671664=IfcFlowFitting	675744=IfcFlowFitting	892132=IfcFlowSegment	892209=IfcFlowFitting	2360447=IfcFlowFitting	2622837=IfcWallStandardCase	1885030=IfcFlowSegment	1923856=IfcFlowTerminal	1923959=IfcFlowTerminal
+24	31	6	3	36528=IfcSlab	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+24	32	3	1	34273=IfcWallStandardCase
+24	32	4	15	34273=IfcWallStandardCase	16137=IfcWallStandardCase	16200=IfcWallStandardCase	16263=IfcWallStandardCase	19261=IfcSlab	19757=IfcBeam	19836=IfcBeam	19915=IfcBeam	19994=IfcBeam	1052699=IfcDoor	782612=IfcFlowSegment	2690539=IfcBeam	2690618=IfcBeam	2690697=IfcBeam	2690776=IfcBeam
+24	32	5	20	16137=IfcWallStandardCase	16200=IfcWallStandardCase	16263=IfcWallStandardCase	38703=IfcBeam	1052699=IfcDoor	758272=IfcFlowSegment	761179=IfcFlowSegment	665927=IfcFlowTerminal	666440=IfcFlowSegment	666527=IfcFlowSegment	782322=IfcFlowFitting	782517=IfcFlowSegment	782612=IfcFlowSegment	782791=IfcFlowFitting	891939=IfcFlowSegment	892016=IfcFlowFitting	2360447=IfcFlowFitting	2752777=IfcBeam	1925033=IfcFlowTerminal	1925143=IfcFlowTerminal
+24	32	6	6	16137=IfcWallStandardCase	16200=IfcWallStandardCase	16263=IfcWallStandardCase	36528=IfcSlab	38703=IfcBeam	2752777=IfcBeam
+24	33	3	1	34273=IfcWallStandardCase
+24	33	4	18	13532=IfcWallStandardCase	13675=IfcWallStandardCase	13738=IfcWallStandardCase	13801=IfcWallStandardCase	13864=IfcWallStandardCase	34273=IfcWallStandardCase	19261=IfcSlab	19757=IfcBeam	19836=IfcBeam	19915=IfcBeam	19994=IfcBeam	747027=IfcWallStandardCase	249650=IfcFlowTerminal	1129800=IfcDoor	2690539=IfcBeam	2690618=IfcBeam	2690697=IfcBeam	2690776=IfcBeam
+24	33	5	26	62522=IfcFlowSegment	13532=IfcWallStandardCase	13675=IfcWallStandardCase	13738=IfcWallStandardCase	13801=IfcWallStandardCase	13864=IfcWallStandardCase	806662=IfcFlowSegment	38703=IfcBeam	3027139=IfcFlowSegment	3027689=IfcFlowSegment	3028104=IfcFlowSegment	3028923=IfcFlowFitting	3029906=IfcFlowSegment	3030674=IfcFlowSegment	838552=IfcFlowSegment	747027=IfcWallStandardCase	849539=IfcFlowSegment	753947=IfcFlowSegment	3059519=IfcBuildingElementProxy	761764=IfcFlowSegment	666527=IfcFlowSegment	875045=IfcFlowSegment	887931=IfcFlowSegment	694934=IfcFlowFitting	1129800=IfcDoor	2752777=IfcBeam
+24	33	6	12	13532=IfcWallStandardCase	13675=IfcWallStandardCase	13738=IfcWallStandardCase	13801=IfcWallStandardCase	13864=IfcWallStandardCase	36528=IfcSlab	806662=IfcFlowSegment	38703=IfcBeam	747027=IfcWallStandardCase	753947=IfcFlowSegment	3059519=IfcBuildingElementProxy	2752777=IfcBeam
+24	34	3	1	34273=IfcWallStandardCase
+24	34	4	13	13532=IfcWallStandardCase	13595=IfcWallStandardCase	13675=IfcWallStandardCase	34273=IfcWallStandardCase	19261=IfcSlab	19757=IfcBeam	19836=IfcBeam	19915=IfcBeam	19994=IfcBeam	2690539=IfcBeam	2690618=IfcBeam	2690697=IfcBeam	2690776=IfcBeam
+24	34	5	27	13532=IfcWallStandardCase	13595=IfcWallStandardCase	13675=IfcWallStandardCase	808165=IfcFlowSegment	38919=IfcBeam	753947=IfcFlowSegment	761764=IfcFlowSegment	887931=IfcFlowSegment	788182=IfcFlowSegment	793850=IfcFlowFitting	794139=IfcFlowFitting	2374409=IfcFlowSegment	2374506=IfcFlowSegment	2374695=IfcFlowFitting	2376359=IfcFlowFitting	2753115=IfcBeam	1925803=IfcFlowTerminal	1927319=IfcFlowTerminal	2992981=IfcFlowSegment	2993077=IfcFlowSegment	2993173=IfcFlowSegment	2993271=IfcFlowSegment	2993370=IfcFlowSegment	2993559=IfcFlowFitting	2993652=IfcFlowFitting	2993742=IfcFlowFitting	2993834=IfcFlowFitting
+24	34	6	10	13532=IfcWallStandardCase	13595=IfcWallStandardCase	13675=IfcWallStandardCase	36528=IfcSlab	38919=IfcBeam	753947=IfcFlowSegment	2753115=IfcBeam	2993077=IfcFlowSegment	2993652=IfcFlowFitting	2993742=IfcFlowFitting
+24	35	4	2	14280=IfcWallStandardCase	19261=IfcSlab
+24	35	5	28	20282=IfcFlowSegment	14280=IfcWallStandardCase	807820=IfcFlowSegment	38056=IfcFlowSegment	3025538=IfcFlowSegment	3025603=IfcFlowSegment	3056096=IfcBuildingElementProxy	3056170=IfcBuildingElementProxy	863279=IfcFlowSegment	865995=IfcFlowSegment	887931=IfcFlowSegment	788282=IfcFlowSegment	793850=IfcFlowFitting	794036=IfcFlowFitting	798812=IfcFlowSegment	2374506=IfcFlowSegment	2376359=IfcFlowFitting	1824380=IfcFlowSegment	2989590=IfcFlowSegment	2992981=IfcFlowSegment	2993077=IfcFlowSegment	2993173=IfcFlowSegment	2993271=IfcFlowSegment	2993370=IfcFlowSegment	2993559=IfcFlowFitting	2993652=IfcFlowFitting	2993742=IfcFlowFitting	2993834=IfcFlowFitting
+24	35	6	9	14280=IfcWallStandardCase	36528=IfcSlab	3056096=IfcBuildingElementProxy	3056170=IfcBuildingElementProxy	798812=IfcFlowSegment	2989590=IfcFlowSegment	2993077=IfcFlowSegment	2993652=IfcFlowFitting	2993742=IfcFlowFitting
+24	36	4	2	13051=IfcWallStandardCase	19261=IfcSlab
+24	36	5	9	800066=IfcFlowSegment	13051=IfcWallStandardCase	38056=IfcFlowSegment	28280=IfcBeam	755855=IfcFlowSegment	3056096=IfcBuildingElementProxy	3056170=IfcBuildingElementProxy	2701656=IfcBeam	1926157=IfcFlowTerminal
+24	36	6	7	13051=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	755855=IfcFlowSegment	3056096=IfcBuildingElementProxy	3056170=IfcBuildingElementProxy	2701656=IfcBeam
+24	37	4	2	3421=IfcWallStandardCase	19261=IfcSlab
+24	37	5	4	3421=IfcWallStandardCase	755855=IfcFlowSegment	786886=IfcFlowSegment	1922602=IfcFlowTerminal
+24	37	6	5	3421=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	755855=IfcFlowSegment	2701656=IfcBeam
+25	30	4	1	2622837=IfcWallStandardCase
+25	30	5	1	2622837=IfcWallStandardCase
+25	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+25	31	4	3	17082=IfcWallStandardCase	19261=IfcSlab	2622837=IfcWallStandardCase
+25	31	5	19	806284=IfcFlowSegment	17082=IfcWallStandardCase	749049=IfcFlowFitting	757880=IfcFlowSegment	758176=IfcFlowSegment	758272=IfcFlowSegment	677969=IfcFlowTerminal	680263=IfcFlowSegment	680349=IfcFlowSegment	680435=IfcFlowSegment	680511=IfcFlowFitting	680617=IfcFlowFitting	680739=IfcFlowSegment	2360915=IfcFlowFitting	2361052=IfcFlowFitting	2361142=IfcFlowFitting	2622837=IfcWallStandardCase	1885030=IfcFlowSegment	1924142=IfcFlowTerminal
+25	31	6	4	36528=IfcSlab	17082=IfcWallStandardCase	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+25	32	3	1	41558=IfcColumn
+25	32	4	10	20771=IfcBeam	41558=IfcColumn	16263=IfcWallStandardCase	16326=IfcWallStandardCase	16389=IfcWallStandardCase	17082=IfcWallStandardCase	19261=IfcSlab	1052699=IfcDoor	782981=IfcFlowSegment	2691656=IfcBeam
+25	32	5	23	41558=IfcColumn	16263=IfcWallStandardCase	16326=IfcWallStandardCase	16389=IfcWallStandardCase	17082=IfcWallStandardCase	38703=IfcBeam	749161=IfcFlowFitting	1052699=IfcDoor	758272=IfcFlowSegment	680186=IfcFlowTerminal	680435=IfcFlowSegment	680739=IfcFlowSegment	782886=IfcFlowSegment	782981=IfcFlowSegment	783076=IfcFlowSegment	783168=IfcFlowFitting	783476=IfcFlowFitting	783749=IfcFlowFitting	785754=IfcFlowSegment	2360915=IfcFlowFitting	2752777=IfcBeam	1925216=IfcFlowTerminal	1925289=IfcFlowTerminal
+25	32	6	10	41558=IfcColumn	16263=IfcWallStandardCase	16326=IfcWallStandardCase	16389=IfcWallStandardCase	36528=IfcSlab	17082=IfcWallStandardCase	38703=IfcBeam	28813=IfcBeam	2703236=IfcBeam	2752777=IfcBeam
+25	33	4	9	20771=IfcBeam	13864=IfcWallStandardCase	13927=IfcWallStandardCase	13990=IfcWallStandardCase	14053=IfcWallStandardCase	14116=IfcWallStandardCase	19261=IfcSlab	1124495=IfcDoor	2691656=IfcBeam
+25	33	5	21	62522=IfcFlowSegment	13864=IfcWallStandardCase	13927=IfcWallStandardCase	13990=IfcWallStandardCase	14053=IfcWallStandardCase	14116=IfcWallStandardCase	806662=IfcFlowSegment	38703=IfcBeam	3027139=IfcFlowSegment	3027689=IfcFlowSegment	3028104=IfcFlowSegment	3030674=IfcFlowSegment	838552=IfcFlowSegment	849539=IfcFlowSegment	753947=IfcFlowSegment	3059593=IfcBuildingElementProxy	761764=IfcFlowSegment	680435=IfcFlowSegment	695146=IfcFlowFitting	1124495=IfcDoor	2752777=IfcBeam
+25	33	6	13	13864=IfcWallStandardCase	13927=IfcWallStandardCase	13990=IfcWallStandardCase	14053=IfcWallStandardCase	14116=IfcWallStandardCase	36528=IfcSlab	806662=IfcFlowSegment	38703=IfcBeam	28813=IfcBeam	753947=IfcFlowSegment	3059593=IfcBuildingElementProxy	2703236=IfcBeam	2752777=IfcBeam
+25	34	3	1	41802=IfcColumn
+25	34	4	7	20771=IfcBeam	41802=IfcColumn	13595=IfcWallStandardCase	14053=IfcWallStandardCase	17334=IfcWallStandardCase	19261=IfcSlab	2691656=IfcBeam
+25	34	5	17	41802=IfcColumn	13595=IfcWallStandardCase	14053=IfcWallStandardCase	17334=IfcWallStandardCase	807914=IfcFlowSegment	808165=IfcFlowSegment	808347=IfcFlowFitting	38919=IfcBeam	753947=IfcFlowSegment	761764=IfcFlowSegment	794248=IfcFlowSegment	794636=IfcFlowFitting	2374409=IfcFlowSegment	2753115=IfcBeam	1925737=IfcFlowTerminal	1927392=IfcFlowTerminal	2993173=IfcFlowSegment
+25	34	6	10	41802=IfcColumn	13595=IfcWallStandardCase	14053=IfcWallStandardCase	36528=IfcSlab	17334=IfcWallStandardCase	28813=IfcBeam	38919=IfcBeam	753947=IfcFlowSegment	2703236=IfcBeam	2753115=IfcBeam
+25	35	4	5	14280=IfcWallStandardCase	17334=IfcWallStandardCase	19261=IfcSlab	250186=IfcFlowTerminal	1124406=IfcDoor
+25	35	5	19	20282=IfcFlowSegment	14280=IfcWallStandardCase	17334=IfcWallStandardCase	807820=IfcFlowSegment	807914=IfcFlowSegment	38056=IfcFlowSegment	808065=IfcFlowFitting	810341=IfcFlowSegment	3025538=IfcFlowSegment	3025603=IfcFlowSegment	3056022=IfcBuildingElementProxy	863279=IfcFlowSegment	865995=IfcFlowSegment	794348=IfcFlowSegment	794636=IfcFlowFitting	798812=IfcFlowSegment	1124406=IfcDoor	2989590=IfcFlowSegment	2993173=IfcFlowSegment
+25	35	6	6	14280=IfcWallStandardCase	36528=IfcSlab	17334=IfcWallStandardCase	3056022=IfcBuildingElementProxy	798812=IfcFlowSegment	2989590=IfcFlowSegment
+25	36	3	1	41988=IfcColumn
+25	36	4	5	41988=IfcColumn	13051=IfcWallStandardCase	15175=IfcWallStandardCase	19261=IfcSlab	1163749=IfcDoor
+25	36	5	12	800066=IfcFlowSegment	800265=IfcFlowSegment	800356=IfcFlowFitting	41988=IfcColumn	13051=IfcWallStandardCase	15175=IfcWallStandardCase	38056=IfcFlowSegment	28280=IfcBeam	755855=IfcFlowSegment	3056022=IfcBuildingElementProxy	1163749=IfcDoor	2701656=IfcBeam
+25	36	6	8	41988=IfcColumn	13051=IfcWallStandardCase	15175=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	755855=IfcFlowSegment	3056022=IfcBuildingElementProxy	2701656=IfcBeam
+25	37	4	3	3421=IfcWallStandardCase	15175=IfcWallStandardCase	19261=IfcSlab
+25	37	5	6	3421=IfcWallStandardCase	15175=IfcWallStandardCase	755855=IfcFlowSegment	786886=IfcFlowSegment	787160=IfcFlowSegment	787312=IfcFlowFitting
+25	37	6	6	3421=IfcWallStandardCase	15175=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	755855=IfcFlowSegment	2701656=IfcBeam
+26	30	4	1	2622837=IfcWallStandardCase
+26	30	5	1	2622837=IfcWallStandardCase
+26	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+26	31	4	3	16578=IfcWallStandardCase	19261=IfcSlab	2622837=IfcWallStandardCase
+26	31	5	7	806284=IfcFlowSegment	16578=IfcWallStandardCase	757880=IfcFlowSegment	2622837=IfcWallStandardCase	1885030=IfcFlowSegment	1924245=IfcFlowTerminal	1928479=IfcFlowTerminal
+26	31	6	4	36528=IfcSlab	16578=IfcWallStandardCase	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+26	32	4	9	16389=IfcWallStandardCase	16452=IfcWallStandardCase	16515=IfcWallStandardCase	16578=IfcWallStandardCase	16641=IfcWallStandardCase	16704=IfcWallStandardCase	19261=IfcSlab	1052751=IfcDoor	1052803=IfcDoor
+26	32	5	18	16389=IfcWallStandardCase	16452=IfcWallStandardCase	16515=IfcWallStandardCase	16578=IfcWallStandardCase	16641=IfcWallStandardCase	16704=IfcWallStandardCase	38703=IfcBeam	3027587=IfcFlowFitting	1052751=IfcDoor	1052803=IfcDoor	783076=IfcFlowSegment	783861=IfcFlowSegment	783953=IfcFlowFitting	785754=IfcFlowSegment	2752777=IfcBeam	1925289=IfcFlowTerminal	2995060=IfcFlowSegment	2995155=IfcFlowSegment
+26	32	6	9	16389=IfcWallStandardCase	16452=IfcWallStandardCase	16515=IfcWallStandardCase	36528=IfcSlab	16578=IfcWallStandardCase	16641=IfcWallStandardCase	16704=IfcWallStandardCase	38703=IfcBeam	2752777=IfcBeam
+26	33	4	4	14116=IfcWallStandardCase	19261=IfcSlab	249583=IfcFlowTerminal	1119101=IfcDoor
+26	33	5	31	62522=IfcFlowSegment	14116=IfcWallStandardCase	806662=IfcFlowSegment	38703=IfcBeam	3027139=IfcFlowSegment	3027486=IfcFlowFitting	3027689=IfcFlowSegment	3028104=IfcFlowSegment	3028445=IfcFlowSegment	3028989=IfcFlowFitting	3029130=IfcFlowSegment	3029322=IfcFlowFitting	3029463=IfcFlowSegment	3029658=IfcFlowFitting	838552=IfcFlowSegment	849539=IfcFlowSegment	753947=IfcFlowSegment	754392=IfcFlowFitting	3059667=IfcBuildingElementProxy	761664=IfcFlowFitting	761764=IfcFlowSegment	761859=IfcFlowSegment	888704=IfcFlowSegment	888895=IfcFlowFitting	890203=IfcFlowFitting	1119101=IfcDoor	2752777=IfcBeam	1878385=IfcFlowSegment	1928191=IfcFlowTerminal	2995060=IfcFlowSegment	2995155=IfcFlowSegment
+26	33	6	10	14116=IfcWallStandardCase	36528=IfcSlab	806662=IfcFlowSegment	38703=IfcBeam	753947=IfcFlowSegment	754392=IfcFlowFitting	3059667=IfcBuildingElementProxy	890203=IfcFlowFitting	2752777=IfcBeam	1878385=IfcFlowSegment
+26	34	4	1	19261=IfcSlab
+26	34	5	22	801514=IfcFlowSegment	801900=IfcFlowFitting	38919=IfcBeam	3027486=IfcFlowFitting	753947=IfcFlowSegment	754392=IfcFlowFitting	761664=IfcFlowFitting	761764=IfcFlowSegment	761859=IfcFlowSegment	888609=IfcFlowSegment	888704=IfcFlowSegment	888895=IfcFlowFitting	888987=IfcFlowFitting	794248=IfcFlowSegment	794636=IfcFlowFitting	794771=IfcFlowSegment	795034=IfcFlowFitting	2374409=IfcFlowSegment	2753115=IfcBeam	1878385=IfcFlowSegment	1925737=IfcFlowTerminal	2992408=IfcFlowSegment
+26	34	6	6	36528=IfcSlab	38919=IfcBeam	753947=IfcFlowSegment	754392=IfcFlowFitting	2753115=IfcBeam	1878385=IfcFlowSegment
+26	35	4	3	14280=IfcWallStandardCase	19261=IfcSlab	1119012=IfcDoor
+26	35	5	20	20282=IfcFlowSegment	801514=IfcFlowSegment	14280=IfcWallStandardCase	38056=IfcFlowSegment	810341=IfcFlowSegment	3025538=IfcFlowSegment	3025603=IfcFlowSegment	3055948=IfcBuildingElementProxy	863279=IfcFlowSegment	865995=IfcFlowSegment	794348=IfcFlowSegment	794636=IfcFlowFitting	794771=IfcFlowSegment	795034=IfcFlowFitting	798812=IfcFlowSegment	1119012=IfcDoor	1928118=IfcFlowTerminal	1928410=IfcFlowTerminal	2989590=IfcFlowSegment	2992408=IfcFlowSegment
+26	35	6	5	14280=IfcWallStandardCase	36528=IfcSlab	3055948=IfcBuildingElementProxy	798812=IfcFlowSegment	2989590=IfcFlowSegment
+26	36	4	3	13051=IfcWallStandardCase	19261=IfcSlab	1163802=IfcDoor
+26	36	5	9	800265=IfcFlowSegment	13051=IfcWallStandardCase	38056=IfcFlowSegment	28280=IfcBeam	755855=IfcFlowSegment	3055948=IfcBuildingElementProxy	1163802=IfcDoor	2701656=IfcBeam	1926084=IfcFlowTerminal
+26	36	6	6	13051=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	755855=IfcFlowSegment	3055948=IfcBuildingElementProxy	2701656=IfcBeam
+26	37	4	2	3421=IfcWallStandardCase	19261=IfcSlab
+26	37	5	4	3421=IfcWallStandardCase	755855=IfcFlowSegment	787160=IfcFlowSegment	1922668=IfcFlowTerminal
+26	37	6	5	3421=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	755855=IfcFlowSegment	2701656=IfcBeam
+27	30	4	1	2622837=IfcWallStandardCase
+27	30	5	1	2622837=IfcWallStandardCase
+27	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+27	31	3	1	156931=IfcFlowSegment
+27	31	4	4	16767=IfcWallStandardCase	19261=IfcSlab	156931=IfcFlowSegment	2622837=IfcWallStandardCase
+27	31	5	9	806284=IfcFlowSegment	16767=IfcWallStandardCase	757980=IfcFlowSegment	758080=IfcFlowSegment	2361241=IfcFlowFitting	2361550=IfcFlowFitting	2622837=IfcWallStandardCase	1885030=IfcFlowSegment	1924428=IfcFlowTerminal
+27	31	6	4	36528=IfcSlab	16767=IfcWallStandardCase	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+27	32	3	1	42376=IfcColumn
+27	32	4	8	2314=IfcBeam	42376=IfcColumn	16704=IfcWallStandardCase	16767=IfcWallStandardCase	16830=IfcWallStandardCase	19261=IfcSlab	1091611=IfcDoor	2130980=IfcBeam
+27	32	5	11	42376=IfcColumn	16704=IfcWallStandardCase	16767=IfcWallStandardCase	16830=IfcWallStandardCase	38703=IfcBeam	783861=IfcFlowSegment	785754=IfcFlowSegment	1091611=IfcDoor	2361241=IfcFlowFitting	2752777=IfcBeam	1924841=IfcFlowTerminal
+27	32	6	10	42376=IfcColumn	36528=IfcSlab	16704=IfcWallStandardCase	16767=IfcWallStandardCase	16830=IfcWallStandardCase	26933=IfcBeam	38703=IfcBeam	29050=IfcBeam	2703680=IfcBeam	2752777=IfcBeam
+27	33	4	14	2314=IfcBeam	14116=IfcWallStandardCase	14198=IfcWallStandardCase	16830=IfcWallStandardCase	16893=IfcWallStandardCase	17397=IfcWallStandardCase	17460=IfcWallStandardCase	19261=IfcSlab	111386=IfcFlowSegment	111471=IfcFlowSegment	123855=IfcFlowSegment	1102381=IfcDoor	1119101=IfcDoor	2130980=IfcBeam
+27	33	5	61	3000348=IfcFlowSegment	3000554=IfcFlowFitting	3000632=IfcFlowFitting	3000718=IfcFlowSegment	3000924=IfcFlowFitting	3001002=IfcFlowFitting	3001771=IfcFlowSegment	62522=IfcFlowSegment	23160=IfcFlowSegment	23250=IfcFlowSegment	14116=IfcWallStandardCase	14198=IfcWallStandardCase	84239=IfcFlowFitting	25403=IfcFlowFitting	46187=IfcFlowFitting	806757=IfcFlowSegment	16830=IfcWallStandardCase	806852=IfcFlowSegment	16893=IfcWallStandardCase	807003=IfcFlowFitting	17397=IfcWallStandardCase	17460=IfcWallStandardCase	38703=IfcBeam	111386=IfcFlowSegment	111471=IfcFlowSegment	123855=IfcFlowSegment	123935=IfcFlowFitting	3028378=IfcFlowSegment	3028445=IfcFlowSegment	3028651=IfcFlowFitting	3029061=IfcFlowSegment	3029130=IfcFlowSegment	3029188=IfcFlowFitting	3029394=IfcFlowSegment	3029463=IfcFlowSegment	3029521=IfcFlowFitting	3032500=IfcFlowSegment	838552=IfcFlowSegment	849539=IfcFlowSegment	754131=IfcFlowSegment	863033=IfcFlowSegment	863118=IfcFlowSegment	863193=IfcFlowFitting	863605=IfcFlowSegment	863682=IfcFlowFitting	863768=IfcFlowSegment	865907=IfcFlowFitting	872403=IfcFlowSegment	872479=IfcFlowFitting	889558=IfcFlowSegment	889653=IfcFlowSegment	889750=IfcFlowSegment	889938=IfcFlowFitting	890203=IfcFlowFitting	890313=IfcFlowFitting	890494=IfcFlowFitting	1102381=IfcDoor	1119101=IfcDoor	2752777=IfcBeam	1878288=IfcBuildingElementProxy	1878385=IfcFlowSegment
+27	33	6	16	14116=IfcWallStandardCase	14198=IfcWallStandardCase	36528=IfcSlab	16830=IfcWallStandardCase	16893=IfcWallStandardCase	26933=IfcBeam	17397=IfcWallStandardCase	17460=IfcWallStandardCase	38703=IfcBeam	29050=IfcBeam	754131=IfcFlowSegment	890203=IfcFlowFitting	2703680=IfcBeam	2752777=IfcBeam	1878288=IfcBuildingElementProxy	1878385=IfcFlowSegment
+27	34	3	1	42146=IfcColumn
+27	34	4	7	2314=IfcBeam	42146=IfcColumn	14198=IfcWallStandardCase	17397=IfcWallStandardCase	17712=IfcWallStandardCase	19261=IfcSlab	2130980=IfcBeam
+27	34	5	23	20372=IfcFlowSegment	801900=IfcFlowFitting	42146=IfcColumn	22947=IfcFlowFitting	23070=IfcFlowSegment	23160=IfcFlowSegment	14198=IfcWallStandardCase	806757=IfcFlowSegment	17397=IfcWallStandardCase	17712=IfcWallStandardCase	38919=IfcBeam	754131=IfcFlowSegment	863118=IfcFlowSegment	863768=IfcFlowSegment	2376546=IfcFlowSegment	2376663=IfcFlowFitting	2753115=IfcBeam	1878288=IfcBuildingElementProxy	1878385=IfcFlowSegment	2992408=IfcFlowSegment	2992602=IfcFlowSegment	2992791=IfcFlowFitting	2993931=IfcFlowSegment
+27	34	6	13	42146=IfcColumn	14198=IfcWallStandardCase	36528=IfcSlab	17397=IfcWallStandardCase	17712=IfcWallStandardCase	38919=IfcBeam	29050=IfcBeam	754131=IfcFlowSegment	2700599=IfcBeam	2703680=IfcBeam	2753115=IfcBeam	1878288=IfcBuildingElementProxy	1878385=IfcFlowSegment
+27	35	4	6	14198=IfcWallStandardCase	14280=IfcWallStandardCase	17397=IfcWallStandardCase	19261=IfcSlab	1119012=IfcDoor	2527073=IfcBuildingElementProxy
+27	35	5	39	20146=IfcFlowFitting	20282=IfcFlowSegment	8514=IfcFlowSegment	61086=IfcFlowFitting	23070=IfcFlowSegment	14198=IfcWallStandardCase	14280=IfcWallStandardCase	806757=IfcFlowSegment	807377=IfcFlowSegment	17397=IfcWallStandardCase	38056=IfcFlowSegment	38142=IfcFlowSegment	810241=IfcFlowFitting	810341=IfcFlowSegment	3025538=IfcFlowSegment	3025603=IfcFlowSegment	3055800=IfcBuildingElementProxy	3055874=IfcBuildingElementProxy	863118=IfcFlowSegment	863279=IfcFlowSegment	863354=IfcFlowFitting	863768=IfcFlowSegment	865995=IfcFlowSegment	866070=IfcFlowFitting	889085=IfcFlowSegment	889273=IfcFlowFitting	889371=IfcFlowSegment	889461=IfcFlowFitting	798812=IfcFlowSegment	1119012=IfcDoor	2527073=IfcBuildingElementProxy	2989206=IfcFlowSegment	2989303=IfcFlowSegment	2989493=IfcFlowFitting	2989590=IfcFlowSegment	2990337=IfcFlowFitting	2992408=IfcFlowSegment	2992602=IfcFlowSegment	2992791=IfcFlowFitting
+27	35	6	9	14198=IfcWallStandardCase	14280=IfcWallStandardCase	36528=IfcSlab	17397=IfcWallStandardCase	3055800=IfcBuildingElementProxy	3055874=IfcBuildingElementProxy	798812=IfcFlowSegment	2989590=IfcFlowSegment	2990337=IfcFlowFitting
+27	36	3	1	42067=IfcColumn
+27	36	4	7	42067=IfcColumn	13051=IfcWallStandardCase	15255=IfcWallStandardCase	19261=IfcSlab	1163802=IfcDoor	1163855=IfcDoor	2527073=IfcBuildingElementProxy
+27	36	5	22	800265=IfcFlowSegment	50376=IfcFlowFitting	800464=IfcFlowSegment	800556=IfcFlowFitting	61086=IfcFlowFitting	42067=IfcColumn	13051=IfcWallStandardCase	15255=IfcWallStandardCase	38056=IfcFlowSegment	38142=IfcFlowSegment	28280=IfcBeam	49529=IfcFlowSegment	49617=IfcFlowSegment	3055800=IfcBuildingElementProxy	755855=IfcFlowSegment	3055874=IfcBuildingElementProxy	1163802=IfcDoor	1163855=IfcDoor	2527073=IfcBuildingElementProxy	2527139=IfcFlowSegment	2528126=IfcFlowFitting	2701656=IfcBeam
+27	36	6	10	42067=IfcColumn	13051=IfcWallStandardCase	15255=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	28417=IfcBeam	3055800=IfcBuildingElementProxy	755855=IfcFlowSegment	3055874=IfcBuildingElementProxy	2701656=IfcBeam
+27	37	3	1	154527=IfcFlowSegment
+27	37	4	5	3421=IfcWallStandardCase	15255=IfcWallStandardCase	19261=IfcSlab	154527=IfcFlowSegment	378562=IfcWallStandardCase
+27	37	5	7	3421=IfcWallStandardCase	15255=IfcWallStandardCase	755855=IfcFlowSegment	378562=IfcWallStandardCase	787160=IfcFlowSegment	787422=IfcFlowSegment	787688=IfcFlowFitting
+27	37	6	8	3421=IfcWallStandardCase	15255=IfcWallStandardCase	36528=IfcSlab	28280=IfcBeam	28417=IfcBeam	755855=IfcFlowSegment	378562=IfcWallStandardCase	2701656=IfcBeam
+28	30	4	1	2622837=IfcWallStandardCase
+28	30	5	1	2622837=IfcWallStandardCase
+28	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+28	31	4	2	19261=IfcSlab	2622837=IfcWallStandardCase
+28	31	5	5	757980=IfcFlowSegment	2622837=IfcWallStandardCase	1885030=IfcFlowSegment	1924428=IfcFlowTerminal	1924531=IfcFlowTerminal
+28	31	6	3	36528=IfcSlab	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+28	32	4	1	19261=IfcSlab
+28	32	5	2	783861=IfcFlowSegment	1924732=IfcFlowTerminal
+28	32	6	2	36528=IfcSlab	26933=IfcBeam
+28	33	4	7	16893=IfcWallStandardCase	17460=IfcWallStandardCase	17838=IfcWallStandardCase	19261=IfcSlab	3032007=IfcBuildingElementProxy	1102381=IfcDoor	1102434=IfcDoor
+28	33	5	27	3001002=IfcFlowFitting	3001436=IfcFlowSegment	3001771=IfcFlowSegment	803814=IfcFlowSegment	804068=IfcFlowSegment	806852=IfcFlowSegment	16893=IfcWallStandardCase	17460=IfcWallStandardCase	17838=IfcWallStandardCase	3028378=IfcFlowSegment	3032007=IfcBuildingElementProxy	3032149=IfcFlowSegment	3032237=IfcFlowSegment	3032326=IfcFlowSegment	3032405=IfcFlowFitting	3032500=IfcFlowSegment	3035248=IfcFlowFitting	3035358=IfcFlowFitting	838552=IfcFlowSegment	849539=IfcFlowSegment	754131=IfcFlowSegment	872565=IfcFlowSegment	1102381=IfcDoor	1102434=IfcDoor	1927611=IfcFlowTerminal	1927757=IfcFlowTerminal	1927830=IfcFlowTerminal
+28	33	6	6	36528=IfcSlab	16893=IfcWallStandardCase	26933=IfcBeam	17460=IfcWallStandardCase	17838=IfcWallStandardCase	754131=IfcFlowSegment
+28	34	4	5	17649=IfcWallStandardCase	17712=IfcWallStandardCase	17775=IfcWallStandardCase	17838=IfcWallStandardCase	19261=IfcSlab
+28	34	5	33	20372=IfcFlowSegment	803814=IfcFlowSegment	804068=IfcFlowSegment	804166=IfcFlowSegment	804338=IfcFlowFitting	804439=IfcFlowSegment	804617=IfcFlowFitting	17649=IfcWallStandardCase	17712=IfcWallStandardCase	17775=IfcWallStandardCase	17838=IfcWallStandardCase	623493=IfcFlowSegment	623580=IfcFlowSegment	623657=IfcFlowFitting	754131=IfcFlowSegment	887291=IfcFlowSegment	887471=IfcFlowFitting	887567=IfcFlowSegment	887744=IfcFlowFitting	1718030=IfcFlowFitting	1927465=IfcFlowTerminal	1927538=IfcFlowTerminal	1927684=IfcFlowTerminal	1927757=IfcFlowTerminal	2992504=IfcFlowSegment	2992602=IfcFlowSegment	2992791=IfcFlowFitting	2992884=IfcFlowFitting	2993931=IfcFlowSegment	2994026=IfcFlowSegment	2994123=IfcFlowSegment	2994311=IfcFlowFitting	2994404=IfcFlowFitting
+28	34	6	8	36528=IfcSlab	17649=IfcWallStandardCase	17712=IfcWallStandardCase	17775=IfcWallStandardCase	17838=IfcWallStandardCase	754131=IfcFlowSegment	2700599=IfcBeam	1718030=IfcFlowFitting
+28	35	4	6	17586=IfcWallStandardCase	17649=IfcWallStandardCase	19261=IfcSlab	250253=IfcFlowTerminal	1102487=IfcDoor	2527073=IfcBuildingElementProxy
+28	35	5	39	8514=IfcFlowSegment	803720=IfcFlowSegment	803968=IfcFlowFitting	804439=IfcFlowSegment	807377=IfcFlowSegment	17586=IfcWallStandardCase	17649=IfcWallStandardCase	38142=IfcFlowSegment	623580=IfcFlowSegment	3024682=IfcFlowSegment	3024856=IfcFlowSegment	3024943=IfcFlowSegment	3025107=IfcFlowFitting	3025213=IfcFlowFitting	3025538=IfcFlowSegment	3025603=IfcFlowSegment	3025668=IfcFlowSegment	3026087=IfcFlowSegment	3026223=IfcFlowSegment	3026429=IfcFlowFitting	3026497=IfcFlowFitting	3026791=IfcFlowSegment	3026997=IfcFlowFitting	3027065=IfcFlowFitting	3055726=IfcBuildingElementProxy	756048=IfcFlowSegment	887471=IfcFlowFitting	1102487=IfcDoor	2527073=IfcBuildingElementProxy	1718030=IfcFlowFitting	1881125=IfcBuildingElementProxy	1881222=IfcFlowSegment	1928010=IfcFlowTerminal	2989206=IfcFlowSegment	2992504=IfcFlowSegment	2992602=IfcFlowSegment	2992791=IfcFlowFitting	2992884=IfcFlowFitting	2999634=IfcFlowFitting
+28	35	6	8	36528=IfcSlab	17586=IfcWallStandardCase	17649=IfcWallStandardCase	3055726=IfcBuildingElementProxy	756048=IfcFlowSegment	1718030=IfcFlowFitting	1881125=IfcBuildingElementProxy	1881222=IfcFlowSegment
+28	36	4	3	13051=IfcWallStandardCase	19261=IfcSlab	2527073=IfcBuildingElementProxy
+28	36	5	13	800464=IfcFlowSegment	800668=IfcFlowSegment	800760=IfcFlowFitting	13051=IfcWallStandardCase	38142=IfcFlowSegment	3055726=IfcBuildingElementProxy	755855=IfcFlowSegment	756491=IfcFlowFitting	2527073=IfcBuildingElementProxy	1880940=IfcBuildingElementProxy	1881037=IfcFlowSegment	1881222=IfcFlowSegment	1926011=IfcFlowTerminal
+28	36	6	9	13051=IfcWallStandardCase	36528=IfcSlab	28417=IfcBeam	3055726=IfcBuildingElementProxy	755855=IfcFlowSegment	756491=IfcFlowFitting	1880940=IfcBuildingElementProxy	1881037=IfcFlowSegment	1881222=IfcFlowSegment
+28	37	4	2	19261=IfcSlab	378562=IfcWallStandardCase
+28	37	5	7	755855=IfcFlowSegment	756491=IfcFlowFitting	378562=IfcWallStandardCase	787422=IfcFlowSegment	787802=IfcFlowSegment	788068=IfcFlowFitting	1922734=IfcFlowTerminal
+28	37	6	5	36528=IfcSlab	28417=IfcBeam	755855=IfcFlowSegment	756491=IfcFlowFitting	378562=IfcWallStandardCase
+29	30	4	1	2622837=IfcWallStandardCase
+29	30	5	1	2622837=IfcWallStandardCase
+29	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+29	31	4	3	17019=IfcWallStandardCase	19261=IfcSlab	2622837=IfcWallStandardCase
+29	31	5	5	802022=IfcFlowSegment	17019=IfcWallStandardCase	2622837=IfcWallStandardCase	1885030=IfcFlowSegment	1925493=IfcFlowTerminal
+29	31	6	4	36528=IfcSlab	17019=IfcWallStandardCase	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+29	32	4	3	17019=IfcWallStandardCase	19261=IfcSlab	1096952=IfcDoor
+29	32	5	6	802022=IfcFlowSegment	17019=IfcWallStandardCase	795147=IfcFlowSegment	795423=IfcFlowFitting	1096952=IfcDoor	1925601=IfcFlowTerminal
+29	32	6	3	36528=IfcSlab	26933=IfcBeam	17019=IfcWallStandardCase
+29	33	4	10	21815=IfcBeam	16893=IfcWallStandardCase	17019=IfcWallStandardCase	17460=IfcWallStandardCase	17901=IfcWallStandardCase	19261=IfcSlab	1096952=IfcDoor	1102292=IfcDoor	1102434=IfcDoor	2692754=IfcBeam
+29	33	5	43	3001436=IfcFlowSegment	3001503=IfcFlowSegment	3001561=IfcFlowFitting	3001698=IfcFlowFitting	3001771=IfcFlowSegment	3001838=IfcFlowSegment	3001896=IfcFlowFitting	3001963=IfcFlowFitting	802022=IfcFlowSegment	3002228=IfcFlowFitting	806852=IfcFlowSegment	16893=IfcWallStandardCase	17019=IfcWallStandardCase	17460=IfcWallStandardCase	17901=IfcWallStandardCase	808537=IfcFlowSegment	808846=IfcFlowFitting	3028378=IfcFlowSegment	838435=IfcFlowSegment	838552=IfcFlowSegment	838631=IfcFlowFitting	849366=IfcFlowSegment	849539=IfcFlowSegment	849619=IfcFlowFitting	754131=IfcFlowSegment	872565=IfcFlowSegment	887839=IfcFlowSegment	795147=IfcFlowSegment	1096952=IfcDoor	1102292=IfcDoor	1102434=IfcDoor	2374794=IfcFlowSegment	2374981=IfcFlowFitting	2375071=IfcFlowFitting	1813725=IfcFlowSegment	1813931=IfcFlowFitting	1814005=IfcFlowSegment	1814441=IfcFlowSegment	1839729=IfcFlowSegment	2994501=IfcFlowSegment	2994598=IfcFlowSegment	2994785=IfcFlowFitting	2994964=IfcFlowFitting
+29	33	6	7	36528=IfcSlab	16893=IfcWallStandardCase	26933=IfcBeam	17019=IfcWallStandardCase	17460=IfcWallStandardCase	17901=IfcWallStandardCase	754131=IfcFlowSegment
+29	34	4	10	21061=IfcBeam	21815=IfcBeam	17775=IfcWallStandardCase	17901=IfcWallStandardCase	17964=IfcWallStandardCase	19261=IfcSlab	855399=IfcFlowSegment	855578=IfcFlowSegment	2691978=IfcBeam	2692754=IfcBeam
+29	34	5	23	17775=IfcWallStandardCase	17901=IfcWallStandardCase	17964=IfcWallStandardCase	808442=IfcFlowSegment	808537=IfcFlowSegment	808846=IfcFlowFitting	838435=IfcFlowSegment	849366=IfcFlowSegment	849446=IfcFlowFitting	754131=IfcFlowSegment	855399=IfcFlowSegment	855488=IfcFlowSegment	855578=IfcFlowSegment	855741=IfcFlowFitting	855907=IfcFlowFitting	887567=IfcFlowSegment	887656=IfcFlowFitting	887839=IfcFlowSegment	795147=IfcFlowSegment	1718030=IfcFlowFitting	1884845=IfcFlowSegment	2994026=IfcFlowSegment	2994875=IfcFlowFitting
+29	34	6	8	36528=IfcSlab	17775=IfcWallStandardCase	17901=IfcWallStandardCase	17964=IfcWallStandardCase	754131=IfcFlowSegment	2700599=IfcBeam	1718030=IfcFlowFitting	1884845=IfcFlowSegment
+29	35	4	7	21061=IfcBeam	17586=IfcWallStandardCase	17964=IfcWallStandardCase	19261=IfcSlab	254385=IfcBuildingElementProxy	1107791=IfcDoor	2691978=IfcBeam
+29	35	5	26	2115=IfcFlowSegment	1165=IfcFlowSegment	8514=IfcFlowSegment	803720=IfcFlowSegment	17586=IfcWallStandardCase	17964=IfcWallStandardCase	38142=IfcFlowSegment	3024769=IfcFlowSegment	3024856=IfcFlowSegment	3025030=IfcFlowSegment	3025319=IfcFlowFitting	3025425=IfcFlowFitting	3025668=IfcFlowSegment	3025737=IfcFlowSegment	3025806=IfcFlowSegment	3026012=IfcFlowFitting	3026087=IfcFlowSegment	3026147=IfcFlowFitting	3026714=IfcFlowFitting	756048=IfcFlowSegment	3060620=IfcFlowFitting	1107791=IfcDoor	1718030=IfcFlowFitting	1881125=IfcBuildingElementProxy	1881222=IfcFlowSegment	1884845=IfcFlowSegment
+29	35	6	8	36528=IfcSlab	17586=IfcWallStandardCase	17964=IfcWallStandardCase	756048=IfcFlowSegment	1718030=IfcFlowFitting	1881125=IfcBuildingElementProxy	1881222=IfcFlowSegment	1884845=IfcFlowSegment
+29	36	4	5	21061=IfcBeam	13051=IfcWallStandardCase	15318=IfcWallStandardCase	19261=IfcSlab	2691978=IfcBeam
+29	36	5	11	800668=IfcFlowSegment	13051=IfcWallStandardCase	15318=IfcWallStandardCase	38142=IfcFlowSegment	756491=IfcFlowFitting	756591=IfcFlowSegment	1823759=IfcFlowFitting	1880940=IfcBuildingElementProxy	1881037=IfcFlowSegment	1881222=IfcFlowSegment	1925938=IfcFlowTerminal
+29	36	6	8	13051=IfcWallStandardCase	15318=IfcWallStandardCase	36528=IfcSlab	28417=IfcBeam	756491=IfcFlowFitting	1880940=IfcBuildingElementProxy	1881037=IfcFlowSegment	1881222=IfcFlowSegment
+29	37	4	4	15318=IfcWallStandardCase	19261=IfcSlab	378562=IfcWallStandardCase	1163908=IfcDoor
+29	37	5	8	15318=IfcWallStandardCase	756491=IfcFlowFitting	756591=IfcFlowSegment	378562=IfcWallStandardCase	787802=IfcFlowSegment	1163908=IfcDoor	1823759=IfcFlowFitting	1922800=IfcFlowTerminal
+29	37	6	5	15318=IfcWallStandardCase	36528=IfcSlab	28417=IfcBeam	756491=IfcFlowFitting	378562=IfcWallStandardCase
+30	30	4	1	2622837=IfcWallStandardCase
+30	30	5	1	2622837=IfcWallStandardCase
+30	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+30	31	4	3	16956=IfcWallStandardCase	19261=IfcSlab	2622837=IfcWallStandardCase
+30	31	5	5	16956=IfcWallStandardCase	795519=IfcFlowSegment	2622837=IfcWallStandardCase	1885030=IfcFlowSegment	1925671=IfcFlowTerminal
+30	31	6	4	36528=IfcSlab	16956=IfcWallStandardCase	2622837=IfcWallStandardCase	1885030=IfcFlowSegment
+30	32	3	1	42516=IfcColumn
+30	32	4	4	42516=IfcColumn	16956=IfcWallStandardCase	19261=IfcSlab	791692=IfcDoor
+30	32	5	7	42516=IfcColumn	16956=IfcWallStandardCase	791692=IfcDoor	795243=IfcFlowSegment	795423=IfcFlowFitting	795519=IfcFlowSegment	795612=IfcFlowFitting
+30	32	6	5	42516=IfcColumn	36528=IfcSlab	26933=IfcBeam	16956=IfcWallStandardCase	27015=IfcBeam
+30	33	3	1	42516=IfcColumn
+30	33	4	19	20613=IfcBeam	21555=IfcBeam	21815=IfcBeam	42516=IfcColumn	16893=IfcWallStandardCase	16956=IfcWallStandardCase	807103=IfcFlowSegment	17460=IfcWallStandardCase	17523=IfcWallStandardCase	808952=IfcFlowSegment	19261=IfcSlab	250807=IfcWallStandardCase	754508=IfcFlowSegment	378915=IfcWallStandardCase	786373=IfcDoor	1102292=IfcDoor	2691498=IfcBeam	2692472=IfcBeam	2692754=IfcBeam
+30	33	5	26	42516=IfcColumn	43871=IfcFlowSegment	806852=IfcFlowSegment	16893=IfcWallStandardCase	16956=IfcWallStandardCase	807103=IfcFlowSegment	807282=IfcFlowFitting	17460=IfcWallStandardCase	17523=IfcWallStandardCase	808537=IfcFlowSegment	808952=IfcFlowSegment	809131=IfcFlowFitting	3032063=IfcFlowFitting	250807=IfcWallStandardCase	754131=IfcFlowSegment	754508=IfcFlowSegment	754686=IfcFlowFitting	872565=IfcFlowSegment	872651=IfcFlowSegment	872727=IfcFlowFitting	378915=IfcWallStandardCase	786373=IfcDoor	1102292=IfcDoor	1814005=IfcFlowSegment	1814441=IfcFlowSegment	1839729=IfcFlowSegment
+30	33	6	11	42516=IfcColumn	36528=IfcSlab	16893=IfcWallStandardCase	26933=IfcBeam	16956=IfcWallStandardCase	27015=IfcBeam	17460=IfcWallStandardCase	17523=IfcWallStandardCase	754131=IfcFlowSegment	754686=IfcFlowFitting	378915=IfcWallStandardCase
+30	34	3	1	2711424=IfcColumn
+30	34	4	12	21061=IfcBeam	21815=IfcBeam	17523=IfcWallStandardCase	17775=IfcWallStandardCase	808952=IfcFlowSegment	19261=IfcSlab	754508=IfcFlowSegment	2691978=IfcBeam	2692754=IfcBeam	2711424=IfcColumn	1718135=IfcFlowSegment	1718253=IfcFlowFitting
+30	34	5	12	17523=IfcWallStandardCase	17775=IfcWallStandardCase	808537=IfcFlowSegment	808952=IfcFlowSegment	809131=IfcFlowFitting	754131=IfcFlowSegment	754508=IfcFlowSegment	754686=IfcFlowFitting	2711424=IfcColumn	1718135=IfcFlowSegment	1718339=IfcFlowFitting	1884845=IfcFlowSegment
+30	34	6	9	36528=IfcSlab	17523=IfcWallStandardCase	27729=IfcBeam	17775=IfcWallStandardCase	754131=IfcFlowSegment	754686=IfcFlowFitting	2700599=IfcBeam	2711424=IfcColumn	1884845=IfcFlowSegment
+30	35	4	24	20376=IfcBeam	20455=IfcBeam	20534=IfcBeam	21061=IfcBeam	21186=IfcBeam	21309=IfcBeam	21432=IfcBeam	13114=IfcWallStandardCase	17523=IfcWallStandardCase	17586=IfcWallStandardCase	19261=IfcSlab	250338=IfcWallStandardCase	250745=IfcWallStandardCase	786276=IfcDoor	1107791=IfcDoor	2691261=IfcBeam	2691340=IfcBeam	2691419=IfcBeam	2691978=IfcBeam	2692103=IfcBeam	2692226=IfcBeam	2692349=IfcBeam	1718135=IfcFlowSegment	1718253=IfcFlowFitting
+30	35	5	23	2115=IfcFlowSegment	1165=IfcFlowSegment	8514=IfcFlowSegment	8604=IfcFlowSegment	8694=IfcFlowSegment	8774=IfcFlowFitting	8851=IfcFlowFitting	13114=IfcWallStandardCase	17523=IfcWallStandardCase	17586=IfcWallStandardCase	38142=IfcFlowSegment	38228=IfcFlowSegment	3024769=IfcFlowSegment	250338=IfcWallStandardCase	250745=IfcWallStandardCase	786276=IfcDoor	886939=IfcFlowSegment	887014=IfcFlowFitting	1107791=IfcDoor	1718135=IfcFlowSegment	1718339=IfcFlowFitting	1814139=IfcFlowFitting	1884845=IfcFlowSegment
+30	35	6	5	13114=IfcWallStandardCase	36528=IfcSlab	17523=IfcWallStandardCase	17586=IfcWallStandardCase	1884845=IfcFlowSegment
+30	36	3	1	2711345=IfcColumn
+30	36	4	11	21061=IfcBeam	13051=IfcWallStandardCase	13114=IfcWallStandardCase	13177=IfcWallStandardCase	13240=IfcWallStandardCase	19261=IfcSlab	250683=IfcWallStandardCase	250745=IfcWallStandardCase	1169212=IfcDoor	2691978=IfcBeam	2711345=IfcColumn
+30	36	5	21	13051=IfcWallStandardCase	13114=IfcWallStandardCase	13177=IfcWallStandardCase	13240=IfcWallStandardCase	38142=IfcFlowSegment	38228=IfcFlowSegment	250683=IfcWallStandardCase	250745=IfcWallStandardCase	886939=IfcFlowSegment	887014=IfcFlowFitting	1169212=IfcDoor	2711345=IfcColumn	1794567=IfcWindow	1814139=IfcFlowFitting	1822893=IfcFlowSegment	1822990=IfcFlowSegment	1823089=IfcFlowSegment	1823279=IfcFlowFitting	1823473=IfcFlowFitting	1823568=IfcFlowFitting	1823759=IfcFlowFitting
+30	36	6	7	13051=IfcWallStandardCase	13114=IfcWallStandardCase	13177=IfcWallStandardCase	13240=IfcWallStandardCase	36528=IfcSlab	28417=IfcBeam	2711345=IfcColumn
+30	37	4	3	13240=IfcWallStandardCase	19261=IfcSlab	378562=IfcWallStandardCase
+30	37	5	9	13240=IfcWallStandardCase	378562=IfcWallStandardCase	1822893=IfcFlowSegment	1822990=IfcFlowSegment	1823089=IfcFlowSegment	1823279=IfcFlowFitting	1823473=IfcFlowFitting	1823568=IfcFlowFitting	1823759=IfcFlowFitting
+30	37	6	4	13240=IfcWallStandardCase	36528=IfcSlab	28417=IfcBeam	378562=IfcWallStandardCase
+31	30	4	1	2622837=IfcWallStandardCase
+31	30	5	1	2622837=IfcWallStandardCase
+31	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+31	31	4	2	19261=IfcSlab	2622837=IfcWallStandardCase
+31	31	5	1	2622837=IfcWallStandardCase
+31	31	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+31	32	4	1	19261=IfcSlab
+31	32	6	2	36528=IfcSlab	27015=IfcBeam
+31	33	4	1	19261=IfcSlab
+31	33	5	3	1814005=IfcFlowSegment	1814441=IfcFlowSegment	1839729=IfcFlowSegment
+31	33	6	2	36528=IfcSlab	27015=IfcBeam
+31	34	4	1	19261=IfcSlab
+31	34	6	2	36528=IfcSlab	27729=IfcBeam
+31	35	4	1	19261=IfcSlab
+31	35	5	2	2115=IfcFlowSegment	1165=IfcFlowSegment
+31	35	6	1	36528=IfcSlab
+31	36	4	1	19261=IfcSlab
+31	36	6	2	36528=IfcSlab	28417=IfcBeam
+31	37	4	2	19261=IfcSlab	378562=IfcWallStandardCase
+31	37	5	1	378562=IfcWallStandardCase
+31	37	6	3	36528=IfcSlab	28417=IfcBeam	378562=IfcWallStandardCase
+32	30	4	1	2622837=IfcWallStandardCase
+32	30	5	1	2622837=IfcWallStandardCase
+32	30	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+32	31	4	2	19261=IfcSlab	2622837=IfcWallStandardCase
+32	31	5	1	2622837=IfcWallStandardCase
+32	31	6	2	36528=IfcSlab	2622837=IfcWallStandardCase
+32	32	4	1	19261=IfcSlab
+32	32	6	2	36528=IfcSlab	27015=IfcBeam
+32	33	4	1	19261=IfcSlab
+32	33	5	1	1814005=IfcFlowSegment
+32	33	6	2	36528=IfcSlab	27015=IfcBeam
+32	34	4	1	19261=IfcSlab
+32	34	6	2	36528=IfcSlab	27729=IfcBeam
+32	35	4	1	19261=IfcSlab
+32	35	6	1	36528=IfcSlab
+32	36	4	1	19261=IfcSlab
+32	36	6	2	36528=IfcSlab	28417=IfcBeam
+32	37	4	2	19261=IfcSlab	378562=IfcWallStandardCase
+32	37	5	1	378562=IfcWallStandardCase
+32	37	6	3	36528=IfcSlab	28417=IfcBeam	378562=IfcWallStandardCase
+33	30	6	1	36528=IfcSlab
+33	31	4	1	19261=IfcSlab
+33	31	6	1	36528=IfcSlab
+33	32	4	1	19261=IfcSlab
+33	32	6	2	36528=IfcSlab	27015=IfcBeam
+33	33	4	1	19261=IfcSlab
+33	33	6	2	36528=IfcSlab	27015=IfcBeam
+33	34	4	1	19261=IfcSlab
+33	34	6	2	36528=IfcSlab	27729=IfcBeam
+33	35	4	1	19261=IfcSlab
+33	35	6	1	36528=IfcSlab
+33	36	4	1	19261=IfcSlab
+33	36	6	2	36528=IfcSlab	28417=IfcBeam
+33	37	4	2	19261=IfcSlab	378562=IfcWallStandardCase
+33	37	5	1	378562=IfcWallStandardCase
+33	37	6	3	36528=IfcSlab	28417=IfcBeam	378562=IfcWallStandardCase
+34	30	6	1	36528=IfcSlab
+34	31	4	1	19261=IfcSlab
+34	31	6	1	36528=IfcSlab
+34	32	4	1	19261=IfcSlab
+34	32	6	1	36528=IfcSlab
+34	33	4	1	19261=IfcSlab
+34	33	6	1	36528=IfcSlab
+34	34	4	1	19261=IfcSlab
+34	34	6	1	36528=IfcSlab
+34	35	4	1	19261=IfcSlab
+34	35	6	1	36528=IfcSlab
+34	36	4	1	19261=IfcSlab
+34	36	6	1	36528=IfcSlab
+34	37	4	2	19261=IfcSlab	378562=IfcWallStandardCase
+34	37	5	1	378562=IfcWallStandardCase
+34	37	6	2	36528=IfcSlab	378562=IfcWallStandardCase
+35	30	6	1	36528=IfcSlab
+35	31	4	1	19261=IfcSlab
+35	31	6	1	36528=IfcSlab
+35	32	4	1	19261=IfcSlab
+35	32	6	1	36528=IfcSlab
+35	33	4	1	19261=IfcSlab
+35	33	6	1	36528=IfcSlab
+35	34	4	1	19261=IfcSlab
+35	34	6	1	36528=IfcSlab
+35	35	4	1	19261=IfcSlab
+35	35	6	1	36528=IfcSlab
+35	36	4	1	19261=IfcSlab
+35	36	6	1	36528=IfcSlab
+35	37	4	1	19261=IfcSlab
+35	37	6	1	36528=IfcSlab
+36	30	6	1	36528=IfcSlab
+36	31	4	1	19261=IfcSlab
+36	31	6	1	36528=IfcSlab
+36	32	4	1	19261=IfcSlab
+36	32	6	1	36528=IfcSlab
+36	33	4	1	19261=IfcSlab
+36	33	6	1	36528=IfcSlab
+36	34	4	1	19261=IfcSlab
+36	34	6	1	36528=IfcSlab
+36	35	4	1	19261=IfcSlab
+36	35	6	1	36528=IfcSlab
+36	36	4	1	19261=IfcSlab
+36	36	6	1	36528=IfcSlab
+36	37	4	1	19261=IfcSlab
+36	37	6	1	36528=IfcSlab
+37	30	6	1	36528=IfcSlab
+37	31	4	1	19261=IfcSlab
+37	31	6	1	36528=IfcSlab
+37	32	4	1	19261=IfcSlab
+37	32	6	1	36528=IfcSlab
+37	33	4	1	19261=IfcSlab
+37	33	6	1	36528=IfcSlab
+37	34	4	1	19261=IfcSlab
+37	34	6	1	36528=IfcSlab
+37	35	4	1	19261=IfcSlab
+37	35	6	1	36528=IfcSlab
+37	36	4	1	19261=IfcSlab
+37	36	6	1	36528=IfcSlab
+37	37	4	1	19261=IfcSlab
+37	37	6	1	36528=IfcSlab
+38	30	6	1	36528=IfcSlab
+38	31	4	1	19261=IfcSlab
+38	31	6	1	36528=IfcSlab
+38	32	4	1	19261=IfcSlab
+38	32	6	1	36528=IfcSlab
+38	33	4	1	19261=IfcSlab
+38	33	6	1	36528=IfcSlab
+38	34	4	1	19261=IfcSlab
+38	34	6	1	36528=IfcSlab
+38	35	4	1	19261=IfcSlab
+38	35	6	1	36528=IfcSlab
+38	36	4	1	19261=IfcSlab
+38	36	6	1	36528=IfcSlab
+38	37	4	1	19261=IfcSlab
+38	37	6	1	36528=IfcSlab
+39	30	6	1	36528=IfcSlab
+39	31	4	1	19261=IfcSlab
+39	31	6	1	36528=IfcSlab
+39	32	4	1	19261=IfcSlab
+39	32	6	1	36528=IfcSlab
+39	33	4	1	19261=IfcSlab
+39	33	6	1	36528=IfcSlab
+39	34	4	1	19261=IfcSlab
+39	34	6	1	36528=IfcSlab
+39	35	4	1	19261=IfcSlab
+39	35	6	1	36528=IfcSlab
+39	36	4	1	19261=IfcSlab
+39	36	6	1	36528=IfcSlab
+39	37	4	1	19261=IfcSlab
+39	37	6	1	36528=IfcSlab
+40	30	6	1	36528=IfcSlab
+40	31	4	1	19261=IfcSlab
+40	31	6	1	36528=IfcSlab
+40	32	4	1	19261=IfcSlab
+40	32	6	1	36528=IfcSlab
+40	33	4	1	19261=IfcSlab
+40	33	6	1	36528=IfcSlab
+40	34	4	1	19261=IfcSlab
+40	34	6	1	36528=IfcSlab
+40	35	4	1	19261=IfcSlab
+40	35	6	1	36528=IfcSlab
+40	36	4	1	19261=IfcSlab
+40	36	6	1	36528=IfcSlab
+40	37	4	1	19261=IfcSlab
+40	37	6	1	36528=IfcSlab
+41	30	6	1	36528=IfcSlab
+41	31	4	1	19261=IfcSlab
+41	31	6	1	36528=IfcSlab
+41	32	4	1	19261=IfcSlab
+41	32	6	1	36528=IfcSlab
+41	33	4	1	19261=IfcSlab
+41	33	6	1	36528=IfcSlab
+41	34	4	1	19261=IfcSlab
+41	34	6	1	36528=IfcSlab
+41	35	4	1	19261=IfcSlab
+41	35	6	1	36528=IfcSlab
+41	36	4	1	19261=IfcSlab
+41	36	6	1	36528=IfcSlab
+41	37	4	1	19261=IfcSlab
+41	37	6	1	36528=IfcSlab
+42	30	6	1	36528=IfcSlab
+42	31	4	1	19261=IfcSlab
+42	31	6	1	36528=IfcSlab
+42	32	4	1	19261=IfcSlab
+42	32	6	1	36528=IfcSlab
+42	33	4	1	19261=IfcSlab
+42	33	6	1	36528=IfcSlab
+42	34	4	1	19261=IfcSlab
+42	34	6	1	36528=IfcSlab
+42	35	4	1	19261=IfcSlab
+42	35	6	1	36528=IfcSlab
+42	36	4	1	19261=IfcSlab
+42	36	6	1	36528=IfcSlab
+42	37	4	1	19261=IfcSlab
+42	37	6	1	36528=IfcSlab
+43	30	6	1	36528=IfcSlab
+43	31	4	1	19261=IfcSlab
+43	31	6	1	36528=IfcSlab
+43	32	4	1	19261=IfcSlab
+43	32	6	1	36528=IfcSlab
+43	33	4	1	19261=IfcSlab
+43	33	6	1	36528=IfcSlab
+43	34	4	1	19261=IfcSlab
+43	34	6	1	36528=IfcSlab
+43	35	4	1	19261=IfcSlab
+43	35	6	1	36528=IfcSlab
+43	36	4	1	19261=IfcSlab
+43	36	6	1	36528=IfcSlab
+43	37	4	1	19261=IfcSlab
+43	37	6	1	36528=IfcSlab
+44	30	6	1	36528=IfcSlab
+44	31	4	1	19261=IfcSlab
+44	31	6	1	36528=IfcSlab
+44	32	4	1	19261=IfcSlab
+44	32	6	1	36528=IfcSlab
+44	33	4	1	19261=IfcSlab
+44	33	6	1	36528=IfcSlab
+44	34	4	1	19261=IfcSlab
+44	34	6	1	36528=IfcSlab
+44	35	4	1	19261=IfcSlab
+44	35	6	1	36528=IfcSlab
+44	36	4	1	19261=IfcSlab
+44	36	6	1	36528=IfcSlab
+44	37	4	1	19261=IfcSlab
+44	37	6	1	36528=IfcSlab
+45	30	6	1	36528=IfcSlab
+45	31	4	1	19261=IfcSlab
+45	31	6	1	36528=IfcSlab
+45	32	4	1	19261=IfcSlab
+45	32	6	1	36528=IfcSlab
+45	33	4	1	19261=IfcSlab
+45	33	6	1	36528=IfcSlab
+45	34	4	1	19261=IfcSlab
+45	34	6	1	36528=IfcSlab
+45	35	4	1	19261=IfcSlab
+45	35	6	1	36528=IfcSlab
+45	36	4	1	19261=IfcSlab
+45	36	6	1	36528=IfcSlab
+45	37	4	1	19261=IfcSlab
+45	37	6	1	36528=IfcSlab
+46	30	6	1	36528=IfcSlab
+46	31	4	1	19261=IfcSlab
+46	31	6	1	36528=IfcSlab
+46	32	4	1	19261=IfcSlab
+46	32	6	1	36528=IfcSlab
+46	33	4	1	19261=IfcSlab
+46	33	6	1	36528=IfcSlab
+46	34	4	1	19261=IfcSlab
+46	34	6	1	36528=IfcSlab
+46	35	4	1	19261=IfcSlab
+46	35	6	1	36528=IfcSlab
+46	36	4	1	19261=IfcSlab
+46	36	6	1	36528=IfcSlab
+46	37	4	1	19261=IfcSlab
+46	37	6	1	36528=IfcSlab
+47	30	6	1	36528=IfcSlab
+47	31	4	1	19261=IfcSlab
+47	31	6	1	36528=IfcSlab
+47	32	4	1	19261=IfcSlab
+47	32	6	1	36528=IfcSlab
+47	33	4	1	19261=IfcSlab
+47	33	6	1	36528=IfcSlab
+47	34	4	1	19261=IfcSlab
+47	34	6	1	36528=IfcSlab
+47	35	4	1	19261=IfcSlab
+47	35	6	1	36528=IfcSlab
+47	36	4	1	19261=IfcSlab
+47	36	6	1	36528=IfcSlab
+47	37	4	1	19261=IfcSlab
+47	37	6	1	36528=IfcSlab
+48	30	6	1	36528=IfcSlab
+48	31	4	1	19261=IfcSlab
+48	31	6	1	36528=IfcSlab
+48	32	4	1	19261=IfcSlab
+48	32	6	1	36528=IfcSlab
+48	33	4	1	19261=IfcSlab
+48	33	6	1	36528=IfcSlab
+48	34	4	1	19261=IfcSlab
+48	34	6	1	36528=IfcSlab
+48	35	4	1	19261=IfcSlab
+48	35	6	1	36528=IfcSlab
+48	36	4	1	19261=IfcSlab
+48	36	6	1	36528=IfcSlab
+48	37	4	1	19261=IfcSlab
+48	37	6	1	36528=IfcSlab
+49	30	6	1	36528=IfcSlab
+49	31	4	1	19261=IfcSlab
+49	31	6	1	36528=IfcSlab
+49	32	4	1	19261=IfcSlab
+49	32	6	1	36528=IfcSlab
+49	33	4	1	19261=IfcSlab
+49	33	6	1	36528=IfcSlab
+49	34	4	1	19261=IfcSlab
+49	34	6	1	36528=IfcSlab
+49	35	4	1	19261=IfcSlab
+49	35	6	1	36528=IfcSlab
+49	36	4	1	19261=IfcSlab
+49	36	6	1	36528=IfcSlab
+49	37	4	1	19261=IfcSlab
+49	37	6	1	36528=IfcSlab
+50	30	6	1	36528=IfcSlab
+50	31	4	1	19261=IfcSlab
+50	31	6	1	36528=IfcSlab
+50	32	4	1	19261=IfcSlab
+50	32	6	1	36528=IfcSlab
+50	33	4	1	19261=IfcSlab
+50	33	6	1	36528=IfcSlab
+50	34	4	1	19261=IfcSlab
+50	34	6	1	36528=IfcSlab
+50	35	4	1	19261=IfcSlab
+50	35	6	1	36528=IfcSlab
+50	36	4	1	19261=IfcSlab
+50	36	6	1	36528=IfcSlab
+50	37	4	1	19261=IfcSlab
+50	37	6	1	36528=IfcSlab
+51	30	6	1	36528=IfcSlab
+51	31	4	1	19261=IfcSlab
+51	31	6	1	36528=IfcSlab
+51	32	4	1	19261=IfcSlab
+51	32	6	1	36528=IfcSlab
+51	33	4	1	19261=IfcSlab
+51	33	6	1	36528=IfcSlab
+51	34	4	1	19261=IfcSlab
+51	34	6	1	36528=IfcSlab
+51	35	4	1	19261=IfcSlab
+51	35	6	1	36528=IfcSlab
+51	36	4	1	19261=IfcSlab
+51	36	6	1	36528=IfcSlab
+51	37	4	1	19261=IfcSlab
+51	37	6	1	36528=IfcSlab
+99	1	4	1	1792151=IfcFlowSegment
+99	8	3	1	2261309=IfcFlowSegment
+100	8	3	1	2261309=IfcFlowSegment
+#	Voxel Record End

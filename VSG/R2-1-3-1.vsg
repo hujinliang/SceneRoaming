@@ -1,0 +1,2992 @@
+#	Voxelization File From WebG3D_IFC V1.0
+
+#	Scene BBox Min:	
+&	-295.918	-5.41371	-9.47	2.80151
+#	Scene BBox Max:	-15.7666	120.37	4.58
+#	Resolution(x,y,z):	100	44	5
+#	Voxel Size:	2.80151
+
+
+*   -160        105     0       1   3   13   R2-1-3-2           -164        105     0
+*   -145        103.5   -2      4   0.5 2    R2-2               -138        104     -6
+*   -125        105     0       1   3   13   R2-1-5-2           -120        105     0
+
+@   -147    -1     118      4   3   1
+@   -137    -1     118      4   3   1
+
+!   -143   -1   108     220     -30
+
+%	5
+
+^	74	900
+
+#	Voxel Record Begin
+1	36	3	1	19261=IfcSlab
+1	37	3	1	19261=IfcSlab
+1	38	3	1	19261=IfcSlab
+1	39	3	1	19261=IfcSlab
+1	40	3	1	19261=IfcSlab
+1	41	3	1	19261=IfcSlab
+1	42	3	1	19261=IfcSlab
+1	43	3	1	19261=IfcSlab
+2	36	3	1	19261=IfcSlab
+2	37	3	1	19261=IfcSlab
+2	38	3	1	19261=IfcSlab
+2	39	3	1	19261=IfcSlab
+2	40	3	1	19261=IfcSlab
+2	41	3	1	19261=IfcSlab
+2	42	3	1	19261=IfcSlab
+2	43	3	1	19261=IfcSlab
+3	36	3	1	19261=IfcSlab
+3	37	3	1	19261=IfcSlab
+3	38	3	1	19261=IfcSlab
+3	39	3	1	19261=IfcSlab
+3	40	3	1	19261=IfcSlab
+3	41	3	1	19261=IfcSlab
+3	42	3	1	19261=IfcSlab
+3	43	3	1	19261=IfcSlab
+4	36	3	1	19261=IfcSlab
+4	37	3	1	19261=IfcSlab
+4	38	3	1	19261=IfcSlab
+4	39	3	1	19261=IfcSlab
+4	40	3	1	19261=IfcSlab
+4	41	3	1	19261=IfcSlab
+4	42	3	1	19261=IfcSlab
+4	43	3	1	19261=IfcSlab
+5	36	3	1	19261=IfcSlab
+5	37	3	1	19261=IfcSlab
+5	38	3	1	19261=IfcSlab
+5	39	3	1	19261=IfcSlab
+5	40	3	1	19261=IfcSlab
+5	41	3	1	19261=IfcSlab
+5	42	3	1	19261=IfcSlab
+5	43	3	1	19261=IfcSlab
+6	36	3	1	19261=IfcSlab
+6	37	3	1	19261=IfcSlab
+6	38	3	1	19261=IfcSlab
+6	39	3	1	19261=IfcSlab
+6	40	3	1	19261=IfcSlab
+6	41	3	1	19261=IfcSlab
+6	42	3	1	19261=IfcSlab
+6	43	3	1	19261=IfcSlab
+7	36	3	1	19261=IfcSlab
+7	37	3	1	19261=IfcSlab
+7	38	3	1	19261=IfcSlab
+7	39	3	1	19261=IfcSlab
+7	40	3	1	19261=IfcSlab
+7	41	3	1	19261=IfcSlab
+7	42	3	1	19261=IfcSlab
+7	43	3	1	19261=IfcSlab
+8	36	3	1	19261=IfcSlab
+8	37	3	1	19261=IfcSlab
+8	38	3	1	19261=IfcSlab
+8	39	3	1	19261=IfcSlab
+8	40	3	1	19261=IfcSlab
+8	41	3	1	19261=IfcSlab
+8	42	3	1	19261=IfcSlab
+8	43	3	1	19261=IfcSlab
+9	36	3	1	19261=IfcSlab
+9	37	3	1	19261=IfcSlab
+9	38	3	1	19261=IfcSlab
+9	39	3	1	19261=IfcSlab
+9	40	3	1	19261=IfcSlab
+9	41	3	1	19261=IfcSlab
+9	42	3	1	19261=IfcSlab
+9	43	3	1	19261=IfcSlab
+10	35	5	1	36528=IfcSlab
+10	36	3	1	19261=IfcSlab
+10	36	5	1	36528=IfcSlab
+10	37	3	1	19261=IfcSlab
+10	37	5	1	36528=IfcSlab
+10	38	3	1	19261=IfcSlab
+10	38	5	1	36528=IfcSlab
+10	39	3	1	19261=IfcSlab
+10	39	5	1	36528=IfcSlab
+10	40	3	1	19261=IfcSlab
+10	40	5	1	36528=IfcSlab
+10	41	3	1	19261=IfcSlab
+10	41	5	1	36528=IfcSlab
+10	42	3	1	19261=IfcSlab
+10	42	5	1	36528=IfcSlab
+10	43	3	1	19261=IfcSlab
+10	43	5	1	36528=IfcSlab
+11	35	5	1	36528=IfcSlab
+11	36	3	1	19261=IfcSlab
+11	36	5	1	36528=IfcSlab
+11	37	3	1	19261=IfcSlab
+11	37	5	1	36528=IfcSlab
+11	38	3	1	19261=IfcSlab
+11	38	5	1	36528=IfcSlab
+11	39	3	1	19261=IfcSlab
+11	39	5	1	36528=IfcSlab
+11	40	3	1	19261=IfcSlab
+11	40	5	1	36528=IfcSlab
+11	41	3	1	19261=IfcSlab
+11	41	5	1	36528=IfcSlab
+11	42	3	1	19261=IfcSlab
+11	42	5	1	36528=IfcSlab
+11	43	3	2	19261=IfcSlab	2130780=IfcBeam
+11	43	5	1	36528=IfcSlab
+11	44	3	1	19261=IfcSlab
+11	44	5	1	36528=IfcSlab
+11	45	3	1	19261=IfcSlab
+11	45	5	1	36528=IfcSlab
+12	35	5	1	36528=IfcSlab
+12	36	3	1	19261=IfcSlab
+12	36	5	1	36528=IfcSlab
+12	37	3	1	19261=IfcSlab
+12	37	5	1	36528=IfcSlab
+12	38	3	1	19261=IfcSlab
+12	38	5	1	36528=IfcSlab
+12	39	3	1	19261=IfcSlab
+12	39	5	1	36528=IfcSlab
+12	40	3	1	19261=IfcSlab
+12	40	5	1	36528=IfcSlab
+12	41	3	1	19261=IfcSlab
+12	41	5	1	36528=IfcSlab
+12	42	3	1	19261=IfcSlab
+12	42	5	1	36528=IfcSlab
+12	43	3	2	19261=IfcSlab	2130780=IfcBeam
+12	43	5	1	36528=IfcSlab
+12	44	3	1	19261=IfcSlab
+12	44	5	1	36528=IfcSlab
+12	45	3	1	19261=IfcSlab
+12	45	5	1	36528=IfcSlab
+13	35	5	1	36528=IfcSlab
+13	36	3	1	19261=IfcSlab
+13	36	5	1	36528=IfcSlab
+13	37	3	1	19261=IfcSlab
+13	37	5	1	36528=IfcSlab
+13	38	3	1	19261=IfcSlab
+13	38	5	1	36528=IfcSlab
+13	39	3	1	19261=IfcSlab
+13	39	5	1	36528=IfcSlab
+13	40	3	1	19261=IfcSlab
+13	40	5	1	36528=IfcSlab
+13	41	3	1	19261=IfcSlab
+13	41	5	1	36528=IfcSlab
+13	42	3	1	19261=IfcSlab
+13	42	5	1	36528=IfcSlab
+13	43	3	2	19261=IfcSlab	2130780=IfcBeam
+13	43	5	1	36528=IfcSlab
+13	44	3	1	19261=IfcSlab
+13	44	5	1	36528=IfcSlab
+13	45	3	1	19261=IfcSlab
+13	45	5	1	36528=IfcSlab
+14	35	5	1	36528=IfcSlab
+14	36	3	1	19261=IfcSlab
+14	36	5	1	36528=IfcSlab
+14	37	3	1	19261=IfcSlab
+14	37	5	1	36528=IfcSlab
+14	38	3	1	19261=IfcSlab
+14	38	5	1	36528=IfcSlab
+14	39	3	1	19261=IfcSlab
+14	39	5	1	36528=IfcSlab
+14	40	3	1	19261=IfcSlab
+14	40	5	1	36528=IfcSlab
+14	41	3	1	19261=IfcSlab
+14	41	5	1	36528=IfcSlab
+14	42	3	1	19261=IfcSlab
+14	42	5	1	36528=IfcSlab
+14	43	3	2	19261=IfcSlab	2130780=IfcBeam
+14	43	5	1	36528=IfcSlab
+14	44	3	1	19261=IfcSlab
+14	44	5	1	36528=IfcSlab
+14	45	3	1	19261=IfcSlab
+14	45	5	1	36528=IfcSlab
+15	35	5	1	36528=IfcSlab
+15	36	3	1	19261=IfcSlab
+15	36	5	1	36528=IfcSlab
+15	37	3	1	19261=IfcSlab
+15	37	5	1	36528=IfcSlab
+15	38	3	1	19261=IfcSlab
+15	38	5	1	36528=IfcSlab
+15	39	3	1	19261=IfcSlab
+15	39	5	1	36528=IfcSlab
+15	40	3	1	19261=IfcSlab
+15	40	5	1	36528=IfcSlab
+15	41	3	1	19261=IfcSlab
+15	41	5	1	36528=IfcSlab
+15	42	3	1	19261=IfcSlab
+15	42	5	1	36528=IfcSlab
+15	43	3	2	19261=IfcSlab	2130780=IfcBeam
+15	43	5	1	36528=IfcSlab
+15	44	3	1	19261=IfcSlab
+15	44	5	1	36528=IfcSlab
+15	45	3	1	19261=IfcSlab
+15	45	5	1	36528=IfcSlab
+16	35	5	1	36528=IfcSlab
+16	36	3	1	19261=IfcSlab
+16	36	5	1	36528=IfcSlab
+16	37	3	1	19261=IfcSlab
+16	37	5	1	36528=IfcSlab
+16	38	3	1	19261=IfcSlab
+16	38	5	1	36528=IfcSlab
+16	39	3	1	19261=IfcSlab
+16	39	5	1	36528=IfcSlab
+16	40	3	1	19261=IfcSlab
+16	40	5	1	36528=IfcSlab
+16	41	3	1	19261=IfcSlab
+16	41	5	1	36528=IfcSlab
+16	42	3	1	19261=IfcSlab
+16	42	5	1	36528=IfcSlab
+16	43	3	2	19261=IfcSlab	2130780=IfcBeam
+16	43	5	1	36528=IfcSlab
+16	44	3	1	19261=IfcSlab
+16	44	5	1	36528=IfcSlab
+16	45	3	1	19261=IfcSlab
+16	45	5	1	36528=IfcSlab
+17	35	5	1	36528=IfcSlab
+17	36	3	1	19261=IfcSlab
+17	36	5	1	36528=IfcSlab
+17	37	3	1	19261=IfcSlab
+17	37	5	1	36528=IfcSlab
+17	38	3	1	19261=IfcSlab
+17	38	5	1	36528=IfcSlab
+17	39	3	1	19261=IfcSlab
+17	39	5	1	36528=IfcSlab
+17	40	3	1	19261=IfcSlab
+17	40	5	1	36528=IfcSlab
+17	41	3	1	19261=IfcSlab
+17	41	5	1	36528=IfcSlab
+17	42	3	1	19261=IfcSlab
+17	42	5	1	36528=IfcSlab
+17	43	3	2	19261=IfcSlab	2130780=IfcBeam
+17	43	5	1	36528=IfcSlab
+17	44	3	1	19261=IfcSlab
+17	44	5	1	36528=IfcSlab
+17	45	3	1	19261=IfcSlab
+17	45	5	1	36528=IfcSlab
+18	35	5	1	36528=IfcSlab
+18	36	3	1	19261=IfcSlab
+18	36	5	1	36528=IfcSlab
+18	37	3	1	19261=IfcSlab
+18	37	5	1	36528=IfcSlab
+18	38	3	1	19261=IfcSlab
+18	38	5	1	36528=IfcSlab
+18	39	3	1	19261=IfcSlab
+18	39	5	1	36528=IfcSlab
+18	40	3	1	19261=IfcSlab
+18	40	5	1	36528=IfcSlab
+18	41	3	1	19261=IfcSlab
+18	41	5	1	36528=IfcSlab
+18	42	3	1	19261=IfcSlab
+18	42	5	1	36528=IfcSlab
+18	43	3	2	19261=IfcSlab	2130780=IfcBeam
+18	43	5	1	36528=IfcSlab
+18	44	3	1	19261=IfcSlab
+18	44	5	1	36528=IfcSlab
+18	45	3	1	19261=IfcSlab
+18	45	5	1	36528=IfcSlab
+19	35	5	1	36528=IfcSlab
+19	36	3	1	19261=IfcSlab
+19	36	5	1	36528=IfcSlab
+19	37	3	1	19261=IfcSlab
+19	37	5	1	36528=IfcSlab
+19	38	3	1	19261=IfcSlab
+19	38	5	1	36528=IfcSlab
+19	39	3	1	19261=IfcSlab
+19	39	5	1	36528=IfcSlab
+19	40	3	1	19261=IfcSlab
+19	40	5	1	36528=IfcSlab
+19	41	3	1	19261=IfcSlab
+19	41	5	1	36528=IfcSlab
+19	42	3	1	19261=IfcSlab
+19	42	5	1	36528=IfcSlab
+19	43	3	2	19261=IfcSlab	2130780=IfcBeam
+19	43	5	1	36528=IfcSlab
+19	44	3	1	19261=IfcSlab
+19	44	5	1	36528=IfcSlab
+19	45	3	1	19261=IfcSlab
+19	45	5	1	36528=IfcSlab
+20	35	5	1	36528=IfcSlab
+20	36	3	1	19261=IfcSlab
+20	36	5	1	36528=IfcSlab
+20	37	3	1	19261=IfcSlab
+20	37	5	1	36528=IfcSlab
+20	38	3	1	19261=IfcSlab
+20	38	5	1	36528=IfcSlab
+20	39	3	1	19261=IfcSlab
+20	39	5	1	36528=IfcSlab
+20	40	3	1	19261=IfcSlab
+20	40	5	1	36528=IfcSlab
+20	41	3	1	19261=IfcSlab
+20	41	5	1	36528=IfcSlab
+20	42	3	1	19261=IfcSlab
+20	42	5	1	36528=IfcSlab
+20	43	3	2	19261=IfcSlab	2130780=IfcBeam
+20	43	5	1	36528=IfcSlab
+20	44	3	1	19261=IfcSlab
+20	44	5	1	36528=IfcSlab
+20	45	3	1	19261=IfcSlab
+20	45	5	1	36528=IfcSlab
+21	35	5	1	36528=IfcSlab
+21	36	3	1	19261=IfcSlab
+21	36	5	1	36528=IfcSlab
+21	37	3	1	19261=IfcSlab
+21	37	5	1	36528=IfcSlab
+21	38	3	1	19261=IfcSlab
+21	38	5	1	36528=IfcSlab
+21	39	3	1	19261=IfcSlab
+21	39	5	1	36528=IfcSlab
+21	40	3	1	19261=IfcSlab
+21	40	5	1	36528=IfcSlab
+21	41	3	1	19261=IfcSlab
+21	41	5	1	36528=IfcSlab
+21	42	3	1	19261=IfcSlab
+21	42	5	1	36528=IfcSlab
+21	43	3	2	19261=IfcSlab	2130780=IfcBeam
+21	43	5	1	36528=IfcSlab
+21	44	3	1	19261=IfcSlab
+21	44	5	1	36528=IfcSlab
+21	45	3	1	19261=IfcSlab
+21	45	5	1	36528=IfcSlab
+22	35	5	1	36528=IfcSlab
+22	36	3	1	19261=IfcSlab
+22	36	5	1	36528=IfcSlab
+22	37	3	1	19261=IfcSlab
+22	37	5	1	36528=IfcSlab
+22	38	3	1	19261=IfcSlab
+22	38	5	1	36528=IfcSlab
+22	39	3	1	19261=IfcSlab
+22	39	5	1	36528=IfcSlab
+22	40	3	1	19261=IfcSlab
+22	40	5	1	36528=IfcSlab
+22	41	3	1	19261=IfcSlab
+22	41	5	1	36528=IfcSlab
+22	42	3	1	19261=IfcSlab
+22	42	5	1	36528=IfcSlab
+22	43	3	2	19261=IfcSlab	2130780=IfcBeam
+22	43	5	1	36528=IfcSlab
+22	44	3	1	19261=IfcSlab
+22	44	5	1	36528=IfcSlab
+22	45	3	1	19261=IfcSlab
+22	45	5	1	36528=IfcSlab
+23	35	5	1	36528=IfcSlab
+23	36	3	1	19261=IfcSlab
+23	36	5	1	36528=IfcSlab
+23	37	3	1	19261=IfcSlab
+23	37	5	1	36528=IfcSlab
+23	38	3	1	19261=IfcSlab
+23	38	5	1	36528=IfcSlab
+23	39	3	1	19261=IfcSlab
+23	39	5	1	36528=IfcSlab
+23	40	3	1	19261=IfcSlab
+23	40	5	1	36528=IfcSlab
+23	41	3	1	19261=IfcSlab
+23	41	5	1	36528=IfcSlab
+23	42	3	1	19261=IfcSlab
+23	42	5	1	36528=IfcSlab
+23	43	3	2	19261=IfcSlab	2130780=IfcBeam
+23	43	5	1	36528=IfcSlab
+23	44	3	1	19261=IfcSlab
+23	44	5	1	36528=IfcSlab
+23	45	3	1	19261=IfcSlab
+23	45	5	1	36528=IfcSlab
+24	35	5	1	36528=IfcSlab
+24	36	3	1	19261=IfcSlab
+24	36	5	1	36528=IfcSlab
+24	37	3	1	19261=IfcSlab
+24	37	5	1	36528=IfcSlab
+24	38	3	1	19261=IfcSlab
+24	38	5	1	36528=IfcSlab
+24	39	3	1	19261=IfcSlab
+24	39	5	1	36528=IfcSlab
+24	40	3	1	19261=IfcSlab
+24	40	5	1	36528=IfcSlab
+24	41	3	1	19261=IfcSlab
+24	41	5	1	36528=IfcSlab
+24	42	3	1	19261=IfcSlab
+24	42	5	1	36528=IfcSlab
+24	43	3	2	19261=IfcSlab	2130780=IfcBeam
+24	43	5	1	36528=IfcSlab
+24	44	3	1	19261=IfcSlab
+24	44	5	1	36528=IfcSlab
+24	45	3	1	19261=IfcSlab
+24	45	5	1	36528=IfcSlab
+25	35	5	1	36528=IfcSlab
+25	36	3	1	19261=IfcSlab
+25	36	5	1	36528=IfcSlab
+25	37	3	1	19261=IfcSlab
+25	37	5	1	36528=IfcSlab
+25	38	3	1	19261=IfcSlab
+25	38	5	1	36528=IfcSlab
+25	39	3	1	19261=IfcSlab
+25	39	5	1	36528=IfcSlab
+25	40	3	1	19261=IfcSlab
+25	40	5	1	36528=IfcSlab
+25	41	3	1	19261=IfcSlab
+25	41	5	1	36528=IfcSlab
+25	42	3	1	19261=IfcSlab
+25	42	5	1	36528=IfcSlab
+25	43	3	2	19261=IfcSlab	2130780=IfcBeam
+25	43	5	1	36528=IfcSlab
+25	44	3	1	19261=IfcSlab
+25	44	5	1	36528=IfcSlab
+25	45	3	1	19261=IfcSlab
+25	45	5	1	36528=IfcSlab
+26	35	5	1	36528=IfcSlab
+26	36	3	1	19261=IfcSlab
+26	36	5	1	36528=IfcSlab
+26	37	3	1	19261=IfcSlab
+26	37	5	1	36528=IfcSlab
+26	38	3	1	19261=IfcSlab
+26	38	5	1	36528=IfcSlab
+26	39	3	1	19261=IfcSlab
+26	39	5	1	36528=IfcSlab
+26	40	3	1	19261=IfcSlab
+26	40	5	1	36528=IfcSlab
+26	41	3	1	19261=IfcSlab
+26	41	5	1	36528=IfcSlab
+26	42	3	1	19261=IfcSlab
+26	42	5	1	36528=IfcSlab
+26	43	3	2	19261=IfcSlab	2130780=IfcBeam
+26	43	5	1	36528=IfcSlab
+26	44	3	1	19261=IfcSlab
+26	44	5	1	36528=IfcSlab
+26	45	3	1	19261=IfcSlab
+26	45	5	1	36528=IfcSlab
+27	35	5	1	36528=IfcSlab
+27	36	3	1	19261=IfcSlab
+27	36	5	1	36528=IfcSlab
+27	37	3	1	19261=IfcSlab
+27	37	5	1	36528=IfcSlab
+27	38	3	1	19261=IfcSlab
+27	38	5	1	36528=IfcSlab
+27	39	3	1	19261=IfcSlab
+27	39	5	1	36528=IfcSlab
+27	40	3	1	19261=IfcSlab
+27	40	5	1	36528=IfcSlab
+27	41	3	1	19261=IfcSlab
+27	41	5	1	36528=IfcSlab
+27	42	3	1	19261=IfcSlab
+27	42	5	1	36528=IfcSlab
+27	43	3	2	19261=IfcSlab	2130780=IfcBeam
+27	43	5	1	36528=IfcSlab
+27	44	3	1	19261=IfcSlab
+27	44	5	1	36528=IfcSlab
+27	45	3	1	19261=IfcSlab
+27	45	5	1	36528=IfcSlab
+28	35	5	1	36528=IfcSlab
+28	36	3	1	19261=IfcSlab
+28	36	5	1	36528=IfcSlab
+28	37	3	1	19261=IfcSlab
+28	37	5	1	36528=IfcSlab
+28	38	3	1	19261=IfcSlab
+28	38	5	1	36528=IfcSlab
+28	39	3	1	19261=IfcSlab
+28	39	5	1	36528=IfcSlab
+28	40	3	1	19261=IfcSlab
+28	40	5	1	36528=IfcSlab
+28	41	3	1	19261=IfcSlab
+28	41	5	1	36528=IfcSlab
+28	42	3	1	19261=IfcSlab
+28	42	5	1	36528=IfcSlab
+28	43	3	2	19261=IfcSlab	2130780=IfcBeam
+28	43	5	1	36528=IfcSlab
+28	44	3	1	19261=IfcSlab
+28	44	5	1	36528=IfcSlab
+28	45	3	1	19261=IfcSlab
+28	45	5	1	36528=IfcSlab
+29	35	5	1	36528=IfcSlab
+29	36	3	1	19261=IfcSlab
+29	36	5	1	36528=IfcSlab
+29	37	3	1	19261=IfcSlab
+29	37	5	1	36528=IfcSlab
+29	38	3	1	19261=IfcSlab
+29	38	5	1	36528=IfcSlab
+29	39	3	1	19261=IfcSlab
+29	39	5	1	36528=IfcSlab
+29	40	3	1	19261=IfcSlab
+29	40	5	1	36528=IfcSlab
+29	41	3	1	19261=IfcSlab
+29	41	5	1	36528=IfcSlab
+29	42	3	1	19261=IfcSlab
+29	42	5	1	36528=IfcSlab
+29	43	3	2	19261=IfcSlab	2130780=IfcBeam
+29	43	5	1	36528=IfcSlab
+29	44	3	1	19261=IfcSlab
+29	44	5	1	36528=IfcSlab
+29	45	3	1	19261=IfcSlab
+29	45	5	1	36528=IfcSlab
+30	35	5	1	36528=IfcSlab
+30	36	3	1	19261=IfcSlab
+30	36	5	1	36528=IfcSlab
+30	37	3	1	19261=IfcSlab
+30	37	5	1	36528=IfcSlab
+30	38	3	1	19261=IfcSlab
+30	38	5	1	36528=IfcSlab
+30	39	3	1	19261=IfcSlab
+30	39	5	1	36528=IfcSlab
+30	40	3	1	19261=IfcSlab
+30	40	5	1	36528=IfcSlab
+30	41	3	1	19261=IfcSlab
+30	41	5	1	36528=IfcSlab
+30	42	3	1	19261=IfcSlab
+30	42	5	1	36528=IfcSlab
+30	43	3	2	19261=IfcSlab	2130780=IfcBeam
+30	43	5	1	36528=IfcSlab
+30	44	3	1	19261=IfcSlab
+30	44	5	1	36528=IfcSlab
+30	45	3	1	19261=IfcSlab
+30	45	5	1	36528=IfcSlab
+31	35	5	1	36528=IfcSlab
+31	36	3	1	19261=IfcSlab
+31	36	5	1	36528=IfcSlab
+31	37	3	1	19261=IfcSlab
+31	37	5	1	36528=IfcSlab
+31	38	3	1	19261=IfcSlab
+31	38	5	1	36528=IfcSlab
+31	39	3	1	19261=IfcSlab
+31	39	5	1	36528=IfcSlab
+31	40	3	1	19261=IfcSlab
+31	40	5	1	36528=IfcSlab
+31	41	3	1	19261=IfcSlab
+31	41	5	1	36528=IfcSlab
+31	42	3	1	19261=IfcSlab
+31	42	5	1	36528=IfcSlab
+31	43	3	2	19261=IfcSlab	2130780=IfcBeam
+31	43	5	1	36528=IfcSlab
+31	44	3	1	19261=IfcSlab
+31	44	5	1	36528=IfcSlab
+31	45	3	1	19261=IfcSlab
+31	45	5	1	36528=IfcSlab
+32	35	5	1	36528=IfcSlab
+32	36	3	1	19261=IfcSlab
+32	36	5	1	36528=IfcSlab
+32	37	3	1	19261=IfcSlab
+32	37	5	1	36528=IfcSlab
+32	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+32	38	5	1	36528=IfcSlab
+32	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+32	39	5	1	36528=IfcSlab
+32	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+32	40	5	1	36528=IfcSlab
+32	41	3	1	19261=IfcSlab
+32	41	5	1	36528=IfcSlab
+32	42	3	1	19261=IfcSlab
+32	42	5	1	36528=IfcSlab
+32	43	3	2	19261=IfcSlab	2130780=IfcBeam
+32	43	5	1	36528=IfcSlab
+32	44	3	1	19261=IfcSlab
+32	44	5	1	36528=IfcSlab
+32	45	3	1	19261=IfcSlab
+32	45	5	1	36528=IfcSlab
+33	35	5	1	36528=IfcSlab
+33	36	3	1	19261=IfcSlab
+33	36	5	1	36528=IfcSlab
+33	37	3	1	19261=IfcSlab
+33	37	5	1	36528=IfcSlab
+33	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+33	38	5	1	36528=IfcSlab
+33	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+33	39	5	1	36528=IfcSlab
+33	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+33	40	5	1	36528=IfcSlab
+33	41	3	1	19261=IfcSlab
+33	41	5	1	36528=IfcSlab
+33	42	3	1	19261=IfcSlab
+33	42	5	1	36528=IfcSlab
+33	43	3	2	19261=IfcSlab	2130780=IfcBeam
+33	43	4	1	1883062=IfcFlowSegment
+33	43	5	2	36528=IfcSlab	1883062=IfcFlowSegment
+33	44	3	1	19261=IfcSlab
+33	44	4	1	1883062=IfcFlowSegment
+33	44	5	2	36528=IfcSlab	1883062=IfcFlowSegment
+33	45	3	1	19261=IfcSlab
+33	45	5	1	36528=IfcSlab
+34	35	5	1	36528=IfcSlab
+34	36	3	1	19261=IfcSlab
+34	36	5	1	36528=IfcSlab
+34	37	3	1	19261=IfcSlab
+34	37	5	1	36528=IfcSlab
+34	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+34	38	5	1	36528=IfcSlab
+34	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+34	39	5	1	36528=IfcSlab
+34	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+34	40	5	1	36528=IfcSlab
+34	41	3	1	19261=IfcSlab
+34	41	5	1	36528=IfcSlab
+34	42	3	1	19261=IfcSlab
+34	42	5	1	36528=IfcSlab
+34	43	3	2	19261=IfcSlab	2130780=IfcBeam
+34	43	4	1	1883062=IfcFlowSegment
+34	43	5	2	36528=IfcSlab	1883062=IfcFlowSegment
+34	44	3	1	19261=IfcSlab
+34	44	4	1	1883062=IfcFlowSegment
+34	44	5	2	36528=IfcSlab	1883062=IfcFlowSegment
+34	45	3	1	19261=IfcSlab
+34	45	5	1	36528=IfcSlab
+35	35	5	1	36528=IfcSlab
+35	36	3	1	19261=IfcSlab
+35	36	5	1	36528=IfcSlab
+35	37	3	1	19261=IfcSlab
+35	37	5	1	36528=IfcSlab
+35	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+35	38	5	1	36528=IfcSlab
+35	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+35	39	5	1	36528=IfcSlab
+35	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+35	40	5	1	36528=IfcSlab
+35	41	3	1	19261=IfcSlab
+35	41	5	1	36528=IfcSlab
+35	42	3	1	19261=IfcSlab
+35	42	5	1	36528=IfcSlab
+35	43	3	2	19261=IfcSlab	2130780=IfcBeam
+35	43	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+35	43	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+35	44	3	1	19261=IfcSlab
+35	44	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+35	44	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+35	45	3	1	19261=IfcSlab
+35	45	5	1	36528=IfcSlab
+36	35	5	1	36528=IfcSlab
+36	36	3	1	19261=IfcSlab
+36	36	5	1	36528=IfcSlab
+36	37	3	1	19261=IfcSlab
+36	37	5	2	36528=IfcSlab	173180=IfcFlowSegment
+36	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+36	38	5	2	36528=IfcSlab	173180=IfcFlowSegment
+36	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+36	39	5	1	36528=IfcSlab
+36	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+36	40	5	1	36528=IfcSlab
+36	41	3	1	19261=IfcSlab
+36	41	5	1	36528=IfcSlab
+36	42	3	1	19261=IfcSlab
+36	42	5	1	36528=IfcSlab
+36	43	3	2	19261=IfcSlab	2130780=IfcBeam
+36	43	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+36	43	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+36	44	3	1	19261=IfcSlab
+36	44	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+36	44	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+36	45	3	1	19261=IfcSlab
+36	45	5	1	36528=IfcSlab
+37	35	5	1	36528=IfcSlab
+37	36	3	1	19261=IfcSlab
+37	36	5	1	36528=IfcSlab
+37	37	3	1	19261=IfcSlab
+37	37	5	2	36528=IfcSlab	173180=IfcFlowSegment
+37	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+37	38	5	2	36528=IfcSlab	173180=IfcFlowSegment
+37	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+37	39	5	1	36528=IfcSlab
+37	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+37	40	5	1	36528=IfcSlab
+37	41	3	1	19261=IfcSlab
+37	41	5	1	36528=IfcSlab
+37	42	3	1	19261=IfcSlab
+37	42	5	2	36528=IfcSlab	171588=IfcFlowSegment
+37	43	3	2	19261=IfcSlab	2130780=IfcBeam
+37	43	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+37	43	5	5	36528=IfcSlab	157574=IfcFlowSegment	171588=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+37	44	3	1	19261=IfcSlab
+37	44	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+37	44	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+37	45	3	1	19261=IfcSlab
+37	45	5	1	36528=IfcSlab
+38	35	3	1	5839=IfcWallStandardCase
+38	35	4	1	5839=IfcWallStandardCase
+38	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+38	36	3	2	5839=IfcWallStandardCase	19261=IfcSlab
+38	36	4	1	5839=IfcWallStandardCase
+38	36	5	3	5839=IfcWallStandardCase	36528=IfcSlab	171488=IfcFlowSegment
+38	37	3	1	19261=IfcSlab
+38	37	5	2	36528=IfcSlab	173180=IfcFlowSegment
+38	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+38	38	5	2	36528=IfcSlab	173180=IfcFlowSegment
+38	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+38	39	5	1	36528=IfcSlab
+38	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+38	40	5	1	36528=IfcSlab
+38	41	3	1	19261=IfcSlab
+38	41	5	1	36528=IfcSlab
+38	42	3	1	19261=IfcSlab
+38	42	5	2	36528=IfcSlab	171588=IfcFlowSegment
+38	43	3	2	19261=IfcSlab	2130780=IfcBeam
+38	43	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+38	43	5	5	36528=IfcSlab	157574=IfcFlowSegment	171588=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+38	44	3	1	19261=IfcSlab
+38	44	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+38	44	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+38	45	3	1	19261=IfcSlab
+38	45	5	1	36528=IfcSlab
+39	35	3	1	5839=IfcWallStandardCase
+39	35	4	1	5839=IfcWallStandardCase
+39	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+39	36	3	2	5839=IfcWallStandardCase	19261=IfcSlab
+39	36	4	1	5839=IfcWallStandardCase
+39	36	5	3	5839=IfcWallStandardCase	36528=IfcSlab	171488=IfcFlowSegment
+39	37	3	1	19261=IfcSlab
+39	37	5	2	36528=IfcSlab	173180=IfcFlowSegment
+39	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+39	38	5	2	36528=IfcSlab	173180=IfcFlowSegment
+39	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+39	39	5	1	36528=IfcSlab
+39	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+39	40	5	1	36528=IfcSlab
+39	41	3	1	19261=IfcSlab
+39	41	5	2	36528=IfcSlab	162938=IfcFlowSegment
+39	42	3	1	19261=IfcSlab
+39	42	5	2	36528=IfcSlab	171588=IfcFlowSegment
+39	43	3	2	19261=IfcSlab	2130780=IfcBeam
+39	43	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+39	43	5	5	36528=IfcSlab	157574=IfcFlowSegment	171588=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+39	44	3	1	19261=IfcSlab
+39	44	4	3	38559=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+39	44	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+39	45	3	1	19261=IfcSlab
+39	45	4	1	38559=IfcFlowSegment
+39	45	5	1	36528=IfcSlab
+40	35	3	1	5839=IfcWallStandardCase
+40	35	4	1	5839=IfcWallStandardCase
+40	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+40	36	3	2	5839=IfcWallStandardCase	19261=IfcSlab
+40	36	4	1	5839=IfcWallStandardCase
+40	36	5	3	5839=IfcWallStandardCase	36528=IfcSlab	171488=IfcFlowSegment
+40	37	3	1	19261=IfcSlab
+40	37	5	2	36528=IfcSlab	173180=IfcFlowSegment
+40	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+40	38	5	2	36528=IfcSlab	173180=IfcFlowSegment
+40	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+40	39	5	1	36528=IfcSlab
+40	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+40	40	5	1	36528=IfcSlab
+40	41	3	1	19261=IfcSlab
+40	41	5	2	36528=IfcSlab	162938=IfcFlowSegment
+40	42	3	1	19261=IfcSlab
+40	42	5	2	36528=IfcSlab	171588=IfcFlowSegment
+40	43	3	2	19261=IfcSlab	2130780=IfcBeam
+40	43	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+40	43	5	5	36528=IfcSlab	157574=IfcFlowSegment	171588=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+40	44	3	1	19261=IfcSlab
+40	44	4	3	38559=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+40	44	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+40	45	3	1	19261=IfcSlab
+40	45	4	1	38559=IfcFlowSegment
+40	45	5	1	36528=IfcSlab
+41	35	3	1	5839=IfcWallStandardCase
+41	35	4	1	5839=IfcWallStandardCase
+41	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+41	36	3	2	5839=IfcWallStandardCase	19261=IfcSlab
+41	36	4	1	5839=IfcWallStandardCase
+41	36	5	3	5839=IfcWallStandardCase	36528=IfcSlab	171488=IfcFlowSegment
+41	37	3	1	19261=IfcSlab
+41	37	5	2	36528=IfcSlab	173180=IfcFlowSegment
+41	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+41	38	5	4	36528=IfcSlab	27214=IfcBeam	173180=IfcFlowSegment	2699211=IfcBeam
+41	38	6	2	27214=IfcBeam	2699211=IfcBeam
+41	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+41	39	5	3	36528=IfcSlab	27214=IfcBeam	2699211=IfcBeam
+41	39	6	2	27214=IfcBeam	2699211=IfcBeam
+41	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+41	40	5	3	36528=IfcSlab	27530=IfcBeam	2700073=IfcBeam
+41	40	6	2	27530=IfcBeam	2700073=IfcBeam
+41	41	3	1	19261=IfcSlab
+41	41	5	2	36528=IfcSlab	162938=IfcFlowSegment
+41	42	3	1	19261=IfcSlab
+41	42	5	2	36528=IfcSlab	171588=IfcFlowSegment
+41	43	3	2	19261=IfcSlab	2130780=IfcBeam
+41	43	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+41	43	5	5	36528=IfcSlab	157574=IfcFlowSegment	171588=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+41	44	3	1	19261=IfcSlab
+41	44	4	3	38559=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+41	44	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+41	45	3	1	19261=IfcSlab
+41	45	4	1	38559=IfcFlowSegment
+41	45	5	1	36528=IfcSlab
+42	35	3	1	5839=IfcWallStandardCase
+42	35	4	1	5839=IfcWallStandardCase
+42	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+42	36	3	2	5839=IfcWallStandardCase	19261=IfcSlab
+42	36	4	1	5839=IfcWallStandardCase
+42	36	5	3	5839=IfcWallStandardCase	36528=IfcSlab	171488=IfcFlowSegment
+42	37	3	1	19261=IfcSlab
+42	37	5	2	36528=IfcSlab	173180=IfcFlowSegment
+42	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+42	38	5	4	36528=IfcSlab	27214=IfcBeam	173180=IfcFlowSegment	2699211=IfcBeam
+42	38	6	2	27214=IfcBeam	2699211=IfcBeam
+42	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+42	39	5	3	36528=IfcSlab	27214=IfcBeam	2699211=IfcBeam
+42	39	6	2	27214=IfcBeam	2699211=IfcBeam
+42	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+42	40	5	3	36528=IfcSlab	27530=IfcBeam	2700073=IfcBeam
+42	40	6	2	27530=IfcBeam	2700073=IfcBeam
+42	41	3	1	19261=IfcSlab
+42	41	5	2	36528=IfcSlab	162938=IfcFlowSegment
+42	42	3	1	19261=IfcSlab
+42	42	5	2	36528=IfcSlab	171588=IfcFlowSegment
+42	43	3	2	19261=IfcSlab	2130780=IfcBeam
+42	43	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+42	43	5	5	36528=IfcSlab	157574=IfcFlowSegment	171588=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+42	44	3	1	19261=IfcSlab
+42	44	4	3	38559=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+42	44	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+42	45	3	1	19261=IfcSlab
+42	45	4	1	38559=IfcFlowSegment
+42	45	5	1	36528=IfcSlab
+43	35	3	1	5839=IfcWallStandardCase
+43	35	4	1	5839=IfcWallStandardCase
+43	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+43	36	3	2	5839=IfcWallStandardCase	19261=IfcSlab
+43	36	4	1	5839=IfcWallStandardCase
+43	36	5	3	5839=IfcWallStandardCase	36528=IfcSlab	171488=IfcFlowSegment
+43	37	3	1	19261=IfcSlab
+43	37	5	2	36528=IfcSlab	173180=IfcFlowSegment
+43	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+43	38	5	4	36528=IfcSlab	27214=IfcBeam	173180=IfcFlowSegment	2699211=IfcBeam
+43	38	6	2	27214=IfcBeam	2699211=IfcBeam
+43	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+43	39	5	3	36528=IfcSlab	27214=IfcBeam	2699211=IfcBeam
+43	39	6	2	27214=IfcBeam	2699211=IfcBeam
+43	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+43	40	5	3	36528=IfcSlab	27530=IfcBeam	2700073=IfcBeam
+43	40	6	2	27530=IfcBeam	2700073=IfcBeam
+43	41	3	1	19261=IfcSlab
+43	41	5	2	36528=IfcSlab	162938=IfcFlowSegment
+43	42	3	1	19261=IfcSlab
+43	42	5	2	36528=IfcSlab	171588=IfcFlowSegment
+43	43	3	2	19261=IfcSlab	2130780=IfcBeam
+43	43	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+43	43	5	5	36528=IfcSlab	157574=IfcFlowSegment	171588=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+43	44	3	1	19261=IfcSlab
+43	44	4	3	38559=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+43	44	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+43	45	3	1	19261=IfcSlab
+43	45	4	1	38559=IfcFlowSegment
+43	45	5	1	36528=IfcSlab
+44	35	3	1	5839=IfcWallStandardCase
+44	35	4	1	5839=IfcWallStandardCase
+44	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+44	36	3	2	5839=IfcWallStandardCase	19261=IfcSlab
+44	36	4	2	5839=IfcWallStandardCase	63461=IfcFlowSegment
+44	36	5	3	5839=IfcWallStandardCase	36528=IfcSlab	171488=IfcFlowSegment
+44	37	3	1	19261=IfcSlab
+44	37	5	3	36528=IfcSlab	159630=IfcFlowSegment	173180=IfcFlowSegment
+44	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+44	38	5	4	36528=IfcSlab	27214=IfcBeam	173180=IfcFlowSegment	2699211=IfcBeam
+44	38	6	2	27214=IfcBeam	2699211=IfcBeam
+44	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+44	39	5	3	36528=IfcSlab	27214=IfcBeam	2699211=IfcBeam
+44	39	6	2	27214=IfcBeam	2699211=IfcBeam
+44	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+44	40	5	3	36528=IfcSlab	27530=IfcBeam	2700073=IfcBeam
+44	40	6	2	27530=IfcBeam	2700073=IfcBeam
+44	41	3	1	19261=IfcSlab
+44	41	5	2	36528=IfcSlab	162938=IfcFlowSegment
+44	42	3	1	19261=IfcSlab
+44	42	5	2	36528=IfcSlab	171588=IfcFlowSegment
+44	43	3	2	19261=IfcSlab	2130780=IfcBeam
+44	43	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+44	43	5	5	36528=IfcSlab	157574=IfcFlowSegment	171588=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+44	44	3	1	19261=IfcSlab
+44	44	4	3	38559=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+44	44	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+44	45	3	1	19261=IfcSlab
+44	45	4	1	38559=IfcFlowSegment
+44	45	5	1	36528=IfcSlab
+45	35	3	1	5839=IfcWallStandardCase
+45	35	4	1	5839=IfcWallStandardCase
+45	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+45	36	3	2	5839=IfcWallStandardCase	19261=IfcSlab
+45	36	4	2	5839=IfcWallStandardCase	63461=IfcFlowSegment
+45	36	5	3	5839=IfcWallStandardCase	36528=IfcSlab	171488=IfcFlowSegment
+45	37	3	1	19261=IfcSlab
+45	37	5	3	36528=IfcSlab	159630=IfcFlowSegment	173180=IfcFlowSegment
+45	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+45	38	5	4	36528=IfcSlab	27214=IfcBeam	173180=IfcFlowSegment	2699211=IfcBeam
+45	38	6	2	27214=IfcBeam	2699211=IfcBeam
+45	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+45	39	5	3	36528=IfcSlab	27214=IfcBeam	2699211=IfcBeam
+45	39	6	2	27214=IfcBeam	2699211=IfcBeam
+45	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+45	40	5	3	36528=IfcSlab	27530=IfcBeam	2700073=IfcBeam
+45	40	6	2	27530=IfcBeam	2700073=IfcBeam
+45	41	3	1	19261=IfcSlab
+45	41	5	2	36528=IfcSlab	162938=IfcFlowSegment
+45	42	3	1	19261=IfcSlab
+45	42	5	3	36528=IfcSlab	158556=IfcFlowSegment	171588=IfcFlowSegment
+45	43	3	2	19261=IfcSlab	2130780=IfcBeam
+45	43	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+45	43	5	5	36528=IfcSlab	157574=IfcFlowSegment	171588=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+45	44	3	1	19261=IfcSlab
+45	44	4	3	38559=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+45	44	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+45	45	3	1	19261=IfcSlab
+45	45	4	1	38559=IfcFlowSegment
+45	45	5	1	36528=IfcSlab
+46	35	3	1	5839=IfcWallStandardCase
+46	35	4	1	5839=IfcWallStandardCase
+46	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+46	36	3	2	5839=IfcWallStandardCase	19261=IfcSlab
+46	36	4	2	5839=IfcWallStandardCase	63461=IfcFlowSegment
+46	36	5	3	5839=IfcWallStandardCase	36528=IfcSlab	171488=IfcFlowSegment
+46	37	3	1	19261=IfcSlab
+46	37	5	3	36528=IfcSlab	159630=IfcFlowSegment	173180=IfcFlowSegment
+46	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+46	38	5	4	36528=IfcSlab	27214=IfcBeam	173180=IfcFlowSegment	2699211=IfcBeam
+46	38	6	2	27214=IfcBeam	2699211=IfcBeam
+46	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+46	39	5	3	36528=IfcSlab	27214=IfcBeam	2699211=IfcBeam
+46	39	6	2	27214=IfcBeam	2699211=IfcBeam
+46	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+46	40	5	3	36528=IfcSlab	27530=IfcBeam	2700073=IfcBeam
+46	40	6	2	27530=IfcBeam	2700073=IfcBeam
+46	41	3	1	19261=IfcSlab
+46	41	5	2	36528=IfcSlab	162938=IfcFlowSegment
+46	42	3	1	19261=IfcSlab
+46	42	5	3	36528=IfcSlab	158556=IfcFlowSegment	171588=IfcFlowSegment
+46	43	3	2	19261=IfcSlab	2130780=IfcBeam
+46	43	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+46	43	5	5	36528=IfcSlab	157574=IfcFlowSegment	171588=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+46	44	3	1	19261=IfcSlab
+46	44	4	3	38559=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+46	44	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+46	45	3	1	19261=IfcSlab
+46	45	4	1	38559=IfcFlowSegment
+46	45	5	1	36528=IfcSlab
+47	35	3	1	5839=IfcWallStandardCase
+47	35	4	1	5839=IfcWallStandardCase
+47	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+47	36	3	3	5839=IfcWallStandardCase	19261=IfcSlab	237441=IfcBuildingElementProxy
+47	36	4	3	5839=IfcWallStandardCase	63461=IfcFlowSegment	237441=IfcBuildingElementProxy
+47	36	5	3	5839=IfcWallStandardCase	36528=IfcSlab	171488=IfcFlowSegment
+47	37	3	1	19261=IfcSlab
+47	37	5	3	36528=IfcSlab	159630=IfcFlowSegment	173180=IfcFlowSegment
+47	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+47	38	5	4	36528=IfcSlab	27214=IfcBeam	173180=IfcFlowSegment	2699211=IfcBeam
+47	38	6	2	27214=IfcBeam	2699211=IfcBeam
+47	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+47	39	5	3	36528=IfcSlab	27214=IfcBeam	2699211=IfcBeam
+47	39	6	2	27214=IfcBeam	2699211=IfcBeam
+47	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+47	40	5	3	36528=IfcSlab	27530=IfcBeam	2700073=IfcBeam
+47	40	6	2	27530=IfcBeam	2700073=IfcBeam
+47	41	3	1	19261=IfcSlab
+47	41	5	2	36528=IfcSlab	162938=IfcFlowSegment
+47	42	3	1	19261=IfcSlab
+47	42	5	3	36528=IfcSlab	158556=IfcFlowSegment	171588=IfcFlowSegment
+47	43	3	2	19261=IfcSlab	2130780=IfcBeam
+47	43	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+47	43	5	5	36528=IfcSlab	157574=IfcFlowSegment	171588=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+47	44	3	1	19261=IfcSlab
+47	44	4	3	38559=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+47	44	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+47	45	3	1	19261=IfcSlab
+47	45	4	1	38559=IfcFlowSegment
+47	45	5	1	36528=IfcSlab
+48	35	3	1	5839=IfcWallStandardCase
+48	35	4	1	5839=IfcWallStandardCase
+48	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+48	36	3	3	5839=IfcWallStandardCase	19261=IfcSlab	237441=IfcBuildingElementProxy
+48	36	4	3	5839=IfcWallStandardCase	63461=IfcFlowSegment	237441=IfcBuildingElementProxy
+48	36	5	3	5839=IfcWallStandardCase	36528=IfcSlab	171488=IfcFlowSegment
+48	37	3	1	19261=IfcSlab
+48	37	5	3	36528=IfcSlab	159630=IfcFlowSegment	173180=IfcFlowSegment
+48	38	1	1	43543=IfcColumn
+48	38	2	1	43543=IfcColumn
+48	38	3	5	43543=IfcColumn	14854=IfcBeam	19261=IfcSlab	288647=IfcBuildingElementProxy	2682928=IfcBeam
+48	38	4	1	43543=IfcColumn
+48	38	5	7	43543=IfcColumn	36528=IfcSlab	27214=IfcBeam	28971=IfcBeam	173180=IfcFlowSegment	2699211=IfcBeam	2703470=IfcBeam
+48	38	6	2	27214=IfcBeam	2699211=IfcBeam
+48	39	1	1	43543=IfcColumn
+48	39	2	1	43543=IfcColumn
+48	39	3	5	43543=IfcColumn	14854=IfcBeam	19261=IfcSlab	288647=IfcBuildingElementProxy	2682928=IfcBeam
+48	39	4	1	43543=IfcColumn
+48	39	5	6	43543=IfcColumn	36528=IfcSlab	27214=IfcBeam	28971=IfcBeam	2699211=IfcBeam	2703470=IfcBeam
+48	39	6	2	27214=IfcBeam	2699211=IfcBeam
+48	40	1	1	43622=IfcColumn
+48	40	2	1	43622=IfcColumn
+48	40	3	5	43622=IfcColumn	14252=IfcBeam	19261=IfcSlab	271137=IfcBuildingElementProxy	2681064=IfcBeam
+48	40	4	1	43622=IfcColumn
+48	40	5	6	43622=IfcColumn	36528=IfcSlab	27530=IfcBeam	28971=IfcBeam	2700073=IfcBeam	2703470=IfcBeam
+48	40	6	2	27530=IfcBeam	2700073=IfcBeam
+48	41	3	1	19261=IfcSlab
+48	41	4	1	588736=IfcFlowSegment
+48	41	5	2	36528=IfcSlab	162938=IfcFlowSegment
+48	42	3	1	19261=IfcSlab
+48	42	5	3	36528=IfcSlab	158556=IfcFlowSegment	171588=IfcFlowSegment
+48	43	1	1	43701=IfcColumn
+48	43	2	1	43701=IfcColumn
+48	43	3	4	43701=IfcColumn	19261=IfcSlab	270231=IfcBuildingElementProxy	2130780=IfcBeam
+48	43	4	3	43701=IfcColumn	2702776=IfcBeam	1883062=IfcFlowSegment
+48	43	5	6	43701=IfcColumn	36528=IfcSlab	157574=IfcFlowSegment	171588=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+48	44	3	1	19261=IfcSlab
+48	44	4	3	38559=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+48	44	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+48	45	3	1	19261=IfcSlab
+48	45	4	1	38559=IfcFlowSegment
+48	45	5	1	36528=IfcSlab
+49	35	3	1	5839=IfcWallStandardCase
+49	35	4	1	5839=IfcWallStandardCase
+49	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+49	36	3	5	5839=IfcWallStandardCase	19261=IfcSlab	1023242=IfcRailing	237441=IfcBuildingElementProxy	245094=IfcFlowTerminal
+49	36	4	9	5839=IfcWallStandardCase	63461=IfcFlowSegment	104193=IfcBuildingElementProxy	210513=IfcFlowTerminal	610897=IfcFlowFitting	237441=IfcBuildingElementProxy	585604=IfcFlowSegment	599872=IfcFlowSegment	599959=IfcFlowSegment
+49	36	5	6	5839=IfcWallStandardCase	104193=IfcBuildingElementProxy	36528=IfcSlab	210581=IfcFlowTerminal	171488=IfcFlowSegment	599959=IfcFlowSegment
+49	37	3	1	19261=IfcSlab
+49	37	4	5	210649=IfcFlowTerminal	585604=IfcFlowSegment	585691=IfcFlowSegment	599785=IfcFlowSegment	2998470=IfcFlowFitting
+49	37	5	4	36528=IfcSlab	159630=IfcFlowSegment	173180=IfcFlowSegment	1863429=IfcFlowTerminal
+49	38	1	1	43543=IfcColumn
+49	38	2	1	43543=IfcColumn
+49	38	3	7	22052=IfcBeam	43543=IfcColumn	14854=IfcBeam	19261=IfcSlab	288647=IfcBuildingElementProxy	2682928=IfcBeam	2692991=IfcBeam
+49	38	4	7	43543=IfcColumn	210717=IfcFlowTerminal	611009=IfcFlowFitting	585691=IfcFlowSegment	585778=IfcFlowSegment	599611=IfcFlowSegment	599698=IfcFlowSegment
+49	38	5	10	43543=IfcColumn	36528=IfcSlab	27214=IfcBeam	28971=IfcBeam	210785=IfcFlowTerminal	173180=IfcFlowSegment	599698=IfcFlowSegment	2699211=IfcBeam	2703470=IfcBeam	1862744=IfcFlowTerminal
+49	38	6	2	27214=IfcBeam	2699211=IfcBeam
+49	39	1	3	43543=IfcColumn	2747634=IfcWallStandardCase	2747759=IfcWallStandardCase
+49	39	2	3	43543=IfcColumn	2747634=IfcWallStandardCase	2747759=IfcWallStandardCase
+49	39	3	15	2412=IfcBeam	22052=IfcBeam	43543=IfcColumn	14854=IfcBeam	19261=IfcSlab	288647=IfcBuildingElementProxy	2131078=IfcBeam	2682928=IfcBeam	2692991=IfcBeam	2729296=IfcWallStandardCase	2729399=IfcWallStandardCase	2740709=IfcDoor	2747527=IfcBuildingElementProxy	2747634=IfcWallStandardCase	2747759=IfcWallStandardCase
+49	39	4	12	43543=IfcColumn	103791=IfcBuildingElementProxy	210853=IfcFlowTerminal	611147=IfcFlowFitting	585778=IfcFlowSegment	585865=IfcFlowSegment	599437=IfcFlowSegment	599524=IfcFlowSegment	2729296=IfcWallStandardCase	2729399=IfcWallStandardCase	2740709=IfcDoor	2747527=IfcBuildingElementProxy
+49	39	5	11	43543=IfcColumn	103791=IfcBuildingElementProxy	36528=IfcSlab	27214=IfcBeam	28971=IfcBeam	210921=IfcFlowTerminal	599524=IfcFlowSegment	2699211=IfcBeam	2703470=IfcBeam	2729296=IfcWallStandardCase	2729399=IfcWallStandardCase
+49	39	6	2	27214=IfcBeam	2699211=IfcBeam
+49	40	1	3	43622=IfcColumn	2747634=IfcWallStandardCase	2747948=IfcWallStandardCase
+49	40	2	3	43622=IfcColumn	2747634=IfcWallStandardCase	2747948=IfcWallStandardCase
+49	40	3	13	22052=IfcBeam	43622=IfcColumn	14252=IfcBeam	19261=IfcSlab	271137=IfcBuildingElementProxy	2681064=IfcBeam	2692991=IfcBeam	2729296=IfcWallStandardCase	2729525=IfcWallStandardCase	2740709=IfcDoor	2747527=IfcBuildingElementProxy	2747634=IfcWallStandardCase	2747948=IfcWallStandardCase
+49	40	4	7	43622=IfcColumn	103791=IfcBuildingElementProxy	585865=IfcFlowSegment	2729296=IfcWallStandardCase	2729525=IfcWallStandardCase	2740709=IfcDoor	2747527=IfcBuildingElementProxy
+49	40	5	9	43622=IfcColumn	103791=IfcBuildingElementProxy	36528=IfcSlab	27530=IfcBeam	28971=IfcBeam	2700073=IfcBeam	2703470=IfcBeam	2729296=IfcWallStandardCase	2729525=IfcWallStandardCase
+49	40	6	2	27530=IfcBeam	2700073=IfcBeam
+49	41	3	1	19261=IfcSlab
+49	41	4	10	210989=IfcFlowTerminal	611285=IfcFlowFitting	617896=IfcFlowFitting	585865=IfcFlowSegment	585952=IfcFlowSegment	586213=IfcFlowSegment	588736=IfcFlowSegment	588823=IfcFlowSegment	599263=IfcFlowSegment	599350=IfcFlowSegment
+49	41	5	5	36528=IfcSlab	211057=IfcFlowTerminal	162938=IfcFlowSegment	599350=IfcFlowSegment	1861964=IfcFlowTerminal
+49	42	3	1	19261=IfcSlab
+49	42	4	6	600046=IfcFlowSegment	600133=IfcFlowSegment	211125=IfcFlowTerminal	611673=IfcFlowFitting	586126=IfcFlowSegment	586213=IfcFlowSegment
+49	42	5	6	600133=IfcFlowSegment	36528=IfcSlab	211193=IfcFlowTerminal	158556=IfcFlowSegment	171588=IfcFlowSegment	1864601=IfcFlowTerminal
+49	43	1	1	43701=IfcColumn
+49	43	2	1	43701=IfcColumn
+49	43	3	4	43701=IfcColumn	19261=IfcSlab	270231=IfcBuildingElementProxy	2130780=IfcBeam
+49	43	4	9	600220=IfcFlowSegment	600307=IfcFlowSegment	43701=IfcColumn	211261=IfcFlowTerminal	611535=IfcFlowFitting	586039=IfcFlowSegment	586126=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+49	43	5	8	600307=IfcFlowSegment	43701=IfcColumn	36528=IfcSlab	211329=IfcFlowTerminal	157574=IfcFlowSegment	171588=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+49	44	3	2	19261=IfcSlab	2526783=IfcBuildingElementProxy
+49	44	4	11	600394=IfcFlowSegment	600481=IfcFlowSegment	61252=IfcFlowFitting	38559=IfcFlowSegment	38645=IfcFlowSegment	211397=IfcFlowTerminal	611423=IfcFlowFitting	586039=IfcFlowSegment	2526783=IfcBuildingElementProxy	2702776=IfcBeam	1883062=IfcFlowSegment
+49	44	5	6	600481=IfcFlowSegment	36528=IfcSlab	211465=IfcFlowTerminal	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+49	45	3	7	3717=IfcWallStandardCase	49025=IfcFlowSegment	19261=IfcSlab	245764=IfcFlowTerminal	2526783=IfcBuildingElementProxy	2526849=IfcFlowSegment	2528278=IfcFlowFitting
+49	45	4	8	3717=IfcWallStandardCase	61252=IfcFlowFitting	38559=IfcFlowSegment	38645=IfcFlowSegment	49025=IfcFlowSegment	49113=IfcFlowSegment	49190=IfcFlowFitting	2526783=IfcBuildingElementProxy
+49	45	5	2	3717=IfcWallStandardCase	36528=IfcSlab
+50	35	3	1	5839=IfcWallStandardCase
+50	35	4	1	5839=IfcWallStandardCase
+50	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+50	36	3	3	5839=IfcWallStandardCase	19261=IfcSlab	1023242=IfcRailing
+50	36	4	8	5839=IfcWallStandardCase	63461=IfcFlowSegment	104193=IfcBuildingElementProxy	609845=IfcFlowFitting	211533=IfcFlowTerminal	584908=IfcFlowSegment	598567=IfcFlowSegment	598654=IfcFlowSegment
+50	36	5	6	5839=IfcWallStandardCase	104193=IfcBuildingElementProxy	36528=IfcSlab	211601=IfcFlowTerminal	171488=IfcFlowSegment	598654=IfcFlowSegment
+50	37	3	1	19261=IfcSlab
+50	37	4	6	609957=IfcFlowFitting	211669=IfcFlowTerminal	584908=IfcFlowSegment	584995=IfcFlowSegment	598393=IfcFlowSegment	598480=IfcFlowSegment
+50	37	5	7	36528=IfcSlab	211737=IfcFlowTerminal	159630=IfcFlowSegment	173180=IfcFlowSegment	173525=IfcFlowFitting	598480=IfcFlowSegment	1863429=IfcFlowTerminal
+50	38	3	5	22131=IfcBeam	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam	2693070=IfcBeam
+50	38	4	6	610095=IfcFlowFitting	211805=IfcFlowTerminal	584995=IfcFlowSegment	585082=IfcFlowSegment	598219=IfcFlowSegment	598306=IfcFlowSegment
+50	38	5	8	36528=IfcSlab	27214=IfcBeam	211873=IfcFlowTerminal	164050=IfcFlowSegment	173180=IfcFlowSegment	173525=IfcFlowFitting	598306=IfcFlowSegment	2699211=IfcBeam
+50	38	6	2	27214=IfcBeam	2699211=IfcBeam
+50	39	1	2	2747759=IfcWallStandardCase	2747884=IfcWallStandardCase
+50	39	2	2	2747759=IfcWallStandardCase	2747884=IfcWallStandardCase
+50	39	3	12	2412=IfcBeam	22131=IfcBeam	14854=IfcBeam	19261=IfcSlab	2131078=IfcBeam	2682928=IfcBeam	2693070=IfcBeam	2729399=IfcWallStandardCase	2729462=IfcWallStandardCase	2747527=IfcBuildingElementProxy	2747759=IfcWallStandardCase	2747884=IfcWallStandardCase
+50	39	4	9	610233=IfcFlowFitting	211941=IfcFlowTerminal	585082=IfcFlowSegment	585169=IfcFlowSegment	598045=IfcFlowSegment	598132=IfcFlowSegment	2729399=IfcWallStandardCase	2729462=IfcWallStandardCase	2747527=IfcBuildingElementProxy
+50	39	5	7	36528=IfcSlab	27214=IfcBeam	212009=IfcFlowTerminal	598132=IfcFlowSegment	2699211=IfcBeam	2729399=IfcWallStandardCase	2729462=IfcWallStandardCase
+50	39	6	2	27214=IfcBeam	2699211=IfcBeam
+50	40	1	2	2747884=IfcWallStandardCase	2747948=IfcWallStandardCase
+50	40	2	2	2747884=IfcWallStandardCase	2747948=IfcWallStandardCase
+50	40	3	10	22131=IfcBeam	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam	2693070=IfcBeam	2729462=IfcWallStandardCase	2729525=IfcWallStandardCase	2747527=IfcBuildingElementProxy	2747884=IfcWallStandardCase	2747948=IfcWallStandardCase
+50	40	4	4	585169=IfcFlowSegment	2729462=IfcWallStandardCase	2729525=IfcWallStandardCase	2747527=IfcBuildingElementProxy
+50	40	5	5	36528=IfcSlab	27530=IfcBeam	2700073=IfcBeam	2729462=IfcWallStandardCase	2729525=IfcWallStandardCase
+50	40	6	2	27530=IfcBeam	2700073=IfcBeam
+50	41	3	1	19261=IfcSlab
+50	41	4	10	610371=IfcFlowFitting	212077=IfcFlowTerminal	617977=IfcFlowFitting	585169=IfcFlowSegment	585256=IfcFlowSegment	585517=IfcFlowSegment	588823=IfcFlowSegment	588910=IfcFlowSegment	597871=IfcFlowSegment	597958=IfcFlowSegment
+50	41	5	6	36528=IfcSlab	212145=IfcFlowTerminal	162675=IfcFlowSegment	162938=IfcFlowSegment	775202=IfcFlowFitting	597958=IfcFlowSegment
+50	42	3	1	19261=IfcSlab
+50	42	4	6	610759=IfcFlowFitting	212213=IfcFlowTerminal	585430=IfcFlowSegment	585517=IfcFlowSegment	598741=IfcFlowSegment	598828=IfcFlowSegment
+50	42	5	6	36528=IfcSlab	212281=IfcFlowTerminal	158556=IfcFlowSegment	171588=IfcFlowSegment	598828=IfcFlowSegment	1864601=IfcFlowTerminal
+50	43	3	2	19261=IfcSlab	2130780=IfcBeam
+50	43	4	8	610621=IfcFlowFitting	212349=IfcFlowTerminal	585343=IfcFlowSegment	585430=IfcFlowSegment	598915=IfcFlowSegment	599002=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+50	43	5	7	36528=IfcSlab	212417=IfcFlowTerminal	157574=IfcFlowSegment	171588=IfcFlowSegment	599002=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+50	44	3	2	19261=IfcSlab	238081=IfcBuildingElementProxy
+50	44	4	9	38645=IfcFlowSegment	610509=IfcFlowFitting	212485=IfcFlowTerminal	238081=IfcBuildingElementProxy	585343=IfcFlowSegment	599089=IfcFlowSegment	599176=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+50	44	5	6	36528=IfcSlab	212553=IfcFlowTerminal	157574=IfcFlowSegment	599176=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+50	45	3	3	3717=IfcWallStandardCase	19261=IfcSlab	238081=IfcBuildingElementProxy
+50	45	4	3	3717=IfcWallStandardCase	38645=IfcFlowSegment	238081=IfcBuildingElementProxy
+50	45	5	2	3717=IfcWallStandardCase	36528=IfcSlab
+51	35	3	1	5839=IfcWallStandardCase
+51	35	4	1	5839=IfcWallStandardCase
+51	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+51	36	3	4	5839=IfcWallStandardCase	19261=IfcSlab	1023242=IfcRailing	237563=IfcBuildingElementProxy
+51	36	4	3	5839=IfcWallStandardCase	63461=IfcFlowSegment	237563=IfcBuildingElementProxy
+51	36	5	3	5839=IfcWallStandardCase	36528=IfcSlab	171488=IfcFlowSegment
+51	37	3	1	19261=IfcSlab
+51	37	5	1	36528=IfcSlab
+51	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+51	38	5	4	36528=IfcSlab	27214=IfcBeam	164050=IfcFlowSegment	2699211=IfcBeam
+51	38	6	2	27214=IfcBeam	2699211=IfcBeam
+51	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+51	39	5	3	36528=IfcSlab	27214=IfcBeam	2699211=IfcBeam
+51	39	6	2	27214=IfcBeam	2699211=IfcBeam
+51	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+51	40	5	3	36528=IfcSlab	27530=IfcBeam	2700073=IfcBeam
+51	40	6	2	27530=IfcBeam	2700073=IfcBeam
+51	41	3	1	19261=IfcSlab
+51	41	4	2	618058=IfcFlowFitting	588910=IfcFlowSegment
+51	41	5	2	36528=IfcSlab	162675=IfcFlowSegment
+51	42	3	1	19261=IfcSlab
+51	42	5	2	36528=IfcSlab	171588=IfcFlowSegment
+51	43	3	2	19261=IfcSlab	2130780=IfcBeam
+51	43	4	2	2702776=IfcBeam	1883062=IfcFlowSegment
+51	43	5	5	36528=IfcSlab	157574=IfcFlowSegment	171588=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+51	44	3	2	19261=IfcSlab	238081=IfcBuildingElementProxy
+51	44	4	4	38645=IfcFlowSegment	238081=IfcBuildingElementProxy	2702776=IfcBeam	1883062=IfcFlowSegment
+51	44	5	4	36528=IfcSlab	157574=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+51	45	3	3	3717=IfcWallStandardCase	19261=IfcSlab	238081=IfcBuildingElementProxy
+51	45	4	3	3717=IfcWallStandardCase	38645=IfcFlowSegment	238081=IfcBuildingElementProxy
+51	45	5	2	3717=IfcWallStandardCase	36528=IfcSlab
+52	35	3	1	5839=IfcWallStandardCase
+52	35	4	1	5839=IfcWallStandardCase
+52	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+52	36	3	5	5839=IfcWallStandardCase	19261=IfcSlab	1023242=IfcRailing	237563=IfcBuildingElementProxy	245027=IfcFlowTerminal
+52	36	4	8	5839=IfcWallStandardCase	63461=IfcFlowSegment	608793=IfcFlowFitting	212621=IfcFlowTerminal	237563=IfcBuildingElementProxy	584212=IfcFlowSegment	597175=IfcFlowSegment	597262=IfcFlowSegment
+52	36	5	6	5839=IfcWallStandardCase	36528=IfcSlab	212689=IfcFlowTerminal	171488=IfcFlowSegment	597262=IfcFlowSegment	1863867=IfcFlowTerminal
+52	37	3	1	19261=IfcSlab
+52	37	4	6	608905=IfcFlowFitting	212757=IfcFlowTerminal	584212=IfcFlowSegment	584299=IfcFlowSegment	597001=IfcFlowSegment	597088=IfcFlowSegment
+52	37	5	3	36528=IfcSlab	212825=IfcFlowTerminal	597088=IfcFlowSegment
+52	38	1	1	43938=IfcColumn
+52	38	2	1	43938=IfcColumn
+52	38	3	8	22564=IfcBeam	43938=IfcColumn	14854=IfcBeam	19261=IfcSlab	288700=IfcBuildingElementProxy	2211824=IfcBuildingElementProxy	2682928=IfcBeam	2693503=IfcBeam
+52	38	4	7	43938=IfcColumn	609043=IfcFlowFitting	212893=IfcFlowTerminal	584299=IfcFlowSegment	584386=IfcFlowSegment	596827=IfcFlowSegment	596914=IfcFlowSegment
+52	38	5	8	43938=IfcColumn	36528=IfcSlab	27214=IfcBeam	212961=IfcFlowTerminal	164050=IfcFlowSegment	596914=IfcFlowSegment	2699211=IfcBeam	1862679=IfcFlowTerminal
+52	38	6	2	27214=IfcBeam	2699211=IfcBeam
+52	39	1	1	43938=IfcColumn
+52	39	2	1	43938=IfcColumn
+52	39	3	11	22210=IfcBeam	22564=IfcBeam	43938=IfcColumn	14854=IfcBeam	207093=IfcBuildingElementProxy	19261=IfcSlab	288700=IfcBuildingElementProxy	2211824=IfcBuildingElementProxy	2682928=IfcBeam	2693149=IfcBeam	2693503=IfcBeam
+52	39	4	8	43938=IfcColumn	609181=IfcFlowFitting	112938=IfcBuildingElementProxy	213029=IfcFlowTerminal	584386=IfcFlowSegment	584473=IfcFlowSegment	596653=IfcFlowSegment	596740=IfcFlowSegment
+52	39	5	7	43938=IfcColumn	36528=IfcSlab	27214=IfcBeam	112938=IfcBuildingElementProxy	213097=IfcFlowTerminal	596740=IfcFlowSegment	2699211=IfcBeam
+52	39	6	2	27214=IfcBeam	2699211=IfcBeam
+52	40	1	1	43859=IfcColumn
+52	40	2	1	43859=IfcColumn
+52	40	3	9	22564=IfcBeam	203738=IfcBuildingElementProxy	43859=IfcColumn	14252=IfcBeam	204680=IfcBuildingElementProxy	19261=IfcSlab	271178=IfcBuildingElementProxy	2681064=IfcBeam	2693503=IfcBeam
+52	40	4	4	203738=IfcBuildingElementProxy	43859=IfcColumn	204680=IfcBuildingElementProxy	584473=IfcFlowSegment
+52	40	5	4	43859=IfcColumn	36528=IfcSlab	27530=IfcBeam	2700073=IfcBeam
+52	40	6	2	27530=IfcBeam	2700073=IfcBeam
+52	41	3	1	19261=IfcSlab
+52	41	4	9	609319=IfcFlowFitting	213165=IfcFlowTerminal	618058=IfcFlowFitting	584473=IfcFlowSegment	584560=IfcFlowSegment	584821=IfcFlowSegment	588997=IfcFlowSegment	596479=IfcFlowSegment	596566=IfcFlowSegment
+52	41	5	5	36528=IfcSlab	213233=IfcFlowTerminal	162675=IfcFlowSegment	596566=IfcFlowSegment	1861899=IfcFlowTerminal
+52	42	3	1	19261=IfcSlab
+52	42	4	6	609707=IfcFlowFitting	213301=IfcFlowTerminal	584734=IfcFlowSegment	584821=IfcFlowSegment	597349=IfcFlowSegment	597436=IfcFlowSegment
+52	42	5	5	36528=IfcSlab	213369=IfcFlowTerminal	171588=IfcFlowSegment	597436=IfcFlowSegment	1864305=IfcFlowTerminal
+52	43	1	1	43780=IfcColumn
+52	43	2	1	43780=IfcColumn
+52	43	3	4	43780=IfcColumn	19261=IfcSlab	270284=IfcBuildingElementProxy	2130780=IfcBeam
+52	43	4	9	43780=IfcColumn	609569=IfcFlowFitting	213437=IfcFlowTerminal	584647=IfcFlowSegment	584734=IfcFlowSegment	597523=IfcFlowSegment	597610=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+52	43	5	8	43780=IfcColumn	36528=IfcSlab	213505=IfcFlowTerminal	157574=IfcFlowSegment	171588=IfcFlowSegment	597610=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+52	44	3	1	19261=IfcSlab
+52	44	4	8	38645=IfcFlowSegment	609457=IfcFlowFitting	213573=IfcFlowTerminal	584647=IfcFlowSegment	597697=IfcFlowSegment	597784=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+52	44	5	6	36528=IfcSlab	213641=IfcFlowTerminal	157574=IfcFlowSegment	597784=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+52	45	3	4	3717=IfcWallStandardCase	3780=IfcWallStandardCase	19261=IfcSlab	245898=IfcFlowTerminal
+52	45	4	3	3717=IfcWallStandardCase	3780=IfcWallStandardCase	38645=IfcFlowSegment
+52	45	5	3	3717=IfcWallStandardCase	3780=IfcWallStandardCase	36528=IfcSlab
+52	45	6	1	3780=IfcWallStandardCase
+53	35	3	1	5839=IfcWallStandardCase
+53	35	4	1	5839=IfcWallStandardCase
+53	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+53	36	3	3	5839=IfcWallStandardCase	19261=IfcSlab	1023242=IfcRailing
+53	36	4	7	5839=IfcWallStandardCase	63461=IfcFlowSegment	607741=IfcFlowFitting	213709=IfcFlowTerminal	583516=IfcFlowSegment	595783=IfcFlowSegment	595870=IfcFlowSegment
+53	36	5	5	5839=IfcWallStandardCase	36528=IfcSlab	213777=IfcFlowTerminal	171488=IfcFlowSegment	595870=IfcFlowSegment
+53	37	3	1	19261=IfcSlab
+53	37	4	6	607853=IfcFlowFitting	213845=IfcFlowTerminal	583516=IfcFlowSegment	583603=IfcFlowSegment	595609=IfcFlowSegment	595696=IfcFlowSegment
+53	37	5	3	36528=IfcSlab	213913=IfcFlowTerminal	595696=IfcFlowSegment
+53	38	3	6	14854=IfcBeam	19261=IfcSlab	2211722=IfcBuildingElementProxy	2211773=IfcBuildingElementProxy	2211824=IfcBuildingElementProxy	2682928=IfcBeam
+53	38	4	6	607991=IfcFlowFitting	213981=IfcFlowTerminal	583603=IfcFlowSegment	583690=IfcFlowSegment	595435=IfcFlowSegment	595522=IfcFlowSegment
+53	38	5	8	36528=IfcSlab	27214=IfcBeam	214049=IfcFlowTerminal	163848=IfcFlowSegment	164050=IfcFlowSegment	164143=IfcFlowFitting	595522=IfcFlowSegment	2699211=IfcBeam
+53	38	6	2	27214=IfcBeam	2699211=IfcBeam
+53	39	3	14	22210=IfcBeam	22289=IfcBeam	14854=IfcBeam	207093=IfcBuildingElementProxy	19261=IfcSlab	2149970=IfcStairFlight	2150237=IfcMember	2211722=IfcBuildingElementProxy	2211773=IfcBuildingElementProxy	2211824=IfcBuildingElementProxy	2682928=IfcBeam	2693149=IfcBeam	2693228=IfcBeam	2801530=IfcRailing
+53	39	4	7	106062=IfcBuildingElementProxy	608129=IfcFlowFitting	214117=IfcFlowTerminal	583690=IfcFlowSegment	583777=IfcFlowSegment	595261=IfcFlowSegment	595348=IfcFlowSegment
+53	39	5	6	106062=IfcBuildingElementProxy	36528=IfcSlab	27214=IfcBeam	214185=IfcFlowTerminal	595348=IfcFlowSegment	2699211=IfcBeam
+53	39	6	2	27214=IfcBeam	2699211=IfcBeam
+53	40	3	10	22289=IfcBeam	14252=IfcBeam	19261=IfcSlab	2149970=IfcStairFlight	2150372=IfcMember	2211875=IfcBuildingElementProxy	2211926=IfcBuildingElementProxy	2681064=IfcBeam	2693228=IfcBeam	2798297=IfcRailing
+53	40	4	2	106062=IfcBuildingElementProxy	583777=IfcFlowSegment
+53	40	5	4	106062=IfcBuildingElementProxy	36528=IfcSlab	27530=IfcBeam	2700073=IfcBeam
+53	40	6	2	27530=IfcBeam	2700073=IfcBeam
+53	41	3	1	19261=IfcSlab
+53	41	4	10	608267=IfcFlowFitting	214253=IfcFlowTerminal	618139=IfcFlowFitting	583777=IfcFlowSegment	583864=IfcFlowSegment	584125=IfcFlowSegment	588997=IfcFlowSegment	589084=IfcFlowSegment	595087=IfcFlowSegment	595174=IfcFlowSegment
+53	41	5	6	36528=IfcSlab	214321=IfcFlowTerminal	162473=IfcFlowSegment	162675=IfcFlowSegment	162828=IfcFlowFitting	595174=IfcFlowSegment
+53	42	3	1	19261=IfcSlab
+53	42	4	6	608655=IfcFlowFitting	214389=IfcFlowTerminal	584038=IfcFlowSegment	584125=IfcFlowSegment	595957=IfcFlowSegment	596044=IfcFlowSegment
+53	42	5	4	36528=IfcSlab	214457=IfcFlowTerminal	171588=IfcFlowSegment	596044=IfcFlowSegment
+53	43	3	2	19261=IfcSlab	2130780=IfcBeam
+53	43	4	8	608517=IfcFlowFitting	214525=IfcFlowTerminal	583951=IfcFlowSegment	584038=IfcFlowSegment	596131=IfcFlowSegment	596218=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+53	43	5	7	36528=IfcSlab	214593=IfcFlowTerminal	157574=IfcFlowSegment	171588=IfcFlowSegment	596218=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+53	44	3	1	19261=IfcSlab
+53	44	4	10	103065=IfcBuildingElementProxy	608405=IfcFlowFitting	38645=IfcFlowSegment	214661=IfcFlowTerminal	583951=IfcFlowSegment	596305=IfcFlowSegment	596392=IfcFlowSegment	2702776=IfcBeam	1738207=IfcDoor	1883062=IfcFlowSegment
+53	44	5	6	36528=IfcSlab	214729=IfcFlowTerminal	157574=IfcFlowSegment	596392=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+53	45	3	5	3717=IfcWallStandardCase	3780=IfcWallStandardCase	19261=IfcSlab	245898=IfcFlowTerminal	1738207=IfcDoor
+53	45	4	5	3717=IfcWallStandardCase	3780=IfcWallStandardCase	103065=IfcBuildingElementProxy	38645=IfcFlowSegment	1738207=IfcDoor
+53	45	5	4	3717=IfcWallStandardCase	3780=IfcWallStandardCase	103065=IfcBuildingElementProxy	36528=IfcSlab
+53	45	6	1	3780=IfcWallStandardCase
+54	35	3	2	5839=IfcWallStandardCase	2525050=IfcBuildingElementProxy
+54	35	4	2	5839=IfcWallStandardCase	2525050=IfcBuildingElementProxy
+54	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+54	36	3	8	5839=IfcWallStandardCase	62694=IfcFlowSegment	1005556=IfcRailing	19261=IfcSlab	1023242=IfcRailing	2525050=IfcBuildingElementProxy	2525116=IfcFlowSegment	2532400=IfcFlowFitting
+54	36	4	13	5839=IfcWallStandardCase	62694=IfcFlowSegment	63461=IfcFlowSegment	63549=IfcFlowSegment	63628=IfcFlowFitting	63719=IfcFlowSegment	606689=IfcFlowFitting	214797=IfcFlowTerminal	582820=IfcFlowSegment	594391=IfcFlowSegment	594478=IfcFlowSegment	2525050=IfcBuildingElementProxy	2533148=IfcFlowFitting
+54	36	5	7	5839=IfcWallStandardCase	36528=IfcSlab	214865=IfcFlowTerminal	158756=IfcFlowSegment	771108=IfcFlowFitting	171488=IfcFlowSegment	594478=IfcFlowSegment
+54	37	3	1	19261=IfcSlab
+54	37	4	6	606801=IfcFlowFitting	214933=IfcFlowTerminal	582820=IfcFlowSegment	582907=IfcFlowSegment	594217=IfcFlowSegment	594304=IfcFlowSegment
+54	37	5	3	36528=IfcSlab	215001=IfcFlowTerminal	594304=IfcFlowSegment
+54	38	1	1	2146069=IfcWallStandardCase
+54	38	2	1	2146069=IfcWallStandardCase
+54	38	3	8	14854=IfcBeam	19261=IfcSlab	2146069=IfcWallStandardCase	2211569=IfcBuildingElementProxy	2211620=IfcBuildingElementProxy	2211671=IfcBuildingElementProxy	2211722=IfcBuildingElementProxy	2682928=IfcBeam
+54	38	4	6	606939=IfcFlowFitting	215069=IfcFlowTerminal	582907=IfcFlowSegment	582994=IfcFlowSegment	594043=IfcFlowSegment	594130=IfcFlowSegment
+54	38	5	6	36528=IfcSlab	27214=IfcBeam	215137=IfcFlowTerminal	163848=IfcFlowSegment	594130=IfcFlowSegment	2699211=IfcBeam
+54	38	6	2	27214=IfcBeam	2699211=IfcBeam
+54	39	1	1	2146069=IfcWallStandardCase
+54	39	2	5	207093=IfcBuildingElementProxy	2146069=IfcWallStandardCase	2149970=IfcStairFlight	2150237=IfcMember	2801530=IfcRailing
+54	39	3	12	14854=IfcBeam	207093=IfcBuildingElementProxy	19261=IfcSlab	2146069=IfcWallStandardCase	2149970=IfcStairFlight	2150237=IfcMember	2211569=IfcBuildingElementProxy	2211620=IfcBuildingElementProxy	2211671=IfcBuildingElementProxy	2211722=IfcBuildingElementProxy	2682928=IfcBeam	2801530=IfcRailing
+54	39	4	6	607077=IfcFlowFitting	215205=IfcFlowTerminal	582994=IfcFlowSegment	583081=IfcFlowSegment	593869=IfcFlowSegment	593956=IfcFlowSegment
+54	39	5	5	36528=IfcSlab	27214=IfcBeam	215273=IfcFlowTerminal	593956=IfcFlowSegment	2699211=IfcBeam
+54	39	6	2	27214=IfcBeam	2699211=IfcBeam
+54	40	1	1	2145942=IfcWallStandardCase
+54	40	2	4	2145942=IfcWallStandardCase	2149970=IfcStairFlight	2150372=IfcMember	2798297=IfcRailing
+54	40	3	10	14252=IfcBeam	19261=IfcSlab	2145942=IfcWallStandardCase	2149970=IfcStairFlight	2150372=IfcMember	2211926=IfcBuildingElementProxy	2211977=IfcBuildingElementProxy	2212028=IfcBuildingElementProxy	2681064=IfcBeam	2798297=IfcRailing
+54	40	4	1	583081=IfcFlowSegment
+54	40	5	3	36528=IfcSlab	27530=IfcBeam	2700073=IfcBeam
+54	40	6	2	27530=IfcBeam	2700073=IfcBeam
+54	41	3	1	19261=IfcSlab
+54	41	4	10	607215=IfcFlowFitting	215341=IfcFlowTerminal	618220=IfcFlowFitting	583081=IfcFlowSegment	583168=IfcFlowSegment	583429=IfcFlowSegment	589084=IfcFlowSegment	589171=IfcFlowSegment	593695=IfcFlowSegment	593782=IfcFlowSegment
+54	41	5	4	36528=IfcSlab	215409=IfcFlowTerminal	162473=IfcFlowSegment	593782=IfcFlowSegment
+54	42	3	1	19261=IfcSlab
+54	42	4	6	607603=IfcFlowFitting	215477=IfcFlowTerminal	583342=IfcFlowSegment	583429=IfcFlowSegment	594565=IfcFlowSegment	594652=IfcFlowSegment
+54	42	5	6	36528=IfcSlab	215545=IfcFlowTerminal	158856=IfcFlowSegment	159411=IfcFlowFitting	171588=IfcFlowSegment	594652=IfcFlowSegment
+54	43	3	2	19261=IfcSlab	2130780=IfcBeam
+54	43	4	8	607465=IfcFlowFitting	215613=IfcFlowTerminal	583255=IfcFlowSegment	583342=IfcFlowSegment	594739=IfcFlowSegment	594826=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+54	43	5	10	36528=IfcSlab	215681=IfcFlowTerminal	157574=IfcFlowSegment	158856=IfcFlowSegment	159411=IfcFlowFitting	762462=IfcFlowFitting	171588=IfcFlowSegment	594826=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+54	44	3	2	19261=IfcSlab	1035956=IfcRailing
+54	44	4	12	103065=IfcBuildingElementProxy	607353=IfcFlowFitting	38645=IfcFlowSegment	215749=IfcFlowTerminal	772340=IfcFlowSegment	772697=IfcFlowFitting	583255=IfcFlowSegment	594913=IfcFlowSegment	595000=IfcFlowSegment	2702776=IfcBeam	1738207=IfcDoor	1883062=IfcFlowSegment
+54	44	5	12	36528=IfcSlab	215817=IfcFlowTerminal	157574=IfcFlowSegment	762462=IfcFlowFitting	772049=IfcFlowSegment	772228=IfcFlowFitting	772340=IfcFlowSegment	772697=IfcFlowFitting	174101=IfcFlowSegment	595000=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+54	45	3	5	3717=IfcWallStandardCase	3844=IfcWallStandardCase	19261=IfcSlab	1035956=IfcRailing	1738207=IfcDoor
+54	45	4	6	3717=IfcWallStandardCase	3844=IfcWallStandardCase	103065=IfcBuildingElementProxy	38645=IfcFlowSegment	772340=IfcFlowSegment	1738207=IfcDoor
+54	45	5	5	3717=IfcWallStandardCase	3844=IfcWallStandardCase	103065=IfcBuildingElementProxy	36528=IfcSlab	772340=IfcFlowSegment
+54	45	6	1	3844=IfcWallStandardCase
+55	35	3	1	5839=IfcWallStandardCase
+55	35	4	1	5839=IfcWallStandardCase
+55	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+55	36	3	5	5839=IfcWallStandardCase	1005556=IfcRailing	19261=IfcSlab	237685=IfcBuildingElementProxy	244960=IfcFlowTerminal
+55	36	4	8	5839=IfcWallStandardCase	63719=IfcFlowSegment	215885=IfcFlowTerminal	618382=IfcFlowFitting	237685=IfcBuildingElementProxy	589258=IfcFlowSegment	593521=IfcFlowSegment	593608=IfcFlowSegment
+55	36	5	6	5839=IfcWallStandardCase	36528=IfcSlab	215953=IfcFlowTerminal	158756=IfcFlowSegment	593608=IfcFlowSegment	1863794=IfcFlowTerminal
+55	37	3	1	19261=IfcSlab
+55	37	4	6	216021=IfcFlowTerminal	618494=IfcFlowFitting	589258=IfcFlowSegment	589345=IfcFlowSegment	593347=IfcFlowSegment	593434=IfcFlowSegment
+55	37	5	3	36528=IfcSlab	216089=IfcFlowTerminal	593434=IfcFlowSegment
+55	38	1	2	44116=IfcColumn	2146069=IfcWallStandardCase
+55	38	2	2	44116=IfcColumn	2146069=IfcWallStandardCase
+55	38	3	8	44116=IfcColumn	14854=IfcBeam	19261=IfcSlab	288753=IfcBuildingElementProxy	2146069=IfcWallStandardCase	2211569=IfcBuildingElementProxy	2670295=IfcBuildingElementProxy	2682928=IfcBeam
+55	38	4	9	44116=IfcColumn	27332=IfcBeam	216157=IfcFlowTerminal	618632=IfcFlowFitting	589345=IfcFlowSegment	589432=IfcFlowSegment	593173=IfcFlowSegment	593260=IfcFlowSegment	2699600=IfcBeam
+55	38	5	10	44116=IfcColumn	36528=IfcSlab	27214=IfcBeam	27332=IfcBeam	216225=IfcFlowTerminal	163848=IfcFlowSegment	593260=IfcFlowSegment	2699211=IfcBeam	2699600=IfcBeam	1862614=IfcFlowTerminal
+55	38	6	2	27214=IfcBeam	2699211=IfcBeam
+55	39	1	2	44116=IfcColumn	2146069=IfcWallStandardCase
+55	39	2	5	207093=IfcBuildingElementProxy	2146069=IfcWallStandardCase	2149970=IfcStairFlight	2150237=IfcMember	2801530=IfcRailing
+55	39	3	10	44116=IfcColumn	14854=IfcBeam	207093=IfcBuildingElementProxy	19261=IfcSlab	288753=IfcBuildingElementProxy	2146069=IfcWallStandardCase	2211569=IfcBuildingElementProxy	2670295=IfcBuildingElementProxy	2682928=IfcBeam	2801530=IfcRailing
+55	39	4	9	44116=IfcColumn	27332=IfcBeam	216293=IfcFlowTerminal	618770=IfcFlowFitting	589432=IfcFlowSegment	589519=IfcFlowSegment	592999=IfcFlowSegment	593086=IfcFlowSegment	2699600=IfcBeam
+55	39	5	8	44116=IfcColumn	36528=IfcSlab	27214=IfcBeam	27332=IfcBeam	216361=IfcFlowTerminal	593086=IfcFlowSegment	2699211=IfcBeam	2699600=IfcBeam
+55	39	6	2	27214=IfcBeam	2699211=IfcBeam
+55	40	1	2	44294=IfcColumn	2145942=IfcWallStandardCase
+55	40	2	5	44294=IfcColumn	2145942=IfcWallStandardCase	2149970=IfcStairFlight	2150372=IfcMember	2798297=IfcRailing
+55	40	3	11	14252=IfcBeam	44294=IfcColumn	204724=IfcBuildingElementProxy	19261=IfcSlab	271219=IfcBuildingElementProxy	2145942=IfcWallStandardCase	2212028=IfcBuildingElementProxy	2212932=IfcBuildingElementProxy	2213836=IfcBuildingElementProxy	2681064=IfcBeam	2798297=IfcRailing
+55	40	4	5	44294=IfcColumn	204724=IfcBuildingElementProxy	27449=IfcBeam	589519=IfcFlowSegment	2699990=IfcBeam
+55	40	5	6	44294=IfcColumn	36528=IfcSlab	27449=IfcBeam	27530=IfcBeam	2699990=IfcBeam	2700073=IfcBeam
+55	40	6	2	27530=IfcBeam	2700073=IfcBeam
+55	41	3	1	19261=IfcSlab
+55	41	4	9	216429=IfcFlowTerminal	618301=IfcFlowFitting	618908=IfcFlowFitting	582733=IfcFlowSegment	589171=IfcFlowSegment	589519=IfcFlowSegment	589606=IfcFlowSegment	592825=IfcFlowSegment	592912=IfcFlowSegment
+55	41	5	7	36528=IfcSlab	27449=IfcBeam	216497=IfcFlowTerminal	162473=IfcFlowSegment	592912=IfcFlowSegment	2699990=IfcBeam	1861834=IfcFlowTerminal
+55	42	3	1	19261=IfcSlab
+55	42	4	6	606551=IfcFlowFitting	216565=IfcFlowTerminal	582646=IfcFlowSegment	582733=IfcFlowSegment	592303=IfcFlowSegment	592390=IfcFlowSegment
+55	42	5	5	36528=IfcSlab	216633=IfcFlowTerminal	158856=IfcFlowSegment	592390=IfcFlowSegment	1864232=IfcFlowTerminal
+55	43	1	1	44373=IfcColumn
+55	43	2	1	44373=IfcColumn
+55	43	3	4	44373=IfcColumn	19261=IfcSlab	270337=IfcBuildingElementProxy	2130780=IfcBeam
+55	43	4	10	44373=IfcColumn	606413=IfcFlowFitting	216701=IfcFlowTerminal	775499=IfcFlowFitting	582559=IfcFlowSegment	582646=IfcFlowSegment	592477=IfcFlowSegment	592564=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+55	43	5	10	44373=IfcColumn	36528=IfcSlab	216769=IfcFlowTerminal	158856=IfcFlowSegment	775411=IfcFlowSegment	775499=IfcFlowFitting	775681=IfcFlowFitting	592564=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+55	44	3	3	19261=IfcSlab	1035956=IfcRailing	238125=IfcBuildingElementProxy
+55	44	4	10	606301=IfcFlowFitting	38645=IfcFlowSegment	216837=IfcFlowTerminal	238125=IfcBuildingElementProxy	775499=IfcFlowFitting	582559=IfcFlowSegment	592651=IfcFlowSegment	592738=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+55	44	5	8	36528=IfcSlab	216905=IfcFlowTerminal	775411=IfcFlowSegment	775499=IfcFlowFitting	775681=IfcFlowFitting	592738=IfcFlowSegment	2702776=IfcBeam	1883062=IfcFlowSegment
+55	45	3	7	3717=IfcWallStandardCase	3844=IfcWallStandardCase	3972=IfcWallStandardCase	19261=IfcSlab	1035956=IfcRailing	238125=IfcBuildingElementProxy	245831=IfcFlowTerminal
+55	45	4	5	3717=IfcWallStandardCase	3844=IfcWallStandardCase	3972=IfcWallStandardCase	38645=IfcFlowSegment	238125=IfcBuildingElementProxy
+55	45	5	4	3717=IfcWallStandardCase	3844=IfcWallStandardCase	3972=IfcWallStandardCase	36528=IfcSlab
+55	45	6	1	3844=IfcWallStandardCase
+56	35	3	1	5839=IfcWallStandardCase
+56	35	4	1	5839=IfcWallStandardCase
+56	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+56	36	3	3	5839=IfcWallStandardCase	19261=IfcSlab	237685=IfcBuildingElementProxy
+56	36	4	4	5839=IfcWallStandardCase	63719=IfcFlowSegment	215885=IfcFlowTerminal	237685=IfcBuildingElementProxy
+56	36	5	3	5839=IfcWallStandardCase	36528=IfcSlab	158756=IfcFlowSegment
+56	37	3	1	19261=IfcSlab
+56	37	4	1	216021=IfcFlowTerminal
+56	37	5	1	36528=IfcSlab
+56	38	1	1	2146069=IfcWallStandardCase
+56	38	2	1	2146069=IfcWallStandardCase
+56	38	3	8	22368=IfcBeam	14854=IfcBeam	19261=IfcSlab	2146069=IfcWallStandardCase	2211472=IfcBuildingElementProxy	2670295=IfcBuildingElementProxy	2682928=IfcBeam	2693307=IfcBeam
+56	38	4	3	27332=IfcBeam	216157=IfcFlowTerminal	2699600=IfcBeam
+56	38	5	8	36528=IfcSlab	27214=IfcBeam	27332=IfcBeam	163646=IfcFlowSegment	163848=IfcFlowSegment	163941=IfcFlowFitting	2699211=IfcBeam	2699600=IfcBeam
+56	38	6	2	27214=IfcBeam	2699211=IfcBeam
+56	39	1	4	207093=IfcBuildingElementProxy	2146069=IfcWallStandardCase	2150237=IfcMember	2801530=IfcRailing
+56	39	2	4	207093=IfcBuildingElementProxy	2146069=IfcWallStandardCase	2150237=IfcMember	2801530=IfcRailing
+56	39	3	10	22368=IfcBeam	14854=IfcBeam	19261=IfcSlab	2146069=IfcWallStandardCase	2211472=IfcBuildingElementProxy	2213887=IfcBuildingElementProxy	2214791=IfcBuildingElementProxy	2670295=IfcBuildingElementProxy	2682928=IfcBeam	2693307=IfcBeam
+56	39	4	3	27332=IfcBeam	216293=IfcFlowTerminal	2699600=IfcBeam
+56	39	5	5	36528=IfcSlab	27214=IfcBeam	27332=IfcBeam	2699211=IfcBeam	2699600=IfcBeam
+56	39	6	2	27214=IfcBeam	2699211=IfcBeam
+56	40	1	3	2145942=IfcWallStandardCase	2150372=IfcMember	2798297=IfcRailing
+56	40	2	3	2145942=IfcWallStandardCase	2150372=IfcMember	2798297=IfcRailing
+56	40	3	9	22368=IfcBeam	14252=IfcBeam	19261=IfcSlab	2145942=IfcWallStandardCase	2211520=IfcBuildingElementProxy	2213836=IfcBuildingElementProxy	2214791=IfcBuildingElementProxy	2681064=IfcBeam	2693307=IfcBeam
+56	40	4	6	27449=IfcBeam	650087=IfcFlowSegment	654745=IfcFlowSegment	654822=IfcFlowFitting	2211520=IfcBuildingElementProxy	2699990=IfcBeam
+56	40	5	5	36528=IfcSlab	27449=IfcBeam	27530=IfcBeam	2699990=IfcBeam	2700073=IfcBeam
+56	40	6	2	27530=IfcBeam	2700073=IfcBeam
+56	41	3	1	19261=IfcSlab
+56	41	4	6	216429=IfcFlowTerminal	618301=IfcFlowFitting	618908=IfcFlowFitting	650000=IfcFlowSegment	650087=IfcFlowSegment	654657=IfcFlowFitting
+56	41	5	6	36528=IfcSlab	27449=IfcBeam	162271=IfcFlowSegment	162473=IfcFlowSegment	162566=IfcFlowFitting	2699990=IfcBeam
+56	42	3	1	19261=IfcSlab
+56	42	4	2	606551=IfcFlowFitting	216565=IfcFlowTerminal
+56	42	5	2	36528=IfcSlab	158856=IfcFlowSegment
+56	43	3	2	19261=IfcSlab	2130780=IfcBeam
+56	43	4	3	216701=IfcFlowTerminal	775499=IfcFlowFitting	2702776=IfcBeam
+56	43	5	7	36528=IfcSlab	158856=IfcFlowSegment	775411=IfcFlowSegment	775499=IfcFlowFitting	775593=IfcFlowSegment	775681=IfcFlowFitting	2702776=IfcBeam
+56	44	3	3	19261=IfcSlab	238125=IfcBuildingElementProxy	1038404=IfcRailing
+56	44	4	6	38645=IfcFlowSegment	216837=IfcFlowTerminal	238125=IfcBuildingElementProxy	775499=IfcFlowFitting	2702776=IfcBeam	1738260=IfcDoor
+56	44	5	6	36528=IfcSlab	775411=IfcFlowSegment	775499=IfcFlowFitting	775593=IfcFlowSegment	775681=IfcFlowFitting	2702776=IfcBeam
+56	45	3	8	4035=IfcWallStandardCase	3908=IfcWallStandardCase	3972=IfcWallStandardCase	19261=IfcSlab	238125=IfcBuildingElementProxy	1038404=IfcRailing	245965=IfcFlowTerminal	1738260=IfcDoor
+56	45	4	6	4035=IfcWallStandardCase	3908=IfcWallStandardCase	3972=IfcWallStandardCase	38645=IfcFlowSegment	238125=IfcBuildingElementProxy	1738260=IfcDoor
+56	45	5	4	4035=IfcWallStandardCase	3908=IfcWallStandardCase	3972=IfcWallStandardCase	36528=IfcSlab
+56	45	6	1	3908=IfcWallStandardCase
+57	35	3	1	5839=IfcWallStandardCase
+57	35	4	1	5839=IfcWallStandardCase
+57	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+57	36	3	3	5839=IfcWallStandardCase	19261=IfcSlab	237685=IfcBuildingElementProxy
+57	36	4	8	5839=IfcWallStandardCase	63719=IfcFlowSegment	216973=IfcFlowTerminal	237685=IfcBuildingElementProxy	555045=IfcFlowSegment	561048=IfcFlowSegment	561135=IfcFlowSegment	572174=IfcFlowFitting
+57	36	5	5	5839=IfcWallStandardCase	36528=IfcSlab	217041=IfcFlowTerminal	158756=IfcFlowSegment	561135=IfcFlowSegment
+57	37	3	1	19261=IfcSlab
+57	37	4	6	217109=IfcFlowTerminal	555045=IfcFlowSegment	555132=IfcFlowSegment	561222=IfcFlowSegment	561309=IfcFlowSegment	572286=IfcFlowFitting
+57	37	5	3	36528=IfcSlab	217177=IfcFlowTerminal	561309=IfcFlowSegment
+57	38	1	1	2146069=IfcWallStandardCase
+57	38	2	1	2146069=IfcWallStandardCase
+57	38	3	4	14854=IfcBeam	19261=IfcSlab	2146069=IfcWallStandardCase	2682928=IfcBeam
+57	38	4	8	27332=IfcBeam	217245=IfcFlowTerminal	555132=IfcFlowSegment	555219=IfcFlowSegment	561396=IfcFlowSegment	561483=IfcFlowSegment	572424=IfcFlowFitting	2699600=IfcBeam
+57	38	5	6	36528=IfcSlab	27332=IfcBeam	217313=IfcFlowTerminal	561483=IfcFlowSegment	163646=IfcFlowSegment	2699600=IfcBeam
+57	39	1	4	207093=IfcBuildingElementProxy	2146069=IfcWallStandardCase	2150237=IfcMember	2801530=IfcRailing
+57	39	2	3	207093=IfcBuildingElementProxy	2146069=IfcWallStandardCase	2801530=IfcRailing
+57	39	3	4	14854=IfcBeam	19261=IfcSlab	2146069=IfcWallStandardCase	2682928=IfcBeam
+57	39	4	8	27332=IfcBeam	217381=IfcFlowTerminal	654996=IfcFlowSegment	555219=IfcFlowSegment	561570=IfcFlowSegment	561657=IfcFlowSegment	572562=IfcFlowFitting	2699600=IfcBeam
+57	39	5	5	36528=IfcSlab	27332=IfcBeam	217449=IfcFlowTerminal	561657=IfcFlowSegment	2699600=IfcBeam
+57	40	1	3	2145942=IfcWallStandardCase	2150372=IfcMember	2798297=IfcRailing
+57	40	2	2	2145942=IfcWallStandardCase	2798297=IfcRailing
+57	40	3	4	14252=IfcBeam	19261=IfcSlab	2145942=IfcWallStandardCase	2681064=IfcBeam
+57	40	4	7	27449=IfcBeam	654745=IfcFlowSegment	654909=IfcFlowSegment	654996=IfcFlowSegment	655073=IfcFlowFitting	557742=IfcFlowSegment	2699990=IfcBeam
+57	40	5	3	36528=IfcSlab	27449=IfcBeam	2699990=IfcBeam
+57	41	3	1	19261=IfcSlab
+57	41	4	7	105266=IfcBuildingElementProxy	217517=IfcFlowTerminal	557655=IfcFlowSegment	557742=IfcFlowSegment	561744=IfcFlowSegment	561831=IfcFlowSegment	576330=IfcFlowFitting
+57	41	5	7	105266=IfcBuildingElementProxy	36528=IfcSlab	27449=IfcBeam	217585=IfcFlowTerminal	561831=IfcFlowSegment	162271=IfcFlowSegment	2699990=IfcBeam
+57	42	3	1	19261=IfcSlab
+57	42	4	6	217653=IfcFlowTerminal	557568=IfcFlowSegment	557655=IfcFlowSegment	561918=IfcFlowSegment	562005=IfcFlowSegment	576192=IfcFlowFitting
+57	42	5	4	36528=IfcSlab	217721=IfcFlowTerminal	158856=IfcFlowSegment	562005=IfcFlowSegment
+57	43	3	2	19261=IfcSlab	2130780=IfcBeam
+57	43	4	7	217789=IfcFlowTerminal	557481=IfcFlowSegment	557568=IfcFlowSegment	562092=IfcFlowSegment	562179=IfcFlowSegment	576054=IfcFlowFitting	2702776=IfcBeam
+57	43	5	7	36528=IfcSlab	217857=IfcFlowTerminal	158856=IfcFlowSegment	562179=IfcFlowSegment	172670=IfcFlowFitting	775593=IfcFlowSegment	2702776=IfcBeam
+57	44	3	1	19261=IfcSlab
+57	44	4	11	38645=IfcFlowSegment	113061=IfcBuildingElementProxy	217925=IfcFlowTerminal	557481=IfcFlowSegment	562266=IfcFlowSegment	562353=IfcFlowSegment	575942=IfcFlowFitting	775957=IfcFlowSegment	776314=IfcFlowFitting	2702776=IfcBeam	1738260=IfcDoor
+57	44	5	11	36528=IfcSlab	217993=IfcFlowTerminal	562353=IfcFlowSegment	164424=IfcFlowSegment	172670=IfcFlowFitting	775593=IfcFlowSegment	775775=IfcFlowSegment	775863=IfcFlowFitting	775957=IfcFlowSegment	776314=IfcFlowFitting	2702776=IfcBeam
+57	45	3	3	4035=IfcWallStandardCase	19261=IfcSlab	1738260=IfcDoor
+57	45	4	5	4035=IfcWallStandardCase	38645=IfcFlowSegment	113061=IfcBuildingElementProxy	775957=IfcFlowSegment	1738260=IfcDoor
+57	45	5	4	4035=IfcWallStandardCase	36528=IfcSlab	113061=IfcBuildingElementProxy	775957=IfcFlowSegment
+58	35	3	1	5839=IfcWallStandardCase
+58	35	4	1	5839=IfcWallStandardCase
+58	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+58	36	1	1	156679=IfcFlowSegment
+58	36	2	1	156679=IfcFlowSegment
+58	36	3	5	5839=IfcWallStandardCase	19261=IfcSlab	237685=IfcBuildingElementProxy	244893=IfcFlowTerminal	156679=IfcFlowSegment
+58	36	4	8	5839=IfcWallStandardCase	63719=IfcFlowSegment	218061=IfcFlowTerminal	237685=IfcBuildingElementProxy	555306=IfcFlowSegment	562440=IfcFlowSegment	562527=IfcFlowSegment	572700=IfcFlowFitting
+58	36	5	6	5839=IfcWallStandardCase	36528=IfcSlab	218129=IfcFlowTerminal	158756=IfcFlowSegment	562527=IfcFlowSegment	1863721=IfcFlowTerminal
+58	37	3	1	19261=IfcSlab
+58	37	4	6	218197=IfcFlowTerminal	555306=IfcFlowSegment	555393=IfcFlowSegment	562614=IfcFlowSegment	562701=IfcFlowSegment	572812=IfcFlowFitting
+58	37	5	3	36528=IfcSlab	218265=IfcFlowTerminal	562701=IfcFlowSegment
+58	38	1	2	44610=IfcColumn	2146069=IfcWallStandardCase
+58	38	2	2	44610=IfcColumn	2146069=IfcWallStandardCase
+58	38	3	6	44610=IfcColumn	14854=IfcBeam	19261=IfcSlab	288806=IfcBuildingElementProxy	2146069=IfcWallStandardCase	2682928=IfcBeam
+58	38	4	9	44610=IfcColumn	27332=IfcBeam	218333=IfcFlowTerminal	555393=IfcFlowSegment	555480=IfcFlowSegment	562788=IfcFlowSegment	562875=IfcFlowSegment	572950=IfcFlowFitting	2699600=IfcBeam
+58	38	5	10	44610=IfcColumn	36528=IfcSlab	27332=IfcBeam	218401=IfcFlowTerminal	562875=IfcFlowSegment	163444=IfcFlowSegment	163646=IfcFlowSegment	163739=IfcFlowFitting	2699600=IfcBeam	1862549=IfcFlowTerminal
+58	39	1	3	44610=IfcColumn	207093=IfcBuildingElementProxy	2146069=IfcWallStandardCase
+58	39	2	3	44610=IfcColumn	207093=IfcBuildingElementProxy	2146069=IfcWallStandardCase
+58	39	3	6	44610=IfcColumn	14854=IfcBeam	19261=IfcSlab	288806=IfcBuildingElementProxy	2146069=IfcWallStandardCase	2682928=IfcBeam
+58	39	4	9	44610=IfcColumn	27332=IfcBeam	218469=IfcFlowTerminal	555480=IfcFlowSegment	557829=IfcFlowSegment	562962=IfcFlowSegment	563049=IfcFlowSegment	576468=IfcFlowFitting	2699600=IfcBeam
+58	39	5	6	44610=IfcColumn	36528=IfcSlab	27332=IfcBeam	218537=IfcFlowTerminal	563049=IfcFlowSegment	2699600=IfcBeam
+58	40	1	2	44531=IfcColumn	2145942=IfcWallStandardCase
+58	40	2	2	44531=IfcColumn	2145942=IfcWallStandardCase
+58	40	3	6	14252=IfcBeam	44531=IfcColumn	19261=IfcSlab	271260=IfcBuildingElementProxy	2145942=IfcWallStandardCase	2681064=IfcBeam
+58	40	4	8	44531=IfcColumn	27449=IfcBeam	654909=IfcFlowSegment	557829=IfcFlowSegment	558177=IfcFlowSegment	558264=IfcFlowSegment	577132=IfcFlowFitting	2699990=IfcBeam
+58	40	5	4	44531=IfcColumn	36528=IfcSlab	27449=IfcBeam	2699990=IfcBeam
+58	41	3	1	19261=IfcSlab
+58	41	4	7	105266=IfcBuildingElementProxy	218605=IfcFlowTerminal	558090=IfcFlowSegment	558177=IfcFlowSegment	563136=IfcFlowSegment	563223=IfcFlowSegment	576994=IfcFlowFitting
+58	41	5	10	105266=IfcBuildingElementProxy	36528=IfcSlab	27449=IfcBeam	218673=IfcFlowTerminal	162069=IfcFlowSegment	162271=IfcFlowSegment	162364=IfcFlowFitting	563223=IfcFlowSegment	2699990=IfcBeam	1861769=IfcFlowTerminal
+58	42	3	1	19261=IfcSlab
+58	42	4	6	218741=IfcFlowTerminal	558003=IfcFlowSegment	558090=IfcFlowSegment	563310=IfcFlowSegment	563397=IfcFlowSegment	576856=IfcFlowFitting
+58	42	5	5	36528=IfcSlab	218809=IfcFlowTerminal	158856=IfcFlowSegment	563397=IfcFlowSegment	1864159=IfcFlowTerminal
+58	43	1	1	44452=IfcColumn
+58	43	2	1	44452=IfcColumn
+58	43	3	4	44452=IfcColumn	19261=IfcSlab	270390=IfcBuildingElementProxy	2130780=IfcBeam
+58	43	4	8	44452=IfcColumn	218877=IfcFlowTerminal	557916=IfcFlowSegment	558003=IfcFlowSegment	563484=IfcFlowSegment	563571=IfcFlowSegment	576718=IfcFlowFitting	2702776=IfcBeam
+58	43	5	6	44452=IfcColumn	36528=IfcSlab	218945=IfcFlowTerminal	158856=IfcFlowSegment	563571=IfcFlowSegment	2702776=IfcBeam
+58	44	1	1	155043=IfcFlowSegment
+58	44	2	1	155043=IfcFlowSegment
+58	44	3	3	19261=IfcSlab	1041778=IfcRailing	155043=IfcFlowSegment
+58	44	4	9	38645=IfcFlowSegment	113061=IfcBuildingElementProxy	219013=IfcFlowTerminal	557916=IfcFlowSegment	563658=IfcFlowSegment	563745=IfcFlowSegment	576606=IfcFlowFitting	2702776=IfcBeam	1738260=IfcDoor
+58	44	5	4	36528=IfcSlab	219081=IfcFlowTerminal	563745=IfcFlowSegment	2702776=IfcBeam
+58	45	3	6	4035=IfcWallStandardCase	4350=IfcWallStandardCase	19261=IfcSlab	1041778=IfcRailing	246032=IfcFlowTerminal	1738260=IfcDoor
+58	45	4	5	4035=IfcWallStandardCase	4350=IfcWallStandardCase	38645=IfcFlowSegment	113061=IfcBuildingElementProxy	1738260=IfcDoor
+58	45	5	4	4035=IfcWallStandardCase	4350=IfcWallStandardCase	36528=IfcSlab	113061=IfcBuildingElementProxy
+58	45	6	1	4350=IfcWallStandardCase
+59	35	3	1	5839=IfcWallStandardCase
+59	35	4	1	5839=IfcWallStandardCase
+59	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+59	36	3	3	5839=IfcWallStandardCase	19261=IfcSlab	237685=IfcBuildingElementProxy
+59	36	4	8	5839=IfcWallStandardCase	63719=IfcFlowSegment	219149=IfcFlowTerminal	237685=IfcBuildingElementProxy	555567=IfcFlowSegment	563832=IfcFlowSegment	563919=IfcFlowSegment	573088=IfcFlowFitting
+59	36	5	5	5839=IfcWallStandardCase	36528=IfcSlab	219217=IfcFlowTerminal	158756=IfcFlowSegment	563919=IfcFlowSegment
+59	37	3	1	19261=IfcSlab
+59	37	4	6	219285=IfcFlowTerminal	555567=IfcFlowSegment	555654=IfcFlowSegment	564006=IfcFlowSegment	564093=IfcFlowSegment	573200=IfcFlowFitting
+59	37	5	3	36528=IfcSlab	219353=IfcFlowTerminal	564093=IfcFlowSegment
+59	38	1	1	44610=IfcColumn
+59	38	2	1	44610=IfcColumn
+59	38	3	5	44610=IfcColumn	14854=IfcBeam	19261=IfcSlab	288806=IfcBuildingElementProxy	2682928=IfcBeam
+59	38	4	9	44610=IfcColumn	27332=IfcBeam	219421=IfcFlowTerminal	555654=IfcFlowSegment	555741=IfcFlowSegment	564180=IfcFlowSegment	564267=IfcFlowSegment	573338=IfcFlowFitting	2699600=IfcBeam
+59	38	5	7	44610=IfcColumn	36528=IfcSlab	27332=IfcBeam	219489=IfcFlowTerminal	163444=IfcFlowSegment	564267=IfcFlowSegment	2699600=IfcBeam
+59	39	1	1	44610=IfcColumn
+59	39	2	1	44610=IfcColumn
+59	39	3	5	44610=IfcColumn	14854=IfcBeam	19261=IfcSlab	288806=IfcBuildingElementProxy	2682928=IfcBeam
+59	39	4	9	44610=IfcColumn	27332=IfcBeam	219557=IfcFlowTerminal	555741=IfcFlowSegment	558351=IfcFlowSegment	564354=IfcFlowSegment	564441=IfcFlowSegment	577213=IfcFlowFitting	2699600=IfcBeam
+59	39	5	6	44610=IfcColumn	36528=IfcSlab	27332=IfcBeam	219625=IfcFlowTerminal	564441=IfcFlowSegment	2699600=IfcBeam
+59	40	1	1	44531=IfcColumn
+59	40	2	1	44531=IfcColumn
+59	40	3	5	14252=IfcBeam	44531=IfcColumn	19261=IfcSlab	271260=IfcBuildingElementProxy	2681064=IfcBeam
+59	40	4	8	44531=IfcColumn	27449=IfcBeam	558264=IfcFlowSegment	558351=IfcFlowSegment	558699=IfcFlowSegment	558786=IfcFlowSegment	577877=IfcFlowFitting	2699990=IfcBeam
+59	40	5	4	44531=IfcColumn	36528=IfcSlab	27449=IfcBeam	2699990=IfcBeam
+59	41	3	1	19261=IfcSlab
+59	41	4	6	219693=IfcFlowTerminal	558612=IfcFlowSegment	558699=IfcFlowSegment	564528=IfcFlowSegment	564615=IfcFlowSegment	577739=IfcFlowFitting
+59	41	5	6	36528=IfcSlab	27449=IfcBeam	219761=IfcFlowTerminal	162069=IfcFlowSegment	564615=IfcFlowSegment	2699990=IfcBeam
+59	42	3	1	19261=IfcSlab
+59	42	4	6	219829=IfcFlowTerminal	558525=IfcFlowSegment	558612=IfcFlowSegment	564702=IfcFlowSegment	564789=IfcFlowSegment	577601=IfcFlowFitting
+59	42	5	4	36528=IfcSlab	219897=IfcFlowTerminal	158856=IfcFlowSegment	564789=IfcFlowSegment
+59	43	1	1	44452=IfcColumn
+59	43	2	1	44452=IfcColumn
+59	43	3	4	44452=IfcColumn	19261=IfcSlab	270390=IfcBuildingElementProxy	2130780=IfcBeam
+59	43	4	8	44452=IfcColumn	219965=IfcFlowTerminal	558438=IfcFlowSegment	558525=IfcFlowSegment	564876=IfcFlowSegment	564963=IfcFlowSegment	577463=IfcFlowFitting	2702776=IfcBeam
+59	43	5	6	44452=IfcColumn	36528=IfcSlab	220033=IfcFlowTerminal	158856=IfcFlowSegment	564963=IfcFlowSegment	2702776=IfcBeam
+59	44	3	2	19261=IfcSlab	1041778=IfcRailing
+59	44	4	7	38645=IfcFlowSegment	220101=IfcFlowTerminal	558438=IfcFlowSegment	565050=IfcFlowSegment	565137=IfcFlowSegment	577351=IfcFlowFitting	2702776=IfcBeam
+59	44	5	4	36528=IfcSlab	220169=IfcFlowTerminal	565137=IfcFlowSegment	2702776=IfcBeam
+59	45	3	4	4035=IfcWallStandardCase	19261=IfcSlab	1041778=IfcRailing	246032=IfcFlowTerminal
+59	45	4	2	4035=IfcWallStandardCase	38645=IfcFlowSegment
+59	45	5	2	4035=IfcWallStandardCase	36528=IfcSlab
+60	35	3	1	5839=IfcWallStandardCase
+60	35	4	1	5839=IfcWallStandardCase
+60	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+60	36	3	3	5839=IfcWallStandardCase	19261=IfcSlab	237685=IfcBuildingElementProxy
+60	36	4	3	5839=IfcWallStandardCase	63719=IfcFlowSegment	237685=IfcBuildingElementProxy
+60	36	5	3	5839=IfcWallStandardCase	36528=IfcSlab	158756=IfcFlowSegment
+60	37	3	1	19261=IfcSlab
+60	37	5	1	36528=IfcSlab
+60	38	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+60	38	4	2	27332=IfcBeam	2699600=IfcBeam
+60	38	5	4	36528=IfcSlab	27332=IfcBeam	163444=IfcFlowSegment	2699600=IfcBeam
+60	39	3	3	14854=IfcBeam	19261=IfcSlab	2682928=IfcBeam
+60	39	4	2	27332=IfcBeam	2699600=IfcBeam
+60	39	5	3	36528=IfcSlab	27332=IfcBeam	2699600=IfcBeam
+60	40	3	3	14252=IfcBeam	19261=IfcSlab	2681064=IfcBeam
+60	40	4	3	27449=IfcBeam	558786=IfcFlowSegment	2699990=IfcBeam
+60	40	5	3	36528=IfcSlab	27449=IfcBeam	2699990=IfcBeam
+60	41	3	1	19261=IfcSlab
+60	41	5	4	36528=IfcSlab	27449=IfcBeam	162069=IfcFlowSegment	2699990=IfcBeam
+60	42	3	1	19261=IfcSlab
+60	42	5	2	36528=IfcSlab	158856=IfcFlowSegment
+60	43	3	2	19261=IfcSlab	2130780=IfcBeam
+60	43	4	1	2702776=IfcBeam
+60	43	5	3	36528=IfcSlab	158856=IfcFlowSegment	2702776=IfcBeam
+60	44	3	4	19261=IfcSlab	238169=IfcBuildingElementProxy	1041778=IfcRailing	2526638=IfcBuildingElementProxy
+60	44	4	6	61335=IfcFlowFitting	38645=IfcFlowSegment	38731=IfcFlowSegment	238169=IfcBuildingElementProxy	2526638=IfcBuildingElementProxy	2702776=IfcBeam
+60	44	5	2	36528=IfcSlab	2702776=IfcBeam
+60	45	3	8	4035=IfcWallStandardCase	48773=IfcFlowSegment	19261=IfcSlab	238169=IfcBuildingElementProxy	1041778=IfcRailing	2526638=IfcBuildingElementProxy	2526704=IfcFlowSegment	2528354=IfcFlowFitting
+60	45	4	9	4035=IfcWallStandardCase	61335=IfcFlowFitting	38645=IfcFlowSegment	38731=IfcFlowSegment	48773=IfcFlowSegment	48861=IfcFlowSegment	48938=IfcFlowFitting	238169=IfcBuildingElementProxy	2526638=IfcBuildingElementProxy
+60	45	5	2	4035=IfcWallStandardCase	36528=IfcSlab
+61	35	3	1	5839=IfcWallStandardCase
+61	35	4	1	5839=IfcWallStandardCase
+61	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+61	36	3	3	5839=IfcWallStandardCase	19261=IfcSlab	237685=IfcBuildingElementProxy
+61	36	4	8	5839=IfcWallStandardCase	63719=IfcFlowSegment	220237=IfcFlowTerminal	237685=IfcBuildingElementProxy	555828=IfcFlowSegment	565224=IfcFlowSegment	565311=IfcFlowSegment	573476=IfcFlowFitting
+61	36	5	8	5839=IfcWallStandardCase	36528=IfcSlab	220305=IfcFlowTerminal	158656=IfcFlowSegment	158756=IfcFlowSegment	159517=IfcFlowFitting	565311=IfcFlowSegment	1863502=IfcFlowTerminal
+61	37	3	1	19261=IfcSlab
+61	37	4	6	220373=IfcFlowTerminal	555828=IfcFlowSegment	555915=IfcFlowSegment	565398=IfcFlowSegment	565485=IfcFlowSegment	573588=IfcFlowFitting
+61	37	5	3	36528=IfcSlab	220441=IfcFlowTerminal	565485=IfcFlowSegment
+61	38	1	1	44689=IfcColumn
+61	38	2	1	44689=IfcColumn
+61	38	3	5	44689=IfcColumn	14854=IfcBeam	19261=IfcSlab	288859=IfcBuildingElementProxy	2682928=IfcBeam
+61	38	4	9	44689=IfcColumn	27332=IfcBeam	220509=IfcFlowTerminal	555915=IfcFlowSegment	556002=IfcFlowSegment	565572=IfcFlowSegment	565659=IfcFlowSegment	573726=IfcFlowFitting	2699600=IfcBeam
+61	38	5	14	3498=IfcBeam	7750=IfcBeam	44689=IfcColumn	36528=IfcSlab	27332=IfcBeam	220577=IfcFlowTerminal	163238=IfcFlowSegment	163444=IfcFlowSegment	163537=IfcFlowFitting	565659=IfcFlowSegment	2133681=IfcBeam	2145089=IfcBeam	2699600=IfcBeam	1862484=IfcFlowTerminal
+61	39	1	1	44689=IfcColumn
+61	39	2	1	44689=IfcColumn
+61	39	3	5	44689=IfcColumn	14854=IfcBeam	19261=IfcSlab	288859=IfcBuildingElementProxy	2682928=IfcBeam
+61	39	4	9	44689=IfcColumn	27332=IfcBeam	220645=IfcFlowTerminal	556002=IfcFlowSegment	558873=IfcFlowSegment	565746=IfcFlowSegment	565833=IfcFlowSegment	577958=IfcFlowFitting	2699600=IfcBeam
+61	39	5	10	3498=IfcBeam	7750=IfcBeam	44689=IfcColumn	36528=IfcSlab	27332=IfcBeam	220713=IfcFlowTerminal	565833=IfcFlowSegment	2133681=IfcBeam	2145089=IfcBeam	2699600=IfcBeam
+61	40	1	1	44763=IfcColumn
+61	40	2	1	44763=IfcColumn
+61	40	3	5	14252=IfcBeam	44763=IfcColumn	19261=IfcSlab	271301=IfcBuildingElementProxy	2681064=IfcBeam
+61	40	4	8	44763=IfcColumn	27449=IfcBeam	558786=IfcFlowSegment	558873=IfcFlowSegment	559221=IfcFlowSegment	559308=IfcFlowSegment	578622=IfcFlowFitting	2699990=IfcBeam
+61	40	5	8	3498=IfcBeam	7750=IfcBeam	44763=IfcColumn	36528=IfcSlab	27449=IfcBeam	2133681=IfcBeam	2145089=IfcBeam	2699990=IfcBeam
+61	41	3	1	19261=IfcSlab
+61	41	4	6	220781=IfcFlowTerminal	559134=IfcFlowSegment	559221=IfcFlowSegment	565920=IfcFlowSegment	566007=IfcFlowSegment	578484=IfcFlowFitting
+61	41	5	9	36528=IfcSlab	27449=IfcBeam	220849=IfcFlowTerminal	161688=IfcFlowSegment	162069=IfcFlowSegment	162162=IfcFlowFitting	566007=IfcFlowSegment	2699990=IfcBeam	1861704=IfcFlowTerminal
+61	42	3	1	19261=IfcSlab
+61	42	4	6	220917=IfcFlowTerminal	559047=IfcFlowSegment	559134=IfcFlowSegment	566094=IfcFlowSegment	566181=IfcFlowSegment	578346=IfcFlowFitting
+61	42	5	6	36528=IfcSlab	220985=IfcFlowTerminal	158856=IfcFlowSegment	159223=IfcFlowFitting	566181=IfcFlowSegment	1864086=IfcFlowTerminal
+61	43	1	1	44837=IfcColumn
+61	43	2	1	44837=IfcColumn
+61	43	3	4	44837=IfcColumn	19261=IfcSlab	270443=IfcBuildingElementProxy	2130780=IfcBeam
+61	43	4	8	44837=IfcColumn	221053=IfcFlowTerminal	558960=IfcFlowSegment	559047=IfcFlowSegment	566268=IfcFlowSegment	566355=IfcFlowSegment	578208=IfcFlowFitting	2702776=IfcBeam
+61	43	5	8	44837=IfcColumn	36528=IfcSlab	221121=IfcFlowTerminal	158856=IfcFlowSegment	158956=IfcFlowSegment	159223=IfcFlowFitting	566355=IfcFlowSegment	2702776=IfcBeam
+61	44	3	3	19261=IfcSlab	238169=IfcBuildingElementProxy	1045678=IfcRailing
+61	44	4	8	38731=IfcFlowSegment	221189=IfcFlowTerminal	238169=IfcBuildingElementProxy	558960=IfcFlowSegment	566442=IfcFlowSegment	566529=IfcFlowSegment	578096=IfcFlowFitting	2702776=IfcBeam
+61	44	5	4	36528=IfcSlab	221257=IfcFlowTerminal	566529=IfcFlowSegment	2702776=IfcBeam
+61	45	3	4	4035=IfcWallStandardCase	19261=IfcSlab	238169=IfcBuildingElementProxy	1045678=IfcRailing
+61	45	4	3	4035=IfcWallStandardCase	38731=IfcFlowSegment	238169=IfcBuildingElementProxy
+61	45	5	2	4035=IfcWallStandardCase	36528=IfcSlab
+62	35	3	1	5839=IfcWallStandardCase
+62	35	4	1	5839=IfcWallStandardCase
+62	35	5	2	5839=IfcWallStandardCase	36528=IfcSlab
+62	36	3	5	20204=IfcSlab	5839=IfcWallStandardCase	19261=IfcSlab	237685=IfcBuildingElementProxy	244778=IfcFlowTerminal
+62	36	4	8	5839=IfcWallStandardCase	63719=IfcFlowSegment	221325=IfcFlowTerminal	237685=IfcBuildingElementProxy	556089=IfcFlowSegment	566616=IfcFlowSegment	566703=IfcFlowSegment	573864=IfcFlowFitting
+62	36	5	6	5839=IfcWallStandardCase	36314=IfcSlab	36528=IfcSlab	221393=IfcFlowTerminal	158656=IfcFlowSegment	566703=IfcFlowSegment
+62	37	3	2	20204=IfcSlab	19261=IfcSlab
+62	37	4	6	221461=IfcFlowTerminal	556089=IfcFlowSegment	556176=IfcFlowSegment	566790=IfcFlowSegment	566877=IfcFlowSegment	573976=IfcFlowFitting
+62	37	5	4	36314=IfcSlab	36528=IfcSlab	221529=IfcFlowTerminal	566877=IfcFlowSegment
+62	38	1	1	44689=IfcColumn
+62	38	2	1	44689=IfcColumn
+62	38	3	9	20204=IfcSlab	22447=IfcBeam	14161=IfcBeam	44689=IfcColumn	14854=IfcBeam	19261=IfcSlab	288859=IfcBuildingElementProxy	2680433=IfcBeam	2682928=IfcBeam
+62	38	4	9	44689=IfcColumn	27332=IfcBeam	221597=IfcFlowTerminal	556176=IfcFlowSegment	556263=IfcFlowSegment	566964=IfcFlowSegment	567051=IfcFlowSegment	574114=IfcFlowFitting	2699600=IfcBeam
+62	38	5	12	3498=IfcBeam	7750=IfcBeam	44689=IfcColumn	36314=IfcSlab	36528=IfcSlab	27332=IfcBeam	221665=IfcFlowTerminal	163238=IfcFlowSegment	567051=IfcFlowSegment	2133681=IfcBeam	2145089=IfcBeam	2699600=IfcBeam
+62	39	1	1	44689=IfcColumn
+62	39	2	1	44689=IfcColumn
+62	39	3	10	20204=IfcSlab	22447=IfcBeam	14161=IfcBeam	44689=IfcColumn	14854=IfcBeam	19261=IfcSlab	288859=IfcBuildingElementProxy	2680433=IfcBeam	2682928=IfcBeam	2693386=IfcBeam
+62	39	4	9	44689=IfcColumn	27332=IfcBeam	221733=IfcFlowTerminal	556263=IfcFlowSegment	559395=IfcFlowSegment	567138=IfcFlowSegment	567225=IfcFlowSegment	578703=IfcFlowFitting	2699600=IfcBeam
+62	39	5	11	3498=IfcBeam	7750=IfcBeam	44689=IfcColumn	36314=IfcSlab	36528=IfcSlab	27332=IfcBeam	221801=IfcFlowTerminal	567225=IfcFlowSegment	2133681=IfcBeam	2145089=IfcBeam	2699600=IfcBeam
+62	40	1	1	44763=IfcColumn
+62	40	2	1	44763=IfcColumn
+62	40	3	11	20204=IfcSlab	22447=IfcBeam	13773=IfcBeam	14252=IfcBeam	44763=IfcColumn	19261=IfcSlab	209907=IfcBuildingElementProxy	271301=IfcBuildingElementProxy	2679166=IfcBeam	2681064=IfcBeam	2693386=IfcBeam
+62	40	4	9	44763=IfcColumn	27449=IfcBeam	209907=IfcBuildingElementProxy	559308=IfcFlowSegment	559395=IfcFlowSegment	559743=IfcFlowSegment	559830=IfcFlowSegment	579367=IfcFlowFitting	2699990=IfcBeam
+62	40	5	9	3498=IfcBeam	7750=IfcBeam	44763=IfcColumn	36314=IfcSlab	36528=IfcSlab	27449=IfcBeam	2133681=IfcBeam	2145089=IfcBeam	2699990=IfcBeam
+62	41	3	2	20204=IfcSlab	19261=IfcSlab
+62	41	4	6	221869=IfcFlowTerminal	559656=IfcFlowSegment	559743=IfcFlowSegment	567312=IfcFlowSegment	567399=IfcFlowSegment	579229=IfcFlowFitting
+62	41	5	7	36314=IfcSlab	36528=IfcSlab	27449=IfcBeam	221937=IfcFlowTerminal	161688=IfcFlowSegment	567399=IfcFlowSegment	2699990=IfcBeam
+62	42	3	2	20204=IfcSlab	19261=IfcSlab
+62	42	4	6	222005=IfcFlowTerminal	559569=IfcFlowSegment	559656=IfcFlowSegment	567486=IfcFlowSegment	567573=IfcFlowSegment	579091=IfcFlowFitting
+62	42	5	4	36314=IfcSlab	36528=IfcSlab	222073=IfcFlowTerminal	567573=IfcFlowSegment
+62	43	1	1	44837=IfcColumn
+62	43	2	1	44837=IfcColumn
+62	43	3	5	20204=IfcSlab	44837=IfcColumn	19261=IfcSlab	270443=IfcBuildingElementProxy	2130780=IfcBeam
+62	43	4	8	44837=IfcColumn	222141=IfcFlowTerminal	559482=IfcFlowSegment	559569=IfcFlowSegment	567660=IfcFlowSegment	567747=IfcFlowSegment	578953=IfcFlowFitting	2702776=IfcBeam
+62	43	5	7	44837=IfcColumn	36314=IfcSlab	36528=IfcSlab	222209=IfcFlowTerminal	158956=IfcFlowSegment	567747=IfcFlowSegment	2702776=IfcBeam
+62	44	3	3	20204=IfcSlab	19261=IfcSlab	1045678=IfcRailing
+62	44	4	7	38731=IfcFlowSegment	222277=IfcFlowTerminal	559482=IfcFlowSegment	567834=IfcFlowSegment	567921=IfcFlowSegment	578841=IfcFlowFitting	2702776=IfcBeam
+62	44	5	5	36314=IfcSlab	36528=IfcSlab	222345=IfcFlowTerminal	567921=IfcFlowSegment	2702776=IfcBeam
+62	45	3	4	4035=IfcWallStandardCase	20204=IfcSlab	19261=IfcSlab	1045678=IfcRailing
+62	45	4	2	4035=IfcWallStandardCase	38731=IfcFlowSegment
+62	45	5	3	4035=IfcWallStandardCase	36314=IfcSlab	36528=IfcSlab
+63	35	3	1	5839=IfcWallStandardCase
+63	35	4	1	5839=IfcWallStandardCase
+63	35	5	1	5839=IfcWallStandardCase
+63	36	3	3	20204=IfcSlab	5839=IfcWallStandardCase	237685=IfcBuildingElementProxy
+63	36	4	3	5839=IfcWallStandardCase	63719=IfcFlowSegment	237685=IfcBuildingElementProxy
+63	36	5	3	5839=IfcWallStandardCase	36314=IfcSlab	158656=IfcFlowSegment
+63	37	3	1	20204=IfcSlab
+63	37	5	1	36314=IfcSlab
+63	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+63	38	4	2	27332=IfcBeam	2699600=IfcBeam
+63	38	5	4	36314=IfcSlab	27332=IfcBeam	163238=IfcFlowSegment	2699600=IfcBeam
+63	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+63	39	4	2	27332=IfcBeam	2699600=IfcBeam
+63	39	5	3	36314=IfcSlab	27332=IfcBeam	2699600=IfcBeam
+63	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+63	40	4	3	27449=IfcBeam	559830=IfcFlowSegment	2699990=IfcBeam
+63	40	5	3	36314=IfcSlab	27449=IfcBeam	2699990=IfcBeam
+63	41	3	1	20204=IfcSlab
+63	41	5	4	36314=IfcSlab	27449=IfcBeam	161688=IfcFlowSegment	2699990=IfcBeam
+63	42	3	1	20204=IfcSlab
+63	42	5	1	36314=IfcSlab
+63	43	3	2	20204=IfcSlab	2130780=IfcBeam
+63	43	4	1	2702776=IfcBeam
+63	43	5	3	36314=IfcSlab	158956=IfcFlowSegment	2702776=IfcBeam
+63	44	3	2	20204=IfcSlab	1045678=IfcRailing
+63	44	4	3	38731=IfcFlowSegment	2702776=IfcBeam	1738366=IfcDoor
+63	44	5	2	36314=IfcSlab	2702776=IfcBeam
+63	45	3	4	4035=IfcWallStandardCase	20204=IfcSlab	1045678=IfcRailing	1738366=IfcDoor
+63	45	4	3	4035=IfcWallStandardCase	38731=IfcFlowSegment	1738366=IfcDoor
+63	45	5	2	4035=IfcWallStandardCase	36314=IfcSlab
+64	35	3	1	5839=IfcWallStandardCase
+64	35	4	1	5839=IfcWallStandardCase
+64	35	5	1	5839=IfcWallStandardCase
+64	36	3	2	20204=IfcSlab	5839=IfcWallStandardCase
+64	36	4	2	5839=IfcWallStandardCase	63719=IfcFlowSegment
+64	36	5	3	5839=IfcWallStandardCase	36314=IfcSlab	158656=IfcFlowSegment
+64	37	3	1	20204=IfcSlab
+64	37	5	1	36314=IfcSlab
+64	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+64	38	4	2	27332=IfcBeam	2699600=IfcBeam
+64	38	5	4	36314=IfcSlab	27332=IfcBeam	163238=IfcFlowSegment	2699600=IfcBeam
+64	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+64	39	4	2	27332=IfcBeam	2699600=IfcBeam
+64	39	5	3	36314=IfcSlab	27332=IfcBeam	2699600=IfcBeam
+64	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+64	40	4	2	27449=IfcBeam	2699990=IfcBeam
+64	40	5	3	36314=IfcSlab	27449=IfcBeam	2699990=IfcBeam
+64	41	3	1	20204=IfcSlab
+64	41	5	4	36314=IfcSlab	27449=IfcBeam	161688=IfcFlowSegment	2699990=IfcBeam
+64	42	3	1	20204=IfcSlab
+64	42	5	1	36314=IfcSlab
+64	43	3	2	20204=IfcSlab	2130780=IfcBeam
+64	43	4	1	2702776=IfcBeam
+64	43	5	3	36314=IfcSlab	158956=IfcFlowSegment	2702776=IfcBeam
+64	44	3	1	20204=IfcSlab
+64	44	4	3	38731=IfcFlowSegment	2702776=IfcBeam	1738366=IfcDoor
+64	44	5	2	36314=IfcSlab	2702776=IfcBeam
+64	45	3	3	4035=IfcWallStandardCase	20204=IfcSlab	1738366=IfcDoor
+64	45	4	3	4035=IfcWallStandardCase	38731=IfcFlowSegment	1738366=IfcDoor
+64	45	5	2	4035=IfcWallStandardCase	36314=IfcSlab
+65	35	3	1	5839=IfcWallStandardCase
+65	35	4	1	5839=IfcWallStandardCase
+65	35	5	1	5839=IfcWallStandardCase
+65	36	3	2	20204=IfcSlab	5839=IfcWallStandardCase
+65	36	4	2	5839=IfcWallStandardCase	63719=IfcFlowSegment
+65	36	5	3	5839=IfcWallStandardCase	36314=IfcSlab	158656=IfcFlowSegment
+65	37	3	1	20204=IfcSlab
+65	37	5	1	36314=IfcSlab
+65	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+65	38	4	2	27332=IfcBeam	2699600=IfcBeam
+65	38	5	3	36314=IfcSlab	27332=IfcBeam	2699600=IfcBeam
+65	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+65	39	4	2	27332=IfcBeam	2699600=IfcBeam
+65	39	5	3	36314=IfcSlab	27332=IfcBeam	2699600=IfcBeam
+65	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+65	40	4	2	27449=IfcBeam	2699990=IfcBeam
+65	40	5	3	36314=IfcSlab	27449=IfcBeam	2699990=IfcBeam
+65	41	3	1	20204=IfcSlab
+65	41	5	3	36314=IfcSlab	27449=IfcBeam	2699990=IfcBeam
+65	42	3	1	20204=IfcSlab
+65	42	5	1	36314=IfcSlab
+65	43	3	2	20204=IfcSlab	2130780=IfcBeam
+65	43	4	1	2702776=IfcBeam
+65	43	5	3	36314=IfcSlab	158956=IfcFlowSegment	2702776=IfcBeam
+65	44	3	1	20204=IfcSlab
+65	44	4	3	38731=IfcFlowSegment	2702776=IfcBeam	1738366=IfcDoor
+65	44	5	2	36314=IfcSlab	2702776=IfcBeam
+65	45	3	3	4035=IfcWallStandardCase	20204=IfcSlab	1738366=IfcDoor
+65	45	4	3	4035=IfcWallStandardCase	38731=IfcFlowSegment	1738366=IfcDoor
+65	45	5	2	4035=IfcWallStandardCase	36314=IfcSlab
+66	35	3	1	5839=IfcWallStandardCase
+66	35	4	1	5839=IfcWallStandardCase
+66	35	5	1	5839=IfcWallStandardCase
+66	36	3	2	20204=IfcSlab	5839=IfcWallStandardCase
+66	36	4	1	5839=IfcWallStandardCase
+66	36	5	3	5839=IfcWallStandardCase	36314=IfcSlab	158656=IfcFlowSegment
+66	37	3	1	20204=IfcSlab
+66	37	5	1	36314=IfcSlab
+66	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+66	38	5	1	36314=IfcSlab
+66	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+66	39	5	1	36314=IfcSlab
+66	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+66	40	5	1	36314=IfcSlab
+66	41	3	1	20204=IfcSlab
+66	41	5	1	36314=IfcSlab
+66	42	3	1	20204=IfcSlab
+66	42	5	1	36314=IfcSlab
+66	43	3	2	20204=IfcSlab	2130780=IfcBeam
+66	43	4	1	2702776=IfcBeam
+66	43	5	3	36314=IfcSlab	158956=IfcFlowSegment	2702776=IfcBeam
+66	44	3	1	20204=IfcSlab
+66	44	4	2	38731=IfcFlowSegment	2702776=IfcBeam
+66	44	5	2	36314=IfcSlab	2702776=IfcBeam
+66	45	3	1	20204=IfcSlab
+66	45	4	1	38731=IfcFlowSegment
+66	45	5	1	36314=IfcSlab
+67	35	3	1	5839=IfcWallStandardCase
+67	35	4	1	5839=IfcWallStandardCase
+67	35	5	1	5839=IfcWallStandardCase
+67	36	3	2	20204=IfcSlab	5839=IfcWallStandardCase
+67	36	4	1	5839=IfcWallStandardCase
+67	36	5	3	5839=IfcWallStandardCase	36314=IfcSlab	158656=IfcFlowSegment
+67	37	3	1	20204=IfcSlab
+67	37	5	1	36314=IfcSlab
+67	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+67	38	5	1	36314=IfcSlab
+67	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+67	39	5	1	36314=IfcSlab
+67	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+67	40	5	1	36314=IfcSlab
+67	41	3	1	20204=IfcSlab
+67	41	5	1	36314=IfcSlab
+67	42	3	1	20204=IfcSlab
+67	42	5	1	36314=IfcSlab
+67	43	3	2	20204=IfcSlab	2130780=IfcBeam
+67	43	4	1	2702776=IfcBeam
+67	43	5	3	36314=IfcSlab	158956=IfcFlowSegment	2702776=IfcBeam
+67	44	3	1	20204=IfcSlab
+67	44	4	2	38731=IfcFlowSegment	2702776=IfcBeam
+67	44	5	2	36314=IfcSlab	2702776=IfcBeam
+67	45	3	1	20204=IfcSlab
+67	45	4	1	38731=IfcFlowSegment
+67	45	5	1	36314=IfcSlab
+68	35	3	1	5839=IfcWallStandardCase
+68	35	4	1	5839=IfcWallStandardCase
+68	35	5	1	5839=IfcWallStandardCase
+68	36	3	2	20204=IfcSlab	5839=IfcWallStandardCase
+68	36	4	1	5839=IfcWallStandardCase
+68	36	5	2	5839=IfcWallStandardCase	36314=IfcSlab
+68	37	3	1	20204=IfcSlab
+68	37	5	1	36314=IfcSlab
+68	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+68	38	5	1	36314=IfcSlab
+68	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+68	39	5	1	36314=IfcSlab
+68	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+68	40	5	1	36314=IfcSlab
+68	41	3	1	20204=IfcSlab
+68	41	5	1	36314=IfcSlab
+68	42	3	1	20204=IfcSlab
+68	42	5	1	36314=IfcSlab
+68	43	3	2	20204=IfcSlab	2130780=IfcBeam
+68	43	4	1	2702776=IfcBeam
+68	43	5	2	36314=IfcSlab	2702776=IfcBeam
+68	44	3	1	20204=IfcSlab
+68	44	4	2	38731=IfcFlowSegment	2702776=IfcBeam
+68	44	5	2	36314=IfcSlab	2702776=IfcBeam
+68	45	3	1	20204=IfcSlab
+68	45	4	1	38731=IfcFlowSegment
+68	45	5	1	36314=IfcSlab
+69	31	5	1	36314=IfcSlab
+69	32	5	1	36314=IfcSlab
+69	33	5	1	36314=IfcSlab
+69	35	3	1	5839=IfcWallStandardCase
+69	35	4	1	5839=IfcWallStandardCase
+69	35	5	1	5839=IfcWallStandardCase
+69	36	3	2	20204=IfcSlab	5839=IfcWallStandardCase
+69	36	4	1	5839=IfcWallStandardCase
+69	36	5	2	5839=IfcWallStandardCase	36314=IfcSlab
+69	37	3	1	20204=IfcSlab
+69	37	5	1	36314=IfcSlab
+69	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+69	38	5	1	36314=IfcSlab
+69	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+69	39	5	1	36314=IfcSlab
+69	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+69	40	5	1	36314=IfcSlab
+69	41	3	1	20204=IfcSlab
+69	41	5	1	36314=IfcSlab
+69	42	3	1	20204=IfcSlab
+69	42	5	1	36314=IfcSlab
+69	43	3	2	20204=IfcSlab	2130780=IfcBeam
+69	43	4	1	2702776=IfcBeam
+69	43	5	2	36314=IfcSlab	2702776=IfcBeam
+69	44	3	1	20204=IfcSlab
+69	44	4	2	38731=IfcFlowSegment	2702776=IfcBeam
+69	44	5	2	36314=IfcSlab	2702776=IfcBeam
+69	45	3	1	20204=IfcSlab
+69	45	4	1	38731=IfcFlowSegment
+69	45	5	1	36314=IfcSlab
+70	30	5	1	36314=IfcSlab
+70	31	5	1	36314=IfcSlab
+70	32	5	1	36314=IfcSlab
+70	33	5	1	36314=IfcSlab
+70	34	3	1	20204=IfcSlab
+70	34	5	1	36314=IfcSlab
+70	35	3	2	20204=IfcSlab	5839=IfcWallStandardCase
+70	35	4	1	5839=IfcWallStandardCase
+70	35	5	2	5839=IfcWallStandardCase	36314=IfcSlab
+70	36	3	2	20204=IfcSlab	5839=IfcWallStandardCase
+70	36	4	1	5839=IfcWallStandardCase
+70	36	5	2	5839=IfcWallStandardCase	36314=IfcSlab
+70	37	3	1	20204=IfcSlab
+70	37	5	1	36314=IfcSlab
+70	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+70	38	5	1	36314=IfcSlab
+70	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+70	39	5	1	36314=IfcSlab
+70	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+70	40	5	1	36314=IfcSlab
+70	41	3	1	20204=IfcSlab
+70	41	5	1	36314=IfcSlab
+70	42	3	1	20204=IfcSlab
+70	42	5	1	36314=IfcSlab
+70	43	3	2	20204=IfcSlab	2130780=IfcBeam
+70	43	4	1	2702776=IfcBeam
+70	43	5	2	36314=IfcSlab	2702776=IfcBeam
+70	44	3	1	20204=IfcSlab
+70	44	4	2	38731=IfcFlowSegment	2702776=IfcBeam
+70	44	5	2	36314=IfcSlab	2702776=IfcBeam
+70	45	3	1	20204=IfcSlab
+70	45	4	1	38731=IfcFlowSegment
+70	45	5	1	36314=IfcSlab
+71	30	5	1	36314=IfcSlab
+71	31	5	1	36314=IfcSlab
+71	32	5	1	36314=IfcSlab
+71	33	5	1	36314=IfcSlab
+71	34	3	1	20204=IfcSlab
+71	34	5	1	36314=IfcSlab
+71	35	3	1	20204=IfcSlab
+71	35	5	1	36314=IfcSlab
+71	36	3	1	20204=IfcSlab
+71	36	5	1	36314=IfcSlab
+71	37	3	1	20204=IfcSlab
+71	37	5	1	36314=IfcSlab
+71	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+71	38	5	1	36314=IfcSlab
+71	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+71	39	5	1	36314=IfcSlab
+71	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+71	40	5	1	36314=IfcSlab
+71	41	3	1	20204=IfcSlab
+71	41	5	1	36314=IfcSlab
+71	42	3	1	20204=IfcSlab
+71	42	5	1	36314=IfcSlab
+71	43	3	2	20204=IfcSlab	2130780=IfcBeam
+71	43	4	1	2702776=IfcBeam
+71	43	5	2	36314=IfcSlab	2702776=IfcBeam
+71	44	3	1	20204=IfcSlab
+71	44	4	1	2702776=IfcBeam
+71	44	5	2	36314=IfcSlab	2702776=IfcBeam
+71	45	3	1	20204=IfcSlab
+71	45	5	1	36314=IfcSlab
+72	30	5	1	36314=IfcSlab
+72	31	5	1	36314=IfcSlab
+72	32	5	1	36314=IfcSlab
+72	33	5	1	36314=IfcSlab
+72	34	3	1	20204=IfcSlab
+72	34	5	1	36314=IfcSlab
+72	35	3	1	20204=IfcSlab
+72	35	5	1	36314=IfcSlab
+72	36	3	1	20204=IfcSlab
+72	36	5	1	36314=IfcSlab
+72	37	3	1	20204=IfcSlab
+72	37	5	1	36314=IfcSlab
+72	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+72	38	5	1	36314=IfcSlab
+72	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+72	39	5	1	36314=IfcSlab
+72	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+72	40	5	1	36314=IfcSlab
+72	41	3	1	20204=IfcSlab
+72	41	5	1	36314=IfcSlab
+72	42	3	1	20204=IfcSlab
+72	42	5	1	36314=IfcSlab
+72	43	3	2	20204=IfcSlab	2130780=IfcBeam
+72	43	4	1	2702776=IfcBeam
+72	43	5	2	36314=IfcSlab	2702776=IfcBeam
+72	44	3	1	20204=IfcSlab
+72	44	4	1	2702776=IfcBeam
+72	44	5	2	36314=IfcSlab	2702776=IfcBeam
+72	45	3	1	20204=IfcSlab
+72	45	5	1	36314=IfcSlab
+73	25	5	1	36314=IfcSlab
+73	26	5	1	36314=IfcSlab
+73	27	5	1	36314=IfcSlab
+73	28	5	1	36314=IfcSlab
+73	29	5	1	36314=IfcSlab
+73	30	5	1	36314=IfcSlab
+73	31	5	1	36314=IfcSlab
+73	32	5	1	36314=IfcSlab
+73	33	5	1	36314=IfcSlab
+73	34	3	1	20204=IfcSlab
+73	34	5	1	36314=IfcSlab
+73	35	3	1	20204=IfcSlab
+73	35	5	1	36314=IfcSlab
+73	36	3	1	20204=IfcSlab
+73	36	5	1	36314=IfcSlab
+73	37	3	1	20204=IfcSlab
+73	37	5	1	36314=IfcSlab
+73	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+73	38	5	1	36314=IfcSlab
+73	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+73	39	5	1	36314=IfcSlab
+73	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+73	40	5	1	36314=IfcSlab
+73	41	3	1	20204=IfcSlab
+73	41	5	1	36314=IfcSlab
+73	42	3	1	20204=IfcSlab
+73	42	5	1	36314=IfcSlab
+73	43	3	2	20204=IfcSlab	2130780=IfcBeam
+73	43	4	1	2702776=IfcBeam
+73	43	5	2	36314=IfcSlab	2702776=IfcBeam
+73	44	3	1	20204=IfcSlab
+73	44	4	1	2702776=IfcBeam
+73	44	5	2	36314=IfcSlab	2702776=IfcBeam
+73	45	3	1	20204=IfcSlab
+73	45	5	1	36314=IfcSlab
+74	25	5	1	36314=IfcSlab
+74	26	5	1	36314=IfcSlab
+74	27	5	1	36314=IfcSlab
+74	28	5	1	36314=IfcSlab
+74	29	5	1	36314=IfcSlab
+74	30	5	1	36314=IfcSlab
+74	31	5	1	36314=IfcSlab
+74	32	5	1	36314=IfcSlab
+74	33	5	1	36314=IfcSlab
+74	34	3	1	20204=IfcSlab
+74	34	5	1	36314=IfcSlab
+74	35	3	1	20204=IfcSlab
+74	35	5	1	36314=IfcSlab
+74	36	3	1	20204=IfcSlab
+74	36	5	1	36314=IfcSlab
+74	37	3	1	20204=IfcSlab
+74	37	5	1	36314=IfcSlab
+74	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+74	38	5	1	36314=IfcSlab
+74	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+74	39	5	1	36314=IfcSlab
+74	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+74	40	5	1	36314=IfcSlab
+74	41	3	1	20204=IfcSlab
+74	41	5	1	36314=IfcSlab
+74	42	3	1	20204=IfcSlab
+74	42	5	1	36314=IfcSlab
+74	43	3	2	20204=IfcSlab	2130780=IfcBeam
+74	43	4	1	2702776=IfcBeam
+74	43	5	2	36314=IfcSlab	2702776=IfcBeam
+74	44	3	1	20204=IfcSlab
+74	44	4	1	2702776=IfcBeam
+74	44	5	2	36314=IfcSlab	2702776=IfcBeam
+74	45	3	1	20204=IfcSlab
+74	45	5	1	36314=IfcSlab
+75	25	5	1	36314=IfcSlab
+75	26	5	1	36314=IfcSlab
+75	27	5	1	36314=IfcSlab
+75	28	5	1	36314=IfcSlab
+75	29	5	1	36314=IfcSlab
+75	30	5	1	36314=IfcSlab
+75	31	5	1	36314=IfcSlab
+75	32	5	1	36314=IfcSlab
+75	33	5	1	36314=IfcSlab
+75	34	3	1	20204=IfcSlab
+75	34	5	1	36314=IfcSlab
+75	35	3	1	20204=IfcSlab
+75	35	5	1	36314=IfcSlab
+75	36	3	1	20204=IfcSlab
+75	36	5	1	36314=IfcSlab
+75	37	3	1	20204=IfcSlab
+75	37	5	1	36314=IfcSlab
+75	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+75	38	5	1	36314=IfcSlab
+75	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+75	39	5	1	36314=IfcSlab
+75	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+75	40	5	1	36314=IfcSlab
+75	41	3	1	20204=IfcSlab
+75	41	5	1	36314=IfcSlab
+75	42	3	1	20204=IfcSlab
+75	42	5	1	36314=IfcSlab
+75	43	3	2	20204=IfcSlab	2130780=IfcBeam
+75	43	4	1	2702776=IfcBeam
+75	43	5	2	36314=IfcSlab	2702776=IfcBeam
+75	44	3	1	20204=IfcSlab
+75	44	4	1	2702776=IfcBeam
+75	44	5	2	36314=IfcSlab	2702776=IfcBeam
+75	45	3	1	20204=IfcSlab
+75	45	5	1	36314=IfcSlab
+76	25	5	1	36314=IfcSlab
+76	26	5	1	36314=IfcSlab
+76	27	5	1	36314=IfcSlab
+76	28	5	1	36314=IfcSlab
+76	29	5	1	36314=IfcSlab
+76	30	5	1	36314=IfcSlab
+76	31	5	1	36314=IfcSlab
+76	32	5	1	36314=IfcSlab
+76	33	5	1	36314=IfcSlab
+76	34	3	1	20204=IfcSlab
+76	34	5	1	36314=IfcSlab
+76	35	3	1	20204=IfcSlab
+76	35	5	1	36314=IfcSlab
+76	36	3	1	20204=IfcSlab
+76	36	5	1	36314=IfcSlab
+76	37	3	1	20204=IfcSlab
+76	37	5	1	36314=IfcSlab
+76	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+76	38	5	1	36314=IfcSlab
+76	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+76	39	5	1	36314=IfcSlab
+76	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+76	40	5	1	36314=IfcSlab
+76	41	3	1	20204=IfcSlab
+76	41	5	1	36314=IfcSlab
+76	42	3	1	20204=IfcSlab
+76	42	5	1	36314=IfcSlab
+76	43	3	2	20204=IfcSlab	2130780=IfcBeam
+76	43	4	1	2702776=IfcBeam
+76	43	5	2	36314=IfcSlab	2702776=IfcBeam
+76	44	3	1	20204=IfcSlab
+76	44	4	1	2702776=IfcBeam
+76	44	5	2	36314=IfcSlab	2702776=IfcBeam
+76	45	3	1	20204=IfcSlab
+76	45	5	1	36314=IfcSlab
+77	27	5	1	36314=IfcSlab
+77	28	5	1	36314=IfcSlab
+77	29	5	1	36314=IfcSlab
+77	30	5	1	36314=IfcSlab
+77	31	5	1	36314=IfcSlab
+77	32	5	1	36314=IfcSlab
+77	33	5	1	36314=IfcSlab
+77	34	3	1	20204=IfcSlab
+77	34	5	1	36314=IfcSlab
+77	35	3	1	20204=IfcSlab
+77	35	5	1	36314=IfcSlab
+77	36	3	1	20204=IfcSlab
+77	36	5	1	36314=IfcSlab
+77	37	3	1	20204=IfcSlab
+77	37	5	1	36314=IfcSlab
+77	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+77	38	5	1	36314=IfcSlab
+77	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+77	39	5	1	36314=IfcSlab
+77	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+77	40	5	1	36314=IfcSlab
+77	41	3	1	20204=IfcSlab
+77	41	5	1	36314=IfcSlab
+77	42	3	1	20204=IfcSlab
+77	42	5	1	36314=IfcSlab
+77	43	3	2	20204=IfcSlab	2130780=IfcBeam
+77	43	4	1	2702776=IfcBeam
+77	43	5	2	36314=IfcSlab	2702776=IfcBeam
+77	44	3	1	20204=IfcSlab
+77	44	4	1	2702776=IfcBeam
+77	44	5	2	36314=IfcSlab	2702776=IfcBeam
+77	45	3	1	20204=IfcSlab
+77	45	5	1	36314=IfcSlab
+78	27	5	1	36314=IfcSlab
+78	28	5	1	36314=IfcSlab
+78	29	5	1	36314=IfcSlab
+78	30	5	1	36314=IfcSlab
+78	31	5	1	36314=IfcSlab
+78	32	5	1	36314=IfcSlab
+78	33	5	1	36314=IfcSlab
+78	34	3	1	20204=IfcSlab
+78	34	5	1	36314=IfcSlab
+78	35	3	1	20204=IfcSlab
+78	35	5	1	36314=IfcSlab
+78	36	3	1	20204=IfcSlab
+78	36	5	1	36314=IfcSlab
+78	37	3	1	20204=IfcSlab
+78	37	5	1	36314=IfcSlab
+78	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+78	38	5	1	36314=IfcSlab
+78	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+78	39	5	1	36314=IfcSlab
+78	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+78	40	5	1	36314=IfcSlab
+78	41	3	1	20204=IfcSlab
+78	41	5	1	36314=IfcSlab
+78	42	3	1	20204=IfcSlab
+78	42	5	1	36314=IfcSlab
+78	43	3	2	20204=IfcSlab	2130780=IfcBeam
+78	43	4	1	2702776=IfcBeam
+78	43	5	2	36314=IfcSlab	2702776=IfcBeam
+78	44	3	1	20204=IfcSlab
+78	44	4	1	2702776=IfcBeam
+78	44	5	2	36314=IfcSlab	2702776=IfcBeam
+78	45	3	1	20204=IfcSlab
+78	45	5	1	36314=IfcSlab
+79	27	5	1	36314=IfcSlab
+79	28	5	1	36314=IfcSlab
+79	29	5	1	36314=IfcSlab
+79	30	5	1	36314=IfcSlab
+79	31	5	1	36314=IfcSlab
+79	32	5	1	36314=IfcSlab
+79	33	5	1	36314=IfcSlab
+79	34	3	1	20204=IfcSlab
+79	34	5	1	36314=IfcSlab
+79	35	3	1	20204=IfcSlab
+79	35	5	1	36314=IfcSlab
+79	36	3	1	20204=IfcSlab
+79	36	5	1	36314=IfcSlab
+79	37	3	1	20204=IfcSlab
+79	37	5	1	36314=IfcSlab
+79	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+79	38	5	1	36314=IfcSlab
+79	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+79	39	5	1	36314=IfcSlab
+79	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+79	40	5	1	36314=IfcSlab
+79	41	3	1	20204=IfcSlab
+79	41	5	1	36314=IfcSlab
+79	42	3	1	20204=IfcSlab
+79	42	5	1	36314=IfcSlab
+79	43	3	2	20204=IfcSlab	2130780=IfcBeam
+79	43	4	1	2702776=IfcBeam
+79	43	5	2	36314=IfcSlab	2702776=IfcBeam
+79	44	3	1	20204=IfcSlab
+79	44	4	1	2702776=IfcBeam
+79	44	5	2	36314=IfcSlab	2702776=IfcBeam
+79	45	3	1	20204=IfcSlab
+79	45	5	1	36314=IfcSlab
+80	27	5	1	36314=IfcSlab
+80	28	5	1	36314=IfcSlab
+80	29	5	1	36314=IfcSlab
+80	30	5	1	36314=IfcSlab
+80	31	5	1	36314=IfcSlab
+80	32	5	1	36314=IfcSlab
+80	33	5	1	36314=IfcSlab
+80	34	3	1	20204=IfcSlab
+80	34	5	1	36314=IfcSlab
+80	35	3	1	20204=IfcSlab
+80	35	5	1	36314=IfcSlab
+80	36	3	1	20204=IfcSlab
+80	36	5	1	36314=IfcSlab
+80	37	3	1	20204=IfcSlab
+80	37	5	1	36314=IfcSlab
+80	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+80	38	5	1	36314=IfcSlab
+80	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+80	39	5	1	36314=IfcSlab
+80	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+80	40	5	1	36314=IfcSlab
+80	41	3	1	20204=IfcSlab
+80	41	5	1	36314=IfcSlab
+80	42	3	1	20204=IfcSlab
+80	42	5	1	36314=IfcSlab
+80	43	3	2	20204=IfcSlab	2130780=IfcBeam
+80	43	4	1	2702776=IfcBeam
+80	43	5	2	36314=IfcSlab	2702776=IfcBeam
+80	44	3	1	20204=IfcSlab
+80	44	4	1	2702776=IfcBeam
+80	44	5	2	36314=IfcSlab	2702776=IfcBeam
+80	45	3	1	20204=IfcSlab
+80	45	5	1	36314=IfcSlab
+81	25	5	1	36314=IfcSlab
+81	26	5	1	36314=IfcSlab
+81	27	5	1	36314=IfcSlab
+81	28	5	1	36314=IfcSlab
+81	29	5	1	36314=IfcSlab
+81	30	5	1	36314=IfcSlab
+81	31	5	1	36314=IfcSlab
+81	32	5	1	36314=IfcSlab
+81	33	5	1	36314=IfcSlab
+81	34	3	1	20204=IfcSlab
+81	34	5	1	36314=IfcSlab
+81	35	3	1	20204=IfcSlab
+81	35	5	1	36314=IfcSlab
+81	36	3	1	20204=IfcSlab
+81	36	5	1	36314=IfcSlab
+81	37	3	1	20204=IfcSlab
+81	37	5	1	36314=IfcSlab
+81	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+81	38	5	1	36314=IfcSlab
+81	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+81	39	5	1	36314=IfcSlab
+81	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+81	40	5	1	36314=IfcSlab
+81	41	3	1	20204=IfcSlab
+81	41	5	1	36314=IfcSlab
+81	42	3	1	20204=IfcSlab
+81	42	5	1	36314=IfcSlab
+81	43	3	2	20204=IfcSlab	2130780=IfcBeam
+81	43	4	1	2702776=IfcBeam
+81	43	5	2	36314=IfcSlab	2702776=IfcBeam
+81	44	3	1	20204=IfcSlab
+81	44	4	1	2702776=IfcBeam
+81	44	5	2	36314=IfcSlab	2702776=IfcBeam
+81	45	3	1	20204=IfcSlab
+81	45	5	1	36314=IfcSlab
+82	25	5	1	36314=IfcSlab
+82	26	5	1	36314=IfcSlab
+82	27	5	1	36314=IfcSlab
+82	28	5	1	36314=IfcSlab
+82	29	5	1	36314=IfcSlab
+82	30	5	1	36314=IfcSlab
+82	31	5	1	36314=IfcSlab
+82	32	5	1	36314=IfcSlab
+82	33	5	1	36314=IfcSlab
+82	34	3	1	20204=IfcSlab
+82	34	5	1	36314=IfcSlab
+82	35	3	1	20204=IfcSlab
+82	35	5	1	36314=IfcSlab
+82	36	3	1	20204=IfcSlab
+82	36	5	1	36314=IfcSlab
+82	37	3	1	20204=IfcSlab
+82	37	5	1	36314=IfcSlab
+82	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+82	38	5	1	36314=IfcSlab
+82	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+82	39	5	1	36314=IfcSlab
+82	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+82	40	5	1	36314=IfcSlab
+82	41	3	1	20204=IfcSlab
+82	41	5	1	36314=IfcSlab
+82	42	3	1	20204=IfcSlab
+82	42	5	1	36314=IfcSlab
+82	43	3	2	20204=IfcSlab	2130780=IfcBeam
+82	43	4	1	2702776=IfcBeam
+82	43	5	2	36314=IfcSlab	2702776=IfcBeam
+82	44	3	1	20204=IfcSlab
+82	44	4	1	2702776=IfcBeam
+82	44	5	2	36314=IfcSlab	2702776=IfcBeam
+82	45	3	1	20204=IfcSlab
+82	45	5	1	36314=IfcSlab
+83	25	5	1	36314=IfcSlab
+83	26	5	1	36314=IfcSlab
+83	27	5	1	36314=IfcSlab
+83	28	5	1	36314=IfcSlab
+83	29	5	1	36314=IfcSlab
+83	30	5	1	36314=IfcSlab
+83	31	5	1	36314=IfcSlab
+83	32	5	1	36314=IfcSlab
+83	33	5	1	36314=IfcSlab
+83	34	3	1	20204=IfcSlab
+83	34	5	1	36314=IfcSlab
+83	35	3	1	20204=IfcSlab
+83	35	5	1	36314=IfcSlab
+83	36	3	1	20204=IfcSlab
+83	36	5	1	36314=IfcSlab
+83	37	3	1	20204=IfcSlab
+83	37	5	1	36314=IfcSlab
+83	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+83	38	5	1	36314=IfcSlab
+83	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+83	39	5	1	36314=IfcSlab
+83	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+83	40	5	1	36314=IfcSlab
+83	41	3	1	20204=IfcSlab
+83	41	5	1	36314=IfcSlab
+83	42	3	1	20204=IfcSlab
+83	42	5	1	36314=IfcSlab
+83	43	3	2	20204=IfcSlab	2130780=IfcBeam
+83	43	4	1	2702776=IfcBeam
+83	43	5	2	36314=IfcSlab	2702776=IfcBeam
+83	44	3	1	20204=IfcSlab
+83	44	4	1	2702776=IfcBeam
+83	44	5	2	36314=IfcSlab	2702776=IfcBeam
+83	45	3	1	20204=IfcSlab
+83	45	5	1	36314=IfcSlab
+84	25	5	1	36314=IfcSlab
+84	26	5	1	36314=IfcSlab
+84	27	5	1	36314=IfcSlab
+84	28	5	1	36314=IfcSlab
+84	29	5	1	36314=IfcSlab
+84	30	5	1	36314=IfcSlab
+84	31	5	1	36314=IfcSlab
+84	32	5	1	36314=IfcSlab
+84	33	5	1	36314=IfcSlab
+84	34	3	1	20204=IfcSlab
+84	34	5	1	36314=IfcSlab
+84	35	3	1	20204=IfcSlab
+84	35	5	1	36314=IfcSlab
+84	36	3	1	20204=IfcSlab
+84	36	5	1	36314=IfcSlab
+84	37	3	1	20204=IfcSlab
+84	37	5	1	36314=IfcSlab
+84	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+84	38	5	1	36314=IfcSlab
+84	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+84	39	5	1	36314=IfcSlab
+84	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+84	40	5	1	36314=IfcSlab
+84	41	3	1	20204=IfcSlab
+84	41	5	1	36314=IfcSlab
+84	42	3	1	20204=IfcSlab
+84	42	5	1	36314=IfcSlab
+84	43	3	2	20204=IfcSlab	2130780=IfcBeam
+84	43	4	1	2702776=IfcBeam
+84	43	5	2	36314=IfcSlab	2702776=IfcBeam
+84	44	3	1	20204=IfcSlab
+84	44	4	1	2702776=IfcBeam
+84	44	5	2	36314=IfcSlab	2702776=IfcBeam
+84	45	3	1	20204=IfcSlab
+84	45	5	1	36314=IfcSlab
+85	25	5	1	36314=IfcSlab
+85	26	5	1	36314=IfcSlab
+85	27	5	1	36314=IfcSlab
+85	28	5	1	36314=IfcSlab
+85	29	5	1	36314=IfcSlab
+85	30	5	1	36314=IfcSlab
+85	31	5	1	36314=IfcSlab
+85	32	5	1	36314=IfcSlab
+85	33	5	1	36314=IfcSlab
+85	34	3	1	20204=IfcSlab
+85	34	5	1	36314=IfcSlab
+85	35	3	1	20204=IfcSlab
+85	35	5	1	36314=IfcSlab
+85	36	3	1	20204=IfcSlab
+85	36	5	1	36314=IfcSlab
+85	37	3	1	20204=IfcSlab
+85	37	5	1	36314=IfcSlab
+85	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+85	38	5	1	36314=IfcSlab
+85	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+85	39	5	1	36314=IfcSlab
+85	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+85	40	5	1	36314=IfcSlab
+85	41	3	1	20204=IfcSlab
+85	41	5	1	36314=IfcSlab
+85	42	3	1	20204=IfcSlab
+85	42	5	1	36314=IfcSlab
+85	43	3	2	20204=IfcSlab	2130780=IfcBeam
+85	43	4	1	2702776=IfcBeam
+85	43	5	2	36314=IfcSlab	2702776=IfcBeam
+85	44	3	1	20204=IfcSlab
+85	44	4	1	2702776=IfcBeam
+85	44	5	2	36314=IfcSlab	2702776=IfcBeam
+85	45	3	1	20204=IfcSlab
+85	45	5	1	36314=IfcSlab
+86	25	5	1	36314=IfcSlab
+86	26	5	1	36314=IfcSlab
+86	27	5	1	36314=IfcSlab
+86	28	5	1	36314=IfcSlab
+86	29	5	1	36314=IfcSlab
+86	30	5	1	36314=IfcSlab
+86	31	5	1	36314=IfcSlab
+86	32	5	1	36314=IfcSlab
+86	33	5	1	36314=IfcSlab
+86	34	3	1	20204=IfcSlab
+86	34	5	1	36314=IfcSlab
+86	35	3	1	20204=IfcSlab
+86	35	5	1	36314=IfcSlab
+86	36	3	1	20204=IfcSlab
+86	36	5	1	36314=IfcSlab
+86	37	3	1	20204=IfcSlab
+86	37	5	1	36314=IfcSlab
+86	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+86	38	5	1	36314=IfcSlab
+86	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+86	39	5	1	36314=IfcSlab
+86	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+86	40	5	1	36314=IfcSlab
+86	41	3	1	20204=IfcSlab
+86	41	5	1	36314=IfcSlab
+86	42	3	1	20204=IfcSlab
+86	42	5	1	36314=IfcSlab
+86	43	3	2	20204=IfcSlab	2130780=IfcBeam
+86	43	4	1	2702776=IfcBeam
+86	43	5	2	36314=IfcSlab	2702776=IfcBeam
+86	44	3	1	20204=IfcSlab
+86	44	4	1	2702776=IfcBeam
+86	44	5	2	36314=IfcSlab	2702776=IfcBeam
+86	45	3	1	20204=IfcSlab
+86	45	5	1	36314=IfcSlab
+87	25	5	1	36314=IfcSlab
+87	26	5	1	36314=IfcSlab
+87	27	5	1	36314=IfcSlab
+87	28	5	1	36314=IfcSlab
+87	29	5	1	36314=IfcSlab
+87	30	5	1	36314=IfcSlab
+87	31	5	1	36314=IfcSlab
+87	32	5	1	36314=IfcSlab
+87	33	5	1	36314=IfcSlab
+87	34	3	1	20204=IfcSlab
+87	34	5	1	36314=IfcSlab
+87	35	3	1	20204=IfcSlab
+87	35	5	1	36314=IfcSlab
+87	36	3	1	20204=IfcSlab
+87	36	5	1	36314=IfcSlab
+87	37	3	1	20204=IfcSlab
+87	37	5	1	36314=IfcSlab
+87	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+87	38	5	1	36314=IfcSlab
+87	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+87	39	5	1	36314=IfcSlab
+87	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+87	40	5	1	36314=IfcSlab
+87	41	3	1	20204=IfcSlab
+87	41	5	1	36314=IfcSlab
+87	42	3	1	20204=IfcSlab
+87	42	5	1	36314=IfcSlab
+87	43	3	2	20204=IfcSlab	2130780=IfcBeam
+87	43	4	1	2702776=IfcBeam
+87	43	5	2	36314=IfcSlab	2702776=IfcBeam
+87	44	3	1	20204=IfcSlab
+87	44	4	1	2702776=IfcBeam
+87	44	5	2	36314=IfcSlab	2702776=IfcBeam
+87	45	3	1	20204=IfcSlab
+87	45	5	1	36314=IfcSlab
+88	25	5	1	36314=IfcSlab
+88	26	5	1	36314=IfcSlab
+88	27	5	1	36314=IfcSlab
+88	28	5	1	36314=IfcSlab
+88	29	5	1	36314=IfcSlab
+88	30	5	1	36314=IfcSlab
+88	31	5	1	36314=IfcSlab
+88	32	5	1	36314=IfcSlab
+88	33	5	1	36314=IfcSlab
+88	34	3	1	20204=IfcSlab
+88	34	5	1	36314=IfcSlab
+88	35	3	1	20204=IfcSlab
+88	35	5	1	36314=IfcSlab
+88	36	3	1	20204=IfcSlab
+88	36	5	1	36314=IfcSlab
+88	37	3	1	20204=IfcSlab
+88	37	5	1	36314=IfcSlab
+88	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+88	38	5	1	36314=IfcSlab
+88	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+88	39	5	1	36314=IfcSlab
+88	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+88	40	5	1	36314=IfcSlab
+88	41	3	1	20204=IfcSlab
+88	41	5	1	36314=IfcSlab
+88	42	3	1	20204=IfcSlab
+88	42	5	1	36314=IfcSlab
+88	43	3	2	20204=IfcSlab	2130780=IfcBeam
+88	43	4	1	2702776=IfcBeam
+88	43	5	2	36314=IfcSlab	2702776=IfcBeam
+88	44	3	1	20204=IfcSlab
+88	44	4	1	2702776=IfcBeam
+88	44	5	2	36314=IfcSlab	2702776=IfcBeam
+88	45	3	1	20204=IfcSlab
+88	45	5	1	36314=IfcSlab
+89	25	5	1	36314=IfcSlab
+89	26	5	1	36314=IfcSlab
+89	27	5	1	36314=IfcSlab
+89	28	5	1	36314=IfcSlab
+89	29	5	1	36314=IfcSlab
+89	30	5	1	36314=IfcSlab
+89	31	5	1	36314=IfcSlab
+89	32	5	1	36314=IfcSlab
+89	33	5	1	36314=IfcSlab
+89	34	3	1	20204=IfcSlab
+89	34	5	1	36314=IfcSlab
+89	35	3	1	20204=IfcSlab
+89	35	5	1	36314=IfcSlab
+89	36	3	1	20204=IfcSlab
+89	36	5	1	36314=IfcSlab
+89	37	3	1	20204=IfcSlab
+89	37	5	1	36314=IfcSlab
+89	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+89	38	5	1	36314=IfcSlab
+89	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+89	39	5	1	36314=IfcSlab
+89	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+89	40	5	1	36314=IfcSlab
+89	41	3	1	20204=IfcSlab
+89	41	5	1	36314=IfcSlab
+89	42	3	1	20204=IfcSlab
+89	42	5	1	36314=IfcSlab
+89	43	3	2	20204=IfcSlab	2130780=IfcBeam
+89	43	4	1	2702776=IfcBeam
+89	43	5	2	36314=IfcSlab	2702776=IfcBeam
+89	44	3	1	20204=IfcSlab
+89	44	4	1	2702776=IfcBeam
+89	44	5	2	36314=IfcSlab	2702776=IfcBeam
+89	45	3	1	20204=IfcSlab
+89	45	5	1	36314=IfcSlab
+90	24	5	1	36314=IfcSlab
+90	25	5	1	36314=IfcSlab
+90	26	5	1	36314=IfcSlab
+90	27	5	1	36314=IfcSlab
+90	28	5	1	36314=IfcSlab
+90	29	5	1	36314=IfcSlab
+90	30	5	1	36314=IfcSlab
+90	31	5	1	36314=IfcSlab
+90	32	5	1	36314=IfcSlab
+90	33	5	1	36314=IfcSlab
+90	34	3	1	20204=IfcSlab
+90	34	5	1	36314=IfcSlab
+90	35	3	1	20204=IfcSlab
+90	35	5	1	36314=IfcSlab
+90	36	3	1	20204=IfcSlab
+90	36	5	1	36314=IfcSlab
+90	37	3	1	20204=IfcSlab
+90	37	5	1	36314=IfcSlab
+90	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+90	38	5	1	36314=IfcSlab
+90	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+90	39	5	1	36314=IfcSlab
+90	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+90	40	5	1	36314=IfcSlab
+90	41	3	1	20204=IfcSlab
+90	41	5	1	36314=IfcSlab
+90	42	3	1	20204=IfcSlab
+90	42	5	1	36314=IfcSlab
+90	43	3	2	20204=IfcSlab	2130780=IfcBeam
+90	43	4	1	2702776=IfcBeam
+90	43	5	2	36314=IfcSlab	2702776=IfcBeam
+90	44	3	1	20204=IfcSlab
+90	44	4	1	2702776=IfcBeam
+90	44	5	2	36314=IfcSlab	2702776=IfcBeam
+90	45	3	1	20204=IfcSlab
+90	45	5	1	36314=IfcSlab
+91	23	5	1	36314=IfcSlab
+91	24	5	1	36314=IfcSlab
+91	25	5	1	36314=IfcSlab
+91	26	5	1	36314=IfcSlab
+91	27	5	1	36314=IfcSlab
+91	28	5	1	36314=IfcSlab
+91	29	5	1	36314=IfcSlab
+91	30	5	1	36314=IfcSlab
+91	31	5	1	36314=IfcSlab
+91	32	5	1	36314=IfcSlab
+91	33	5	1	36314=IfcSlab
+91	34	3	1	20204=IfcSlab
+91	34	5	1	36314=IfcSlab
+91	35	3	1	20204=IfcSlab
+91	35	5	1	36314=IfcSlab
+91	36	3	1	20204=IfcSlab
+91	36	5	1	36314=IfcSlab
+91	37	3	1	20204=IfcSlab
+91	37	5	1	36314=IfcSlab
+91	38	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+91	38	5	1	36314=IfcSlab
+91	39	3	3	20204=IfcSlab	14161=IfcBeam	2680433=IfcBeam
+91	39	5	1	36314=IfcSlab
+91	40	3	3	20204=IfcSlab	13773=IfcBeam	2679166=IfcBeam
+91	40	5	1	36314=IfcSlab
+91	41	3	1	20204=IfcSlab
+91	41	5	1	36314=IfcSlab
+91	42	3	1	20204=IfcSlab
+91	42	5	1	36314=IfcSlab
+91	43	3	2	20204=IfcSlab	2130780=IfcBeam
+91	43	4	1	2702776=IfcBeam
+91	43	5	2	36314=IfcSlab	2702776=IfcBeam
+91	44	3	1	20204=IfcSlab
+91	44	4	1	2702776=IfcBeam
+91	44	5	2	36314=IfcSlab	2702776=IfcBeam
+91	45	3	1	20204=IfcSlab
+91	45	5	1	36314=IfcSlab
+92	22	5	1	36314=IfcSlab
+92	23	5	1	36314=IfcSlab
+92	24	5	1	36314=IfcSlab
+92	25	5	1	36314=IfcSlab
+92	26	5	1	36314=IfcSlab
+92	27	5	1	36314=IfcSlab
+92	28	5	1	36314=IfcSlab
+92	29	5	1	36314=IfcSlab
+92	30	5	1	36314=IfcSlab
+92	31	5	1	36314=IfcSlab
+92	32	5	1	36314=IfcSlab
+92	33	5	1	36314=IfcSlab
+92	34	3	1	20204=IfcSlab
+92	34	5	1	36314=IfcSlab
+92	35	3	1	20204=IfcSlab
+92	35	5	1	36314=IfcSlab
+92	36	3	1	20204=IfcSlab
+92	36	5	1	36314=IfcSlab
+92	37	3	1	20204=IfcSlab
+92	37	5	1	36314=IfcSlab
+92	38	3	1	20204=IfcSlab
+92	38	5	1	36314=IfcSlab
+92	39	3	1	20204=IfcSlab
+92	39	5	1	36314=IfcSlab
+92	40	3	1	20204=IfcSlab
+92	40	5	1	36314=IfcSlab
+92	41	3	1	20204=IfcSlab
+92	41	5	1	36314=IfcSlab
+92	42	3	1	20204=IfcSlab
+92	42	5	1	36314=IfcSlab
+92	43	3	1	20204=IfcSlab
+92	43	5	1	36314=IfcSlab
+93	1	5	1	36314=IfcSlab
+93	2	5	1	36314=IfcSlab
+93	3	5	1	36314=IfcSlab
+93	4	5	1	36314=IfcSlab
+93	5	5	1	36314=IfcSlab
+93	6	5	1	36314=IfcSlab
+93	7	5	1	36314=IfcSlab
+93	8	5	1	36314=IfcSlab
+93	9	5	1	36314=IfcSlab
+93	10	5	1	36314=IfcSlab
+93	11	5	1	36314=IfcSlab
+93	12	5	1	36314=IfcSlab
+93	13	5	1	36314=IfcSlab
+93	14	5	1	36314=IfcSlab
+93	15	5	1	36314=IfcSlab
+93	16	5	1	36314=IfcSlab
+93	17	5	1	36314=IfcSlab
+93	18	5	1	36314=IfcSlab
+93	19	5	1	36314=IfcSlab
+93	20	5	1	36314=IfcSlab
+93	21	5	1	36314=IfcSlab
+93	22	5	1	36314=IfcSlab
+93	23	5	1	36314=IfcSlab
+93	24	5	1	36314=IfcSlab
+93	25	5	1	36314=IfcSlab
+93	26	5	1	36314=IfcSlab
+93	27	5	1	36314=IfcSlab
+93	28	5	1	36314=IfcSlab
+93	29	5	1	36314=IfcSlab
+93	30	5	1	36314=IfcSlab
+93	31	5	1	36314=IfcSlab
+93	32	5	1	36314=IfcSlab
+93	33	5	1	36314=IfcSlab
+93	34	3	1	20204=IfcSlab
+93	34	5	1	36314=IfcSlab
+93	35	3	1	20204=IfcSlab
+93	35	5	1	36314=IfcSlab
+93	36	3	1	20204=IfcSlab
+93	36	5	1	36314=IfcSlab
+93	37	3	1	20204=IfcSlab
+93	37	5	1	36314=IfcSlab
+93	38	3	1	20204=IfcSlab
+93	38	5	1	36314=IfcSlab
+93	39	3	1	20204=IfcSlab
+93	39	5	1	36314=IfcSlab
+93	40	3	1	20204=IfcSlab
+93	40	5	1	36314=IfcSlab
+93	41	3	1	20204=IfcSlab
+93	41	5	1	36314=IfcSlab
+93	42	3	1	20204=IfcSlab
+93	42	5	1	36314=IfcSlab
+93	43	3	1	20204=IfcSlab
+93	43	5	1	36314=IfcSlab
+94	1	5	1	36314=IfcSlab
+94	2	5	1	36314=IfcSlab
+94	3	5	1	36314=IfcSlab
+94	4	5	1	36314=IfcSlab
+94	5	5	1	36314=IfcSlab
+94	6	5	1	36314=IfcSlab
+94	7	5	1	36314=IfcSlab
+94	8	5	1	36314=IfcSlab
+94	9	5	1	36314=IfcSlab
+94	10	5	1	36314=IfcSlab
+94	11	5	1	36314=IfcSlab
+94	12	5	1	36314=IfcSlab
+94	13	5	1	36314=IfcSlab
+94	14	5	1	36314=IfcSlab
+94	15	5	1	36314=IfcSlab
+94	16	5	1	36314=IfcSlab
+94	17	5	1	36314=IfcSlab
+94	18	5	1	36314=IfcSlab
+94	19	5	1	36314=IfcSlab
+94	20	5	1	36314=IfcSlab
+94	21	5	1	36314=IfcSlab
+94	22	5	1	36314=IfcSlab
+94	23	5	1	36314=IfcSlab
+94	24	5	1	36314=IfcSlab
+94	25	5	1	36314=IfcSlab
+94	26	5	1	36314=IfcSlab
+94	27	5	1	36314=IfcSlab
+94	28	5	1	36314=IfcSlab
+94	29	5	1	36314=IfcSlab
+94	30	5	1	36314=IfcSlab
+94	31	5	1	36314=IfcSlab
+94	32	5	1	36314=IfcSlab
+94	33	5	1	36314=IfcSlab
+94	34	3	1	20204=IfcSlab
+94	34	5	1	36314=IfcSlab
+94	35	3	1	20204=IfcSlab
+94	35	5	1	36314=IfcSlab
+94	36	3	1	20204=IfcSlab
+94	36	5	1	36314=IfcSlab
+94	37	3	1	20204=IfcSlab
+94	37	5	1	36314=IfcSlab
+94	38	3	1	20204=IfcSlab
+94	38	5	1	36314=IfcSlab
+94	39	3	1	20204=IfcSlab
+94	39	5	1	36314=IfcSlab
+94	40	3	1	20204=IfcSlab
+94	40	5	1	36314=IfcSlab
+94	41	3	1	20204=IfcSlab
+94	41	5	1	36314=IfcSlab
+94	42	3	1	20204=IfcSlab
+94	42	5	1	36314=IfcSlab
+94	43	3	1	20204=IfcSlab
+94	43	5	1	36314=IfcSlab
+95	1	5	1	36314=IfcSlab
+95	2	5	1	36314=IfcSlab
+95	3	5	1	36314=IfcSlab
+95	4	5	1	36314=IfcSlab
+95	5	5	1	36314=IfcSlab
+95	6	5	1	36314=IfcSlab
+95	7	5	1	36314=IfcSlab
+95	8	5	1	36314=IfcSlab
+95	9	5	1	36314=IfcSlab
+95	10	5	1	36314=IfcSlab
+95	11	5	1	36314=IfcSlab
+95	12	5	1	36314=IfcSlab
+95	13	5	1	36314=IfcSlab
+95	14	5	1	36314=IfcSlab
+95	15	5	1	36314=IfcSlab
+95	16	5	1	36314=IfcSlab
+95	17	5	1	36314=IfcSlab
+95	18	5	1	36314=IfcSlab
+95	19	5	1	36314=IfcSlab
+95	20	5	1	36314=IfcSlab
+95	21	5	1	36314=IfcSlab
+95	22	5	1	36314=IfcSlab
+95	23	5	1	36314=IfcSlab
+95	24	5	1	36314=IfcSlab
+95	25	5	1	36314=IfcSlab
+95	26	5	1	36314=IfcSlab
+95	27	5	1	36314=IfcSlab
+95	28	5	1	36314=IfcSlab
+95	29	5	1	36314=IfcSlab
+95	30	5	1	36314=IfcSlab
+95	31	5	1	36314=IfcSlab
+95	32	5	1	36314=IfcSlab
+95	33	5	1	36314=IfcSlab
+95	34	3	1	20204=IfcSlab
+95	34	5	1	36314=IfcSlab
+95	35	3	1	20204=IfcSlab
+95	35	5	1	36314=IfcSlab
+95	36	3	1	20204=IfcSlab
+95	36	5	1	36314=IfcSlab
+95	37	3	1	20204=IfcSlab
+95	37	5	1	36314=IfcSlab
+95	38	3	1	20204=IfcSlab
+95	38	5	1	36314=IfcSlab
+95	39	3	1	20204=IfcSlab
+95	39	5	1	36314=IfcSlab
+95	40	3	1	20204=IfcSlab
+95	40	5	1	36314=IfcSlab
+95	41	3	1	20204=IfcSlab
+95	41	5	1	36314=IfcSlab
+95	42	3	1	20204=IfcSlab
+95	42	5	1	36314=IfcSlab
+95	43	3	1	20204=IfcSlab
+95	43	5	1	36314=IfcSlab
+96	1	5	1	36314=IfcSlab
+96	2	5	1	36314=IfcSlab
+96	3	5	1	36314=IfcSlab
+96	4	5	1	36314=IfcSlab
+96	5	5	1	36314=IfcSlab
+96	6	5	1	36314=IfcSlab
+96	7	5	1	36314=IfcSlab
+96	8	5	1	36314=IfcSlab
+96	9	5	1	36314=IfcSlab
+96	10	5	1	36314=IfcSlab
+96	11	5	1	36314=IfcSlab
+96	12	5	1	36314=IfcSlab
+96	13	5	1	36314=IfcSlab
+96	14	5	1	36314=IfcSlab
+96	15	5	1	36314=IfcSlab
+96	16	5	1	36314=IfcSlab
+96	17	5	1	36314=IfcSlab
+96	18	5	1	36314=IfcSlab
+96	19	5	1	36314=IfcSlab
+96	20	5	1	36314=IfcSlab
+96	21	5	1	36314=IfcSlab
+96	22	5	1	36314=IfcSlab
+96	23	5	1	36314=IfcSlab
+96	24	5	1	36314=IfcSlab
+96	25	5	1	36314=IfcSlab
+96	26	5	1	36314=IfcSlab
+96	27	5	1	36314=IfcSlab
+96	28	5	1	36314=IfcSlab
+96	29	5	1	36314=IfcSlab
+96	30	5	1	36314=IfcSlab
+96	31	5	1	36314=IfcSlab
+96	32	5	1	36314=IfcSlab
+96	33	5	1	36314=IfcSlab
+96	34	3	1	20204=IfcSlab
+96	34	5	1	36314=IfcSlab
+96	35	3	1	20204=IfcSlab
+96	35	5	1	36314=IfcSlab
+96	36	3	1	20204=IfcSlab
+96	36	5	1	36314=IfcSlab
+96	37	3	1	20204=IfcSlab
+96	37	5	1	36314=IfcSlab
+96	38	3	1	20204=IfcSlab
+96	38	5	1	36314=IfcSlab
+96	39	3	1	20204=IfcSlab
+96	39	5	1	36314=IfcSlab
+96	40	3	1	20204=IfcSlab
+96	40	5	1	36314=IfcSlab
+96	41	3	1	20204=IfcSlab
+96	41	5	1	36314=IfcSlab
+96	42	3	1	20204=IfcSlab
+96	42	5	1	36314=IfcSlab
+96	43	3	1	20204=IfcSlab
+96	43	5	1	36314=IfcSlab
+97	1	5	1	36314=IfcSlab
+97	2	5	1	36314=IfcSlab
+97	3	5	1	36314=IfcSlab
+97	4	5	1	36314=IfcSlab
+97	5	5	1	36314=IfcSlab
+97	6	5	1	36314=IfcSlab
+97	7	5	1	36314=IfcSlab
+97	8	5	1	36314=IfcSlab
+97	9	5	1	36314=IfcSlab
+97	10	5	1	36314=IfcSlab
+97	11	5	1	36314=IfcSlab
+97	12	5	1	36314=IfcSlab
+97	13	5	1	36314=IfcSlab
+97	14	5	1	36314=IfcSlab
+97	15	5	1	36314=IfcSlab
+97	16	5	1	36314=IfcSlab
+97	17	5	1	36314=IfcSlab
+97	18	5	1	36314=IfcSlab
+97	19	5	1	36314=IfcSlab
+97	20	5	1	36314=IfcSlab
+97	21	5	1	36314=IfcSlab
+97	22	5	1	36314=IfcSlab
+97	23	5	1	36314=IfcSlab
+97	24	5	1	36314=IfcSlab
+97	25	5	1	36314=IfcSlab
+97	26	5	1	36314=IfcSlab
+97	27	5	1	36314=IfcSlab
+97	28	5	1	36314=IfcSlab
+97	29	5	1	36314=IfcSlab
+97	30	5	1	36314=IfcSlab
+97	31	5	1	36314=IfcSlab
+97	32	5	1	36314=IfcSlab
+97	33	5	1	36314=IfcSlab
+97	34	3	1	20204=IfcSlab
+97	34	5	1	36314=IfcSlab
+97	35	3	1	20204=IfcSlab
+97	35	5	1	36314=IfcSlab
+97	36	3	1	20204=IfcSlab
+97	36	5	1	36314=IfcSlab
+97	37	3	1	20204=IfcSlab
+97	37	5	1	36314=IfcSlab
+97	38	3	1	20204=IfcSlab
+97	38	5	1	36314=IfcSlab
+97	39	3	1	20204=IfcSlab
+97	39	5	1	36314=IfcSlab
+97	40	3	1	20204=IfcSlab
+97	40	5	1	36314=IfcSlab
+97	41	3	1	20204=IfcSlab
+97	41	5	1	36314=IfcSlab
+97	42	3	1	20204=IfcSlab
+97	42	5	1	36314=IfcSlab
+97	43	3	1	20204=IfcSlab
+97	43	5	1	36314=IfcSlab
+98	1	5	1	36314=IfcSlab
+98	2	5	1	36314=IfcSlab
+98	3	5	1	36314=IfcSlab
+98	4	5	1	36314=IfcSlab
+98	5	5	1	36314=IfcSlab
+98	6	5	1	36314=IfcSlab
+98	7	5	1	36314=IfcSlab
+98	8	5	1	36314=IfcSlab
+98	9	5	1	36314=IfcSlab
+98	10	5	1	36314=IfcSlab
+98	11	5	1	36314=IfcSlab
+98	12	5	1	36314=IfcSlab
+98	13	5	1	36314=IfcSlab
+98	14	5	1	36314=IfcSlab
+98	15	5	1	36314=IfcSlab
+98	16	5	1	36314=IfcSlab
+98	17	5	1	36314=IfcSlab
+98	18	5	1	36314=IfcSlab
+98	19	5	1	36314=IfcSlab
+98	20	5	1	36314=IfcSlab
+98	21	5	1	36314=IfcSlab
+98	22	5	1	36314=IfcSlab
+98	23	5	1	36314=IfcSlab
+98	24	5	1	36314=IfcSlab
+98	25	5	1	36314=IfcSlab
+98	26	5	1	36314=IfcSlab
+98	27	5	1	36314=IfcSlab
+98	28	5	1	36314=IfcSlab
+98	29	5	1	36314=IfcSlab
+98	30	5	1	36314=IfcSlab
+98	31	5	1	36314=IfcSlab
+98	32	5	1	36314=IfcSlab
+98	33	5	1	36314=IfcSlab
+98	34	3	1	20204=IfcSlab
+98	34	5	1	36314=IfcSlab
+98	35	3	1	20204=IfcSlab
+98	35	5	1	36314=IfcSlab
+98	36	3	1	20204=IfcSlab
+98	36	5	1	36314=IfcSlab
+98	37	3	1	20204=IfcSlab
+98	37	5	1	36314=IfcSlab
+98	38	3	1	20204=IfcSlab
+98	38	5	1	36314=IfcSlab
+98	39	3	1	20204=IfcSlab
+98	39	5	1	36314=IfcSlab
+98	40	3	1	20204=IfcSlab
+98	40	5	1	36314=IfcSlab
+98	41	3	1	20204=IfcSlab
+98	41	5	1	36314=IfcSlab
+98	42	3	1	20204=IfcSlab
+98	43	3	1	20204=IfcSlab
+99	1	5	1	36314=IfcSlab
+99	2	5	1	36314=IfcSlab
+99	3	5	1	36314=IfcSlab
+99	4	5	1	36314=IfcSlab
+99	5	5	1	36314=IfcSlab
+99	6	5	1	36314=IfcSlab
+99	7	5	1	36314=IfcSlab
+99	8	5	1	36314=IfcSlab
+99	9	5	1	36314=IfcSlab
+99	10	5	1	36314=IfcSlab
+99	11	5	1	36314=IfcSlab
+99	12	5	1	36314=IfcSlab
+99	13	5	1	36314=IfcSlab
+99	14	5	1	36314=IfcSlab
+99	15	5	1	36314=IfcSlab
+99	16	5	1	36314=IfcSlab
+99	17	5	1	36314=IfcSlab
+99	18	5	1	36314=IfcSlab
+99	19	5	1	36314=IfcSlab
+99	20	5	1	36314=IfcSlab
+99	21	5	1	36314=IfcSlab
+99	22	5	1	36314=IfcSlab
+99	23	5	1	36314=IfcSlab
+99	24	5	1	36314=IfcSlab
+99	25	5	1	36314=IfcSlab
+99	26	5	1	36314=IfcSlab
+99	27	5	1	36314=IfcSlab
+99	28	5	1	36314=IfcSlab
+99	29	5	1	36314=IfcSlab
+99	30	5	1	36314=IfcSlab
+99	31	5	1	36314=IfcSlab
+99	32	5	1	36314=IfcSlab
+99	33	5	1	36314=IfcSlab
+99	34	3	1	20204=IfcSlab
+99	34	5	1	36314=IfcSlab
+99	35	3	1	20204=IfcSlab
+99	35	5	1	36314=IfcSlab
+99	36	3	1	20204=IfcSlab
+99	36	5	1	36314=IfcSlab
+99	37	3	1	20204=IfcSlab
+99	37	5	1	36314=IfcSlab
+99	38	3	1	20204=IfcSlab
+99	38	5	1	36314=IfcSlab
+99	39	3	1	20204=IfcSlab
+99	39	5	1	36314=IfcSlab
+99	40	3	1	20204=IfcSlab
+99	40	5	1	36314=IfcSlab
+99	41	3	1	20204=IfcSlab
+99	41	5	1	36314=IfcSlab
+99	42	3	1	20204=IfcSlab
+99	43	3	1	20204=IfcSlab
+100	1	5	1	36314=IfcSlab
+100	2	5	1	36314=IfcSlab
+100	3	5	1	36314=IfcSlab
+100	4	5	1	36314=IfcSlab
+100	5	5	1	36314=IfcSlab
+100	6	5	1	36314=IfcSlab
+100	7	5	1	36314=IfcSlab
+100	8	5	1	36314=IfcSlab
+100	9	5	1	36314=IfcSlab
+100	10	5	1	36314=IfcSlab
+100	11	5	1	36314=IfcSlab
+100	12	5	1	36314=IfcSlab
+100	13	5	1	36314=IfcSlab
+100	14	5	1	36314=IfcSlab
+100	15	5	1	36314=IfcSlab
+100	16	5	1	36314=IfcSlab
+100	17	5	1	36314=IfcSlab
+100	18	5	1	36314=IfcSlab
+100	19	5	1	36314=IfcSlab
+100	20	5	1	36314=IfcSlab
+100	21	5	1	36314=IfcSlab
+100	22	5	1	36314=IfcSlab
+100	23	5	1	36314=IfcSlab
+100	24	5	1	36314=IfcSlab
+100	25	5	1	36314=IfcSlab
+100	26	5	1	36314=IfcSlab
+100	27	5	1	36314=IfcSlab
+100	28	5	1	36314=IfcSlab
+100	29	5	1	36314=IfcSlab
+100	30	5	1	36314=IfcSlab
+100	31	5	1	36314=IfcSlab
+100	32	5	1	36314=IfcSlab
+100	33	5	1	36314=IfcSlab
+100	34	3	1	20204=IfcSlab
+100	34	5	1	36314=IfcSlab
+100	35	3	1	20204=IfcSlab
+100	35	5	1	36314=IfcSlab
+100	36	3	1	20204=IfcSlab
+100	36	5	1	36314=IfcSlab
+100	37	3	1	20204=IfcSlab
+100	37	5	1	36314=IfcSlab
+100	38	3	1	20204=IfcSlab
+100	38	5	1	36314=IfcSlab
+100	39	3	1	20204=IfcSlab
+100	39	5	1	36314=IfcSlab
+100	40	3	1	20204=IfcSlab
+100	40	5	1	36314=IfcSlab
+100	41	3	1	20204=IfcSlab
+100	41	5	1	36314=IfcSlab
+100	42	3	1	20204=IfcSlab
+100	43	3	1	20204=IfcSlab
+#	Voxel Record End
