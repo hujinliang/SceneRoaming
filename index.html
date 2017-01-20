@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>车公庙地铁站</title>
+    <script src="lib/stats.js"></script>
+    <script src="lib/Detector.js"></script>
+    <script src="lib/stringParser.js"></script>
+    <script src="lib/three.js"></script>
+    <script src="lib/OrbitControls.js"></script>
+    <script src="lib/FlyControls.js"></script>
+    <!--<script src="lib/TongFPS.js"></script>-->
+    <script src="lib/FingerFPC.js"></script>
+    <script src="lib/FirstPersonControls.js"></script>
+    <script src="lib/jquery-1.8.2.js"></script>
+    <script src="lib/Matrix4.js"></script>
+    <script src="lib/dat.gui.js"></script>
+    <script src="lib/BoxGeometry.js"></script>
+    <script src="lib/PathControls.js"></script>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/tongCss.css" />
+
+    <!--<script src="js/tongMainThread_MergeFile.js"></script>-->
+    <script src="js/tongMainThread_LoadAndDraw.js"></script>
+
+</head>
+<body>
+<div id="Stats-output">
+</div>
+<!-- Div which will hold the Output -->
+<div class="fingureControlBtn">
+    <button class="controlBtn" id="up">Up</button>
+    <button class="controlBtn" id="forward">Forward</button>
+    <button class="controlBtn" id="down">Down</button>
+    <button class="controlBtn" id="left">Left</button>
+    <button class="controlBtn" id="noneBtn" style="visibility: hidden">none</button>
+    <button class="controlBtn" id="right">Right</button>
+    <button class="controlBtn" id="leftsight">LeftSight</button>
+    <button class="controlBtn" id="backward">Back</button>
+    <button class="controlBtn" id="rightsight">RightSight</button>
+</div>
+<div id="WebGL-output" style="overflow: hidden;margin-right: 200px;">
+</div>
+<!--<div id="controller">-->
+    <!--<button id="start">start</button>-->
+    <!--<button id="stop">stop</button>-->
+<!--</div>-->
+<div id="mask" class="fade">
+    <div id="menu">
+        <div class="menu-header">
+            菜单
+            <spna id="close">&times;</spna>
+            <br clear="both">
+        </div>
+        <div class="menu-content">
+
+            <label>选择填充图</label>
+            <input type="radio" name="picture" value="assets/textures/2.jpg">
+            <img src="assets/textures/2.jpg">
+            <input type="radio" name="picture" value="assets/textures/3.jpg">
+            <img src="assets/textures/3.jpg">
+        </div>
+        <div class="menu-footer">
+            <button class="delete" id="delete">DELETE</button>
+            <button class="esc" id="esc">取消</button>
+            <button class="submit" id="submit">确定</button>
+            <br clear="both">
+        </div>
+        <br style="clear: both;">
+    </div>
+</div>
+<div id="progress" class="fade">
+    <div id="view">
+        <div class="view-header">
+            加载中，请稍候...
+        </div>
+        <div class="view-content" id="progressLable">
+            0%
+        </div>
+        <br style="clear: both;">
+    </div>
+</div>
+<div id="triggerUI" class="fade">
+    <div id="triggerMenu">
+        <div class="view-header">
+
+            <br clear="both">
+        </div>
+        <div class="view-content">
+            <label>是否跳转到下一区域？</label>
+        </div>
+        <div class="menu-footer">
+            <button class="esc" id="cancel">取消</button>
+            <button class="submit" id="triggerJump">确定</button>
+            <br clear="both">
+        </div>
+        <br style="clear: both;">
+    </div>
+</div>
+<div class="controller">
+    <button id="R0-1-2" class="btn btn-default btn-lg">R0-1-2</button>
+    <br>
+    <button  id="R0-1-4-R2-1-4" class="btn btn-default btn-lg">R0-1-4</button>
+    <br>
+    <button  id="R0-2-1-R0-2-2-R0-2-3" class="btn btn-default btn-lg">R0-2-1</button>
+    <br>
+    <button  id="R0-2-4-R2-2-1" class="btn btn-default btn-lg">R0-2-4</button>
+    <br>
+    <button  id="R0-3" class="btn btn-default btn-lg">R0-3-0</button>
+    <br>
+    <button  id="R1" class="btn btn-default btn-lg">R1-0-0</button>
+    <br>
+    <button  id="R2-1-1-R2-1-2" class="btn btn-default btn-lg">R2-1-1</button>
+    <br>
+    <button  id="R2-1-3-1" class="btn btn-default btn-lg">R2-131</button>
+    <br>
+    <button  id="R2-1-3-2" class="btn btn-default btn-lg">R0-132</button>
+    <br>
+    <button  id="R2-1-5-1" class="btn btn-default btn-lg">R2-151</button>
+    <br>
+    <button  id="R2-1-5-2" class="btn btn-default btn-lg">R2-152</button>
+    <br>
+    <button  id="R2-1-6" class="btn btn-default btn-lg">R2-1-6</button>
+    <br>
+    <button  id="R2-2" class="btn btn-default btn-lg">R2-2-0</button>
+    <br>
+    <button  id="W" class="btn btn-default btn-lg" style="color:#ffffff;background: #00baff">W0-0-0</button>
+    <br>
+</div>
+</body>
+</html>
