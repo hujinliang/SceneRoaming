@@ -1,0 +1,345 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+#WebGL-output{
+    overflow: hidden;
+
+}
+#mask{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    display: none;
+    /*background: #000;*/
+
+}
+#mask.fade{
+    background: rgba(0,0,0,0);
+    -webkit-transition: background .15s ease-in;
+    -moz-transition: background .15s ease-in;
+    -ms-transition: background .15s ease-in;
+    -o-transition: background .15s ease-in;
+    transition: background .15s ease-in;
+}
+#mask.fade.in{
+    background: rgba(0, 0, 0, 0.4);
+
+}
+#menu{
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    height: 400px;
+    margin-left: -300px;
+    margin-top: -200px;
+    /*background: red;*/
+    border: 1px solid dodgerblue;
+    background: #ffffff;
+    /*-webkit-transform: translate(-400px);*/
+    /*-moz-transform: translate(-400px);*/
+    /*-ms-transform: translate(-400px);*/
+    /*-o-transform: translate(-400px);*/
+
+
+}
+#mask.fade #menu{
+    transform: translate(0,-800px);
+    -webkit-transition: transform 1s ease-in;
+    -moz-transition: transform 2s ease-in;
+    -ms-transition: transform 2s ease-in;
+    -o-transition: transform 2s ease-in;
+    transition: transform 1s ease-in;
+}
+#mask.fade.in #menu{
+    -webkit-transform: translate(0, 0);
+    -moz-transform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    -o-transform: translate(0, 0);
+    transform: translate(0, 0);
+}
+.menu-header{
+    padding-left: 20px;
+    padding-right: 30px;
+    line-height: 80px;
+    height: 80px;
+    text-align: left;
+    font-size: 20px;
+    border-bottom: 1px solid #cccccc;
+}
+.menu-content{
+    height: 60%;
+    /*padding: 50px;*/
+    border: 1px solid #cccccc;
+
+}
+.menu-footer{
+    height: 20%;
+    /*padding: 50px;*/
+}
+#delete{
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    background: #d9534f;
+    border: 1px solid #d43f3a;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 14px;
+    color: #ffffff;
+
+}
+.submit{
+    float: right;
+    padding: 10px 20px;
+    display: block;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    margin-right: 7px;
+    margin-top: 14px;
+    background: #5cb85c;
+    border: 1px solid #5cb85c;
+    color: #ffffff;
+}
+.esc{
+    float: right;
+    padding: 10px 20px;
+    display: block;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    margin-right: 20px;
+    margin-top: 14px;
+    background: #f0ad4e;
+    border: 1px solid #f0ad4e;
+    color: #ffffff;
+}
+#close{
+    float: right;
+
+}
+#close:hover{
+    cursor: pointer;
+}
+label{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.menu-content img{
+    margin-top: 30px;
+
+    width: 100px;
+    height: auto;
+}
+
+#progress{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    display: none;
+    /*background: #000;*/
+
+}
+#progress.fade{
+    background: rgba(0,0,0,0);
+    -webkit-transition: background .15s ease-in;
+    -moz-transition: background .15s ease-in;
+    -ms-transition: background .15s ease-in;
+    -o-transition: background .15s ease-in;
+    transition: background .15s ease-in;
+}
+#progress.fade.in{
+    background: rgba(0, 0, 0, 0.4);
+
+}
+#view{
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    height: 400px;
+    margin-left: -300px;
+    margin-top: -200px;
+    /*background: red;*/
+    border: 1px solid dodgerblue;
+    background: #ffffff;
+    /*-webkit-transform: translate(-400px);*/
+    /*-moz-transform: translate(-400px);*/
+    /*-ms-transform: translate(-400px);*/
+    /*-o-transform: translate(-400px);*/
+
+
+}
+#progress.fade #view{
+    transform: translate(0,-800px);
+    -webkit-transition: transform 1s ease-in;
+    -moz-transition: transform 2s ease-in;
+    -ms-transition: transform 2s ease-in;
+    -o-transition: transform 2s ease-in;
+    transition: transform 1s ease-in;
+}
+#progress.fade.in #view{
+    -webkit-transform: translate(0, 0);
+    -moz-transform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    -o-transform: translate(0, 0);
+    transform: translate(0, 0);
+}
+.view-header{
+    padding-left: 20px;
+    padding-right: 30px;
+    line-height: 80px;
+    height: 80px;
+    text-align: center;
+    font-size: 20px;
+    border-bottom: 1px solid #cccccc;
+}
+.view-content{
+    height: 60%;
+    /*padding: 50px;*/
+    border: 2px solid #cccccc;
+    line-height:200px;
+    text-align: center;
+    font-size: 48px;
+}
+.view-footer{
+    height: 20%;
+    /*padding: 50px;*/
+}
+.view-content img{
+    margin-top: 30px;
+
+    width: 100px;
+    height: auto;
+}
+@media screen and (min-width:800px) {
+    #controller {
+        display: none;
+    }
+}
+@media screen and (max-width:800px){
+    #controller{
+        display:block;
+    }
+}
+#controller button{
+    float: left;
+    padding: 10px 20px;
+    display: block;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    margin-right: 7px;
+    margin-top: 14px;
+    background: #5cb85c;
+    border: 1px solid #5cb85c;
+    color: #ffffff;
+}
+#triggerUI{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    display: none;
+    /*background: #000;*/
+
+}
+#triggerUI.fade{
+    background: rgba(0,0,0,0);
+    -webkit-transition: background .15s ease-in;
+    -moz-transition: background .15s ease-in;
+    -ms-transition: background .15s ease-in;
+    -o-transition: background .15s ease-in;
+    transition: background .15s ease-in;
+}
+#triggerUI.fade.in{
+    background: rgba(0, 0, 0, 0.4);
+
+}
+#triggerMenu{
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    height: 400px;
+    margin-left: -300px;
+    margin-top: -200px;
+    /*background: red;*/
+    border: 1px solid dodgerblue;
+    background: #ffffff;
+    /*-webkit-transform: translate(-400px);*/
+    /*-moz-transform: translate(-400px);*/
+    /*-ms-transform: translate(-400px);*/
+    /*-o-transform: translate(-400px);*/
+
+
+}
+#triggerUI.fade #triggerMenu{
+    transform: translate(0,-800px);
+    -webkit-transition: transform 1s ease-in;
+    -moz-transition: transform 2s ease-in;
+    -ms-transition: transform 2s ease-in;
+    -o-transition: transform 2s ease-in;
+    transition: transform 1s ease-in;
+}
+#triggerUI.fade.in #triggerMenu{
+    -webkit-transform: translate(0, 0);
+    -moz-transform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    -o-transform: translate(0, 0);
+    transform: translate(0, 0);
+}
+.controller{
+    overflow: scroll;
+    position: fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    width:200px;
+    background: #cccccc;
+    padding-top: 40px;
+    padding-left:40px;
+}
+.controller button{
+    margin-top:20px;
+}
+#gui { position: absolute; top: 2px; left: 80px;height: 60px }
+
+.fingureControlBtn{
+    bottom: 20px;
+    left: 20px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
+
+.controlBtn{
+    width: 60px;
+    height: 60px;
+}
